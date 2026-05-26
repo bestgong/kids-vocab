@@ -1,0 +1,6719 @@
+{
+  "total": 562,
+  "books": [
+    {
+      "title": "Big Pig on a Dig",
+      "cn": "大胖猪挖宝"
+    },
+    {
+      "title": "Ted in a Red Bed",
+      "cn": "小熊Ted的红床"
+    },
+    {
+      "title": "Sam Sheep can't Sleep",
+      "cn": "小绵羊睡不着"
+    },
+    {
+      "title": "Ted's Shed",
+      "cn": "小熊Ted的小屋"
+    },
+    {
+      "title": "Fox on a Box",
+      "cn": "箱子上的狐狸"
+    },
+    {
+      "title": "Shark in the Park",
+      "cn": "公园里的鲨鱼"
+    },
+    {
+      "title": "Goose on the Loose",
+      "cn": "横冲直撞的白鹅"
+    },
+    {
+      "title": "Fat Cat on a Mat",
+      "cn": "垫子上的胖猫"
+    },
+    {
+      "title": "Mouse Moves House",
+      "cn": "小老鼠搬家"
+    },
+    {
+      "title": "Hen's Pens",
+      "cn": "母鸡的画笔"
+    },
+    {
+      "title": "Frog on a Log",
+      "cn": "青蛙和圆木"
+    },
+    {
+      "title": "I Love My New Toy",
+      "cn": "我爱我的新玩具"
+    },
+    {
+      "title": "I Am Going",
+      "cn": "我要走了"
+    },
+    {
+      "title": "Are You Ready to Play Outside",
+      "cn": "准备好出去玩了吗"
+    },
+    {
+      "title": "Can I Play Too",
+      "cn": "我也能一起玩吗"
+    },
+    {
+      "title": "Pigs Make Me Sneeze",
+      "cn": "小猪让我打喷嚏"
+    },
+    {
+      "title": "Happy Pig Day",
+      "cn": "快乐小猪节"
+    },
+    {
+      "title": "I Am Invited to a Party",
+      "cn": "我受邀参加派对"
+    },
+    {
+      "title": "My Friend is Sad",
+      "cn": "我的朋友不开心"
+    },
+    {
+      "title": "Listen to My Trumpet",
+      "cn": "听我吹小号"
+    },
+    {
+      "title": "I Really Like Slop",
+      "cn": "我超爱泔水"
+    },
+    {
+      "title": "There Is a Bird on Your Head",
+      "cn": "你头上有只鸟"
+    },
+    {
+      "title": "Watch Me Throw the Ball",
+      "cn": "看我扔球"
+    },
+    {
+      "title": "Let's Go For a Drive",
+      "cn": "我们去兜风吧"
+    },
+    {
+      "title": "My New Friend Is So Fun",
+      "cn": "我的新朋友真好玩"
+    },
+    {
+      "title": "I'm a Frog",
+      "cn": "我是一只青蛙"
+    },
+    {
+      "title": "Should I Share My Ice Cream",
+      "cn": "我该分享冰淇淋吗"
+    },
+    {
+      "title": "I Will Take a Nap",
+      "cn": "我要睡个午觉"
+    },
+    {
+      "title": "I Broke My Trunk",
+      "cn": "我弄断了鼻子"
+    },
+    {
+      "title": "The Thank You Book",
+      "cn": "感谢书"
+    }
+  ],
+  "words": [
+    {
+      "word": "letter",
+      "pos": "n",
+      "meaning": "信，信函",
+      "examples": [
+        "Big Pig gets a letter."
+      ],
+      "books": [
+        "Big Pig on a Dig"
+      ]
+    },
+    {
+      "word": "look for",
+      "pos": "phrase",
+      "meaning": "寻找",
+      "examples": [
+        "Look for this hat.",
+        "Pig is looking for Pup the dog."
+      ],
+      "books": [
+        "Big Pig on a Dig",
+        "Frog on a Log"
+      ]
+    },
+    {
+      "word": "map",
+      "pos": "n",
+      "meaning": "地图",
+      "examples": [
+        "There is a map in the hat.",
+        "Fat Cat! Look at the map in this hat.",
+        "Big Pig sees three green trees on the map."
+      ],
+      "books": [
+        "Big Pig on a Dig",
+        "Let's Go For a Drive"
+      ]
+    },
+    {
+      "word": "show",
+      "pos": "v",
+      "meaning": "显示，表明；给……看",
+      "examples": [
+        "It shows where to dig, Fat Cat."
+      ],
+      "books": [
+        "Big Pig on a Dig"
+      ]
+    },
+    {
+      "word": "dig",
+      "pos": "n",
+      "meaning": "考古发掘",
+      "examples": [
+        "Big Pig on A Dig",
+        "It shows where to dig, Fat Cat.",
+        "Where to dig? Dig for what, Big Pig?"
+      ],
+      "books": [
+        "Big Pig on a Dig"
+      ]
+    },
+    {
+      "word": "grunt",
+      "pos": "v",
+      "meaning": "（表示不愿意讲话时）发出哼声，嘟哝着说",
+      "examples": [
+        "Gold!\" grunts Big Pig,“ Old gold."
+      ],
+      "books": [
+        "Big Pig on a Dig"
+      ]
+    },
+    {
+      "word": "nap",
+      "pos": "v",
+      "meaning": "小睡，打盹",
+      "examples": [
+        "But I am a cat. Cats need to nap. I am a napping cat.",
+        "Let me nap and dream of cream."
+      ],
+      "books": [
+        "Big Pig on a Dig"
+      ]
+    },
+    {
+      "word": "dream",
+      "pos": "n",
+      "meaning": "做梦",
+      "examples": [
+        "Let me nap and dream of cream."
+      ],
+      "books": [
+        "Big Pig on a Dig"
+      ]
+    },
+    {
+      "word": "cream",
+      "pos": "n",
+      "meaning": "奶油",
+      "examples": [
+        "Let me nap and dream of cream."
+      ],
+      "books": [
+        "Big Pig on a Dig"
+      ]
+    },
+    {
+      "word": "pop on",
+      "pos": "phrase",
+      "meaning": "瞬间出现（这里指戴上了假发这个动作）",
+      "examples": [
+        "Big Pig is happy. He pops on a wig."
+      ],
+      "books": [
+        "Big Pig on a Dig"
+      ]
+    },
+    {
+      "word": "wig",
+      "pos": "n",
+      "meaning": "假发",
+      "examples": [
+        "Big Pig is happy. He pops on a wig."
+      ],
+      "books": [
+        "Big Pig on a Dig"
+      ]
+    },
+    {
+      "word": "hop on",
+      "pos": "phrase",
+      "meaning": "快速移动到某位置或某地（这里指挥舞树枝的动作）",
+      "examples": [
+        "He hops on a twig. He can go on a dig!"
+      ],
+      "books": [
+        "Big Pig on a Dig"
+      ]
+    },
+    {
+      "word": "twig",
+      "pos": "n",
+      "meaning": "树枝，小枝，嫩枝",
+      "examples": [
+        "He hops on a twig. He can go on a dig!"
+      ],
+      "books": [
+        "Big Pig on a Dig"
+      ]
+    },
+    {
+      "word": "go on",
+      "pos": "phrase",
+      "meaning": "继续",
+      "examples": [
+        "He hops on a twig. He can go on a dig!",
+        "Uh... Go on!"
+      ],
+      "books": [
+        "Big Pig on a Dig",
+        "Listen to My Trumpet"
+      ]
+    },
+    {
+      "word": "in the ground",
+      "pos": "phrase",
+      "meaning": "在地下（掩埋着的）；在土里",
+      "examples": [
+        "What has Big Pig found down in the ground?"
+      ],
+      "books": [
+        "Big Pig on a Dig"
+      ]
+    },
+    {
+      "word": "funny",
+      "pos": "adj",
+      "meaning": "有趣的，滑稽的",
+      "examples": [
+        "It's Funny Bunny.",
+        "Is Frog trying to be funny?",
+        "You are a funny snake!"
+      ],
+      "books": [
+        "Big Pig on a Dig",
+        "Frog on a Log",
+        "Can I Play Too",
+        "My Friend is Sad"
+      ]
+    },
+    {
+      "word": "grin",
+      "pos": "v",
+      "meaning": "露齿而笑，咧着嘴笑",
+      "examples": [
+        "There is no old gold here.” Fat Cat grins.",
+        "Big Pig grins,“ Digging is fun, too!",
+        "I need this bed, Fred!” grins Ted."
+      ],
+      "books": [
+        "Big Pig on a Dig",
+        "Ted in a Red Bed"
+      ]
+    },
+    {
+      "word": "draw",
+      "pos": "v",
+      "meaning": "画画",
+      "examples": [
+        "I drew the map for fun,\" she says.",
+        "What will you draw?\" \"Straw...",
+        "Drawing patterns is what I like best."
+      ],
+      "books": [
+        "Big Pig on a Dig",
+        "Hen's Pens"
+      ]
+    },
+    {
+      "word": "fun",
+      "pos": "n",
+      "meaning": "嬉戏，玩笑",
+      "examples": [
+        "I drew the map for fun,\" she says.",
+        "Big Pig grins,“ Digging is fun, too!",
+        "That is a fun toy."
+      ],
+      "books": [
+        "Big Pig on a Dig",
+        "I Love My New Toy",
+        "I Am Going"
+      ]
+    },
+    {
+      "word": "shop",
+      "pos": "v",
+      "meaning": "购物",
+      "examples": [
+        "Ted likes to shop."
+      ],
+      "books": [
+        "Ted in a Red Bed"
+      ]
+    },
+    {
+      "word": "stop",
+      "pos": "v",
+      "meaning": "停止",
+      "examples": [
+        "Ted stops. Ted hops.",
+        "NOTHING CAN STOP US!",
+        "and now the rain has stopped!"
+      ],
+      "books": [
+        "Ted in a Red Bed",
+        "Are You Ready to Play Outside"
+      ]
+    },
+    {
+      "word": "hop",
+      "pos": "v",
+      "meaning": "单脚跳；（鸟、小动物）双脚跳",
+      "examples": [
+        "Ted stops. Ted hops."
+      ],
+      "books": [
+        "Ted in a Red Bed"
+      ]
+    },
+    {
+      "word": "wood",
+      "pos": "n",
+      "meaning": "木头，木材，木料",
+      "examples": [
+        "I like red wood. Red wood is good."
+      ],
+      "books": [
+        "Ted in a Red Bed"
+      ]
+    },
+    {
+      "word": "go into",
+      "pos": "phrase",
+      "meaning": "进入",
+      "examples": [
+        "He goes into the store."
+      ],
+      "books": [
+        "Ted in a Red Bed"
+      ]
+    },
+    {
+      "word": "store",
+      "pos": "n",
+      "meaning": "商店",
+      "examples": [
+        "He goes into the store.",
+        "He’s not in the store any more."
+      ],
+      "books": [
+        "Ted in a Red Bed"
+      ]
+    },
+    {
+      "word": "try",
+      "pos": "v",
+      "meaning": "试，试用，尝试",
+      "examples": [
+        "Try the red bed,” says Fred.",
+        "We can try."
+      ],
+      "books": [
+        "Ted in a Red Bed",
+        "Are You Ready to Play Outside"
+      ]
+    },
+    {
+      "word": "slip",
+      "pos": "v",
+      "meaning": "滑，陷入（第三人称单数形式",
+      "examples": [
+        "Ted slips his feet under the sheet."
+      ],
+      "books": [
+        "Ted in a Red Bed"
+      ]
+    },
+    {
+      "word": "sheet",
+      "pos": "n",
+      "meaning": "床单，被单",
+      "examples": [
+        "Ted slips his feet under the sheet."
+      ],
+      "books": [
+        "Ted in a Red Bed"
+      ]
+    },
+    {
+      "word": "pillow",
+      "pos": "n",
+      "meaning": "枕头",
+      "examples": [
+        "He flops on the pillow.",
+        "The pillow is yellow."
+      ],
+      "books": [
+        "Ted in a Red Bed"
+      ]
+    },
+    {
+      "word": "sleepy",
+      "pos": "adj",
+      "meaning": "困倦的，想睡的",
+      "examples": [
+        "Ted feels sleepy."
+      ],
+      "books": [
+        "Ted in a Red Bed"
+      ]
+    },
+    {
+      "word": "asleep",
+      "pos": "adj",
+      "meaning": "睡着的",
+      "examples": [
+        "Ted falls asleep.",
+        "Ted is asleep in his red bed.",
+        "Sam Sheep is asleep!"
+      ],
+      "books": [
+        "Ted in a Red Bed",
+        "Sam Sheep can't Sleep"
+      ]
+    },
+    {
+      "word": "bob",
+      "pos": "v",
+      "meaning": "（使在水中）上下快速移动第三",
+      "examples": [
+        "He bobs on a wave into a cave.",
+        "He bobs down a stream."
+      ],
+      "books": [
+        "Ted in a Red Bed"
+      ]
+    },
+    {
+      "word": "stream",
+      "pos": "n",
+      "meaning": "小河，小溪",
+      "examples": [
+        "He bobs down a stream.",
+        "He is back by the stream."
+      ],
+      "books": [
+        "Ted in a Red Bed"
+      ]
+    },
+    {
+      "word": "wave",
+      "pos": "n",
+      "meaning": "浪潮，波",
+      "examples": [
+        "He bobs on a wave into a cave."
+      ],
+      "books": [
+        "Ted in a Red Bed"
+      ]
+    },
+    {
+      "word": "cave",
+      "pos": "n",
+      "meaning": "洞穴，山洞",
+      "examples": [
+        "He bobs on a wave into a cave."
+      ],
+      "books": [
+        "Ted in a Red Bed"
+      ]
+    },
+    {
+      "word": "fly",
+      "pos": "v",
+      "meaning": "飞，飞翔",
+      "examples": [
+        "He can fly in the sky!"
+      ],
+      "books": [
+        "Ted in a Red Bed"
+      ]
+    },
+    {
+      "word": "by",
+      "pos": "prep",
+      "meaning": "由，被",
+      "examples": [
+        "He is back by the stream."
+      ],
+      "books": [
+        "Ted in a Red Bed"
+      ]
+    },
+    {
+      "word": "wake up",
+      "pos": "phrase",
+      "meaning": "醒来",
+      "examples": [
+        "Ted wakes up with a snore.",
+        "Sam Sheep wakes up Pup.",
+        "Ted wakes up."
+      ],
+      "books": [
+        "Ted in a Red Bed",
+        "Sam Sheep can't Sleep"
+      ]
+    },
+    {
+      "word": "snore",
+      "pos": "n",
+      "meaning": "呼噜声",
+      "examples": [
+        "Ted wakes up with a snore.",
+        "ZZZZZZZZZ, ”snores Sam"
+      ],
+      "books": [
+        "Ted in a Red Bed",
+        "Shark in the Park"
+      ]
+    },
+    {
+      "word": "not any more",
+      "pos": "phrase",
+      "meaning": "不再存在",
+      "examples": [],
+      "books": [
+        "Ted in a Red Bed"
+      ]
+    },
+    {
+      "word": "magic",
+      "pos": "n",
+      "meaning": "魔力，魔法，法术",
+      "examples": [
+        "This red bed must be a magic red bed!"
+      ],
+      "books": [
+        "Ted in a Red Bed"
+      ]
+    },
+    {
+      "word": "sheep",
+      "pos": "n",
+      "meaning": "绵羊",
+      "examples": [
+        "Sam Sheep can't sleep.",
+        "Sam Sheep gets up.",
+        "Sam Sheep wakes up Pup."
+      ],
+      "books": [
+        "Sam Sheep can't Sleep"
+      ]
+    },
+    {
+      "word": "sleep",
+      "pos": "v",
+      "meaning": "睡，睡觉",
+      "examples": [
+        "Sam Sheep can't sleep.",
+        "Sam Sheep can't Sleep",
+        "Go to sleep, Sam Sheep!"
+      ],
+      "books": [
+        "Sam Sheep can't Sleep"
+      ]
+    },
+    {
+      "word": "get up",
+      "pos": "phrase",
+      "meaning": "起床",
+      "examples": [
+        "Sam Sheep gets up."
+      ],
+      "books": [
+        "Sam Sheep can't Sleep"
+      ]
+    },
+    {
+      "word": "bark",
+      "pos": "v",
+      "meaning": "（狗）吠，叫",
+      "examples": [
+        "Pup barks, \"It's late. It's dark.",
+        "Fat Cat's on her sleeping mat in the park. Pup barks.",
+        "Sorry.\" barks Pup. \"Sam Sheep can't sleep."
+      ],
+      "books": [
+        "Sam Sheep can't Sleep"
+      ]
+    },
+    {
+      "word": "dark",
+      "pos": "n",
+      "meaning": "天黑了，夜幕，黄昏",
+      "examples": [
+        "Pup barks, \"It's late. It's dark.",
+        "It's late. It's dark. Go to sleep!",
+        "Pup barks in the dark night..."
+      ],
+      "books": [
+        "Sam Sheep can't Sleep",
+        "Shark in the Park"
+      ]
+    },
+    {
+      "word": "go to sleep",
+      "pos": "phrase",
+      "meaning": "入睡",
+      "examples": [
+        "Go to sleep, Sam Sheep!",
+        "It's late. It's dark. Go to sleep!"
+      ],
+      "books": [
+        "Sam Sheep can't Sleep"
+      ]
+    },
+    {
+      "word": "mat",
+      "pos": "n",
+      "meaning": "地垫，垫子",
+      "examples": [
+        "Fat Cat's on her sleeping mat in the park. Pup barks."
+      ],
+      "books": [
+        "Sam Sheep can't Sleep"
+      ]
+    },
+    {
+      "word": "park",
+      "pos": "n",
+      "meaning": "公园",
+      "examples": [
+        "Fat Cat's on her sleeping mat in the park. Pup barks."
+      ],
+      "books": [
+        "Sam Sheep can't Sleep"
+      ]
+    },
+    {
+      "word": "light",
+      "pos": "n",
+      "meaning": "灯",
+      "examples": [
+        "On goes the light."
+      ],
+      "books": [
+        "Sam Sheep can't Sleep"
+      ]
+    },
+    {
+      "word": "fright",
+      "pos": "n",
+      "meaning": "惊吓",
+      "examples": [
+        "You gave me a fright!"
+      ],
+      "books": [
+        "Sam Sheep can't Sleep"
+      ]
+    },
+    {
+      "word": "yawn",
+      "pos": "v",
+      "meaning": "哈欠",
+      "examples": [
+        "Fat Cat yawns. \"Don't blame us."
+      ],
+      "books": [
+        "Sam Sheep can't Sleep"
+      ]
+    },
+    {
+      "word": "blame",
+      "pos": "v",
+      "meaning": "责怪，归咎于",
+      "examples": [
+        "Fat Cat yawns. \"Don't blame us."
+      ],
+      "books": [
+        "Sam Sheep can't Sleep"
+      ]
+    },
+    {
+      "word": "jig",
+      "pos": "n",
+      "meaning": "吉格舞",
+      "examples": [
+        "Then do a jig."
+      ],
+      "books": [
+        "Sam Sheep can't Sleep"
+      ]
+    },
+    {
+      "word": "wriggle",
+      "pos": "n",
+      "meaning": "扭动，蠕动",
+      "examples": [
+        "Ted does a wriggle."
+      ],
+      "books": [
+        "Sam Sheep can't Sleep"
+      ]
+    },
+    {
+      "word": "giggle",
+      "pos": "v",
+      "meaning": "咯咯地笑",
+      "examples": [
+        "...and Big Pig starts to giggle.."
+      ],
+      "books": [
+        "Sam Sheep can't Sleep"
+      ]
+    },
+    {
+      "word": "what about",
+      "pos": "phrase",
+      "meaning": "怎么样；（对于）……怎么样",
+      "examples": [
+        "But what about Sam Sheep?"
+      ],
+      "books": [
+        "Sam Sheep can't Sleep"
+      ]
+    },
+    {
+      "word": "team",
+      "pos": "n",
+      "meaning": "小组；工作队，工作组",
+      "examples": [
+        "Ted and his team work on in the sun."
+      ],
+      "books": [
+        "Ted's Shed"
+      ]
+    },
+    {
+      "word": "huff",
+      "pos": "v",
+      "meaning": "吹气",
+      "examples": [
+        "They huff......and they puff...but it's lots of fun!"
+      ],
+      "books": [
+        "Ted's Shed"
+      ]
+    },
+    {
+      "word": "puff",
+      "pos": "v",
+      "meaning": "喘息,气喘吁吁",
+      "examples": [
+        "They huff......and they puff...but it's lots of fun!",
+        "Snurk. Snurk. Snurk. Snurk. Puff."
+      ],
+      "books": [
+        "Ted's Shed",
+        "I Will Take a Nap"
+      ]
+    },
+    {
+      "word": "ted",
+      "pos": "",
+      "meaning": "和他的队友们一起在太阳底下继续工作。",
+      "examples": [
+        "Meet Ted. Ted likes red.",
+        "Even Ted's shed is a red shed.",
+        "Today, Ted’s bed goes into the shed."
+      ],
+      "books": [
+        "Ted's Shed"
+      ]
+    },
+    {
+      "word": "fred",
+      "pos": "",
+      "meaning": "和小狗问道，“这些要做什么？”",
+      "examples": [
+        "What are you doing, Ted?” asks Fred.",
+        "Fred and Pup ask, “What's this all about?"
+      ],
+      "books": [
+        "Ted's Shed"
+      ]
+    },
+    {
+      "word": "spot",
+      "pos": "v",
+      "meaning": "看见，注意到",
+      "examples": [
+        "Did you spot Ted's clever plan?"
+      ],
+      "books": [
+        "Ted's Shed"
+      ]
+    },
+    {
+      "word": "clever",
+      "pos": "adj",
+      "meaning": "聪明的，机灵的",
+      "examples": [
+        "Did you spot Ted's clever plan?",
+        "Clever Fat cat!"
+      ],
+      "books": [
+        "Ted's Shed",
+        "Fat Cat on a Mat"
+      ]
+    },
+    {
+      "word": "caravan",
+      "pos": "n",
+      "meaning": "有篷马车，大篷车",
+      "examples": [
+        "His red shed is now a caravan!"
+      ],
+      "books": [
+        "Ted's Shed"
+      ]
+    },
+    {
+      "word": "even",
+      "pos": "adv",
+      "meaning": "甚至，即使；",
+      "examples": [
+        "Even Ted's shed is a red shed.",
+        "I threw the ball so far, you cannot even see it!"
+      ],
+      "books": [
+        "Ted's Shed",
+        "Watch Me Throw the Ball"
+      ]
+    },
+    {
+      "word": "shed",
+      "pos": "n",
+      "meaning": "棚屋，小屋",
+      "examples": [
+        "Even Ted's shed is a red shed.",
+        "Today, Ted’s bed goes into the shed.",
+        "His red shed is now a caravan!"
+      ],
+      "books": [
+        "Ted's Shed"
+      ]
+    },
+    {
+      "word": "stool",
+      "pos": "n",
+      "meaning": "凳子",
+      "examples": [
+        "Up on his stool , Ted gets down his tools."
+      ],
+      "books": [
+        "Ted's Shed"
+      ]
+    },
+    {
+      "word": "tool",
+      "pos": "n",
+      "meaning": "工具",
+      "examples": [
+        "Up on his stool , Ted gets down his tools."
+      ],
+      "books": [
+        "Ted's Shed"
+      ]
+    },
+    {
+      "word": "saw",
+      "pos": "n",
+      "meaning": "锯子",
+      "examples": [
+        "He puts in a paw, and pulls out a saw.",
+        "It's time to start sawing.",
+        "Ted saws into a big, round log."
+      ],
+      "books": [
+        "Ted's Shed",
+        "My Friend is Sad"
+      ]
+    },
+    {
+      "word": "drawing",
+      "pos": "n",
+      "meaning": "图画，图纸",
+      "examples": [
+        "Ted looks at his drawing."
+      ],
+      "books": [
+        "Ted's Shed"
+      ]
+    },
+    {
+      "word": "start",
+      "pos": "v",
+      "meaning": "开始",
+      "examples": [
+        "It's time to start sawing.",
+        "It is starting to rain."
+      ],
+      "books": [
+        "Ted's Shed",
+        "Are You Ready to Play Outside"
+      ]
+    },
+    {
+      "word": "round",
+      "pos": "adj",
+      "meaning": "圆形的",
+      "examples": [
+        "Ted saws into a big, round log.",
+        "He saws off a big, round slice. “This wood is good. This"
+      ],
+      "books": [
+        "Ted's Shed"
+      ]
+    },
+    {
+      "word": "log",
+      "pos": "n",
+      "meaning": "原木，圆材",
+      "examples": [
+        "Ted saws into a big, round log.",
+        "Frog sits on his log by the bog.",
+        "Frog on A Log"
+      ],
+      "books": [
+        "Ted's Shed",
+        "Frog on a Log"
+      ]
+    },
+    {
+      "word": "slice",
+      "pos": "n",
+      "meaning": "片，部分（文中可以理解",
+      "examples": [
+        "He saws off a big, round slice. “This wood is good. This",
+        "slice is nice.",
+        "Now Ted saws off slice after slice."
+      ],
+      "books": [
+        "Ted's Shed"
+      ]
+    },
+    {
+      "word": "watch",
+      "pos": "v",
+      "meaning": "看，注视（现在分词：",
+      "examples": [
+        "Look who's watching--a pair of mice!",
+        "Watch me go!"
+      ],
+      "books": [
+        "Ted's Shed",
+        "I Am Going"
+      ]
+    },
+    {
+      "word": "mice",
+      "pos": "n",
+      "meaning": "老鼠",
+      "examples": [
+        "Look who's watching--a pair of mice!",
+        "Lookthe mice have the nails in their tails!"
+      ],
+      "books": [
+        "Ted's Shed"
+      ]
+    },
+    {
+      "word": "hunt",
+      "pos": "v",
+      "meaning": "搜寻，搜索",
+      "examples": [
+        "Next, Ted hunts for his jar of nails."
+      ],
+      "books": [
+        "Ted's Shed"
+      ]
+    },
+    {
+      "word": "nail",
+      "pos": "n",
+      "meaning": "钉子",
+      "examples": [
+        "Next, Ted hunts for his jar of nails.",
+        "Lookthe mice have the nails in their tails!"
+      ],
+      "books": [
+        "Ted's Shed"
+      ]
+    },
+    {
+      "word": "empty",
+      "pos": "adj",
+      "meaning": "空的",
+      "examples": [
+        "The jar is empty...apart from a snail."
+      ],
+      "books": [
+        "Ted's Shed"
+      ]
+    },
+    {
+      "word": "apart from",
+      "pos": "phrase",
+      "meaning": "缺少",
+      "examples": [
+        "The jar is empty...apart from a snail."
+      ],
+      "books": [
+        "Ted's Shed"
+      ]
+    },
+    {
+      "word": "snail",
+      "pos": "n",
+      "meaning": "蜗牛",
+      "examples": [
+        "The jar is empty...apart from a snail."
+      ],
+      "books": [
+        "Ted's Shed"
+      ]
+    },
+    {
+      "word": "tail",
+      "pos": "n",
+      "meaning": "尾巴",
+      "examples": [
+        "Lookthe mice have the nails in their tails!"
+      ],
+      "books": [
+        "Ted's Shed"
+      ]
+    },
+    {
+      "word": "hungry",
+      "pos": "adj",
+      "meaning": "饥饿的",
+      "examples": [
+        "Hungry Fox spots a box.",
+        "Hungry Fox hops onto the box.",
+        "Hungry Fox pushes the box."
+      ],
+      "books": [
+        "Fox on a Box"
+      ]
+    },
+    {
+      "word": "onto",
+      "pos": "prep",
+      "meaning": "到……之上，向……之上",
+      "examples": [
+        "Hungry Fox hops onto the box.",
+        "Mack opens his door and walks out onto the floor.",
+        "I wanted to lift Hippo onto my trunk!"
+      ],
+      "books": [
+        "Fox on a Box",
+        "Mouse Moves House",
+        "I Broke My Trunk"
+      ]
+    },
+    {
+      "word": "reach",
+      "pos": "v",
+      "meaning": "伸，伸手",
+      "examples": [
+        "He tries to reach...",
+        "I can reach the cooling pies!\" cries Fox."
+      ],
+      "books": [
+        "Fox on a Box"
+      ]
+    },
+    {
+      "word": "peach",
+      "pos": "n",
+      "meaning": "桃子",
+      "examples": [
+        "...a peach!"
+      ],
+      "books": [
+        "Fox on a Box"
+      ]
+    },
+    {
+      "word": "splat",
+      "pos": "n",
+      "meaning": "啪嗒声",
+      "examples": [],
+      "books": [
+        "Fox on a Box"
+      ]
+    },
+    {
+      "word": "push",
+      "pos": "v",
+      "meaning": "推，按",
+      "examples": [
+        "Hungry Fox pushes the box.",
+        "Don’t push it, bub"
+      ],
+      "books": [
+        "Fox on a Box",
+        "I Really Like Slop"
+      ]
+    },
+    {
+      "word": "wall",
+      "pos": "n",
+      "meaning": "围墙；墙",
+      "examples": [
+        "Now I'm as tall as the wall!\" calls fox."
+      ],
+      "books": [
+        "Fox on a Box"
+      ]
+    },
+    {
+      "word": "honey",
+      "pos": "n",
+      "meaning": "蜂蜜",
+      "examples": [
+        "I need honey from the honey bees!\" says Fox."
+      ],
+      "books": [
+        "Fox on a Box"
+      ]
+    },
+    {
+      "word": "honey bee",
+      "pos": "phrase",
+      "meaning": "蜜蜂",
+      "examples": [
+        "I need honey from the honey bees!\" says Fox."
+      ],
+      "books": [
+        "Fox on a Box"
+      ]
+    },
+    {
+      "word": "sit",
+      "pos": "v",
+      "meaning": "坐；坐下",
+      "examples": [
+        "Hungry Fox sits on the box.",
+        "Sit! Sit! Sit!"
+      ],
+      "books": [
+        "Fox on a Box",
+        "Listen to My Trumpet"
+      ]
+    },
+    {
+      "word": "fish",
+      "pos": "n",
+      "meaning": "鱼",
+      "examples": [
+        "I want fishes,\" wishes Fox."
+      ],
+      "books": [
+        "Fox on a Box"
+      ]
+    },
+    {
+      "word": "mean",
+      "pos": "v",
+      "meaning": "意味着……",
+      "examples": [
+        "But a tug from Duck means he's out of luck.",
+        "You mean \"super pig, \" right?",
+        "Do you know what this means?"
+      ],
+      "books": [
+        "Fox on a Box",
+        "Watch Me Throw the Ball"
+      ]
+    },
+    {
+      "word": "out of luck",
+      "pos": "phrase",
+      "meaning": "运气不好",
+      "examples": [
+        "But a tug from Duck means he's out of luck."
+      ],
+      "books": [
+        "Fox on a Box"
+      ]
+    },
+    {
+      "word": "pie",
+      "pos": "n",
+      "meaning": "馅饼",
+      "examples": [
+        "I can reach the cooling pies!\" cries Fox."
+      ],
+      "books": [
+        "Fox on a Box"
+      ]
+    },
+    {
+      "word": "put a stop",
+      "pos": "phrase",
+      "meaning": "把……结束",
+      "examples": [
+        "...put a stop to that."
+      ],
+      "books": [
+        "Fox on a Box"
+      ]
+    },
+    {
+      "word": "fall into",
+      "pos": "phrase",
+      "meaning": "掉进，落入",
+      "examples": [
+        "Hungry Fox falls into the box."
+      ],
+      "books": [
+        "Fox on a Box"
+      ]
+    },
+    {
+      "word": "himself",
+      "pos": "pron",
+      "meaning": "他自己",
+      "examples": [
+        "He heaves himself out..."
+      ],
+      "books": [
+        "Fox on a Box"
+      ]
+    },
+    {
+      "word": "heave",
+      "pos": "v",
+      "meaning": "（用力）推，拉",
+      "examples": [
+        "He heaves himself out..."
+      ],
+      "books": [
+        "Fox on a Box"
+      ]
+    },
+    {
+      "word": "snout",
+      "pos": "n",
+      "meaning": "鼻子",
+      "examples": [
+        "...to find cream on his snout.",
+        "I do not have a snout."
+      ],
+      "books": [
+        "Fox on a Box",
+        "Happy Pig Day"
+      ]
+    },
+    {
+      "word": "shout",
+      "pos": "v",
+      "meaning": "叫嚷，大声说",
+      "examples": [
+        "I'm back in the box!\" shouts Happy Fox.",
+        "Run!\" shouts Jack, \"It’ s a cat."
+      ],
+      "books": [
+        "Fox on a Box",
+        "Mouse Moves House"
+      ]
+    },
+    {
+      "word": "shark",
+      "pos": "n",
+      "meaning": "鲨鱼",
+      "examples": [
+        "There’s a shark in the park!\" Pup barks.",
+        "Shark in the Park",
+        "There’s a shark in the park! \"Pup barks."
+      ],
+      "books": [
+        "Shark in the Park"
+      ]
+    },
+    {
+      "word": "meow",
+      "pos": "n",
+      "meaning": "(猫）喵喵叫",
+      "examples": [
+        "She meows “why did you bark",
+        "A shark?” Meows Fat Cat."
+      ],
+      "books": [
+        "Shark in the Park"
+      ]
+    },
+    {
+      "word": "pointy",
+      "pos": "adj",
+      "meaning": "尖的；非常尖的",
+      "examples": [
+        "It has a sharp pointy fin.",
+        "It has a sharp, pointy nose.",
+        "It has sharp, pointy...."
+      ],
+      "books": [
+        "Shark in the Park"
+      ]
+    },
+    {
+      "word": "fin",
+      "pos": "n",
+      "meaning": "（鱼的）鳍；鳍状物",
+      "examples": [
+        "It has a sharp pointy fin."
+      ],
+      "books": [
+        "Shark in the Park"
+      ]
+    },
+    {
+      "word": "light a fire",
+      "pos": "n",
+      "meaning": "点火，生火",
+      "examples": [
+        "light a fire n",
+        "Big Pig is lighting a fire."
+      ],
+      "books": [
+        "Shark in the Park"
+      ]
+    },
+    {
+      "word": "bright",
+      "pos": "adj",
+      "meaning": "明亮的；鲜艳的",
+      "examples": [
+        "What a bright spark",
+        "She makes bright squiggles and marks.",
+        "Hen's zigzags are very bright indeed."
+      ],
+      "books": [
+        "Shark in the Park",
+        "Hen's Pens"
+      ]
+    },
+    {
+      "word": "spark",
+      "pos": "n",
+      "meaning": "火花，火星",
+      "examples": [
+        "What a bright spark"
+      ],
+      "books": [
+        "Shark in the Park"
+      ]
+    },
+    {
+      "word": "sharp",
+      "pos": "adj",
+      "meaning": "锋利的；尖的",
+      "examples": [
+        "It has a sharp pointy fin.",
+        "It has a sharp, pointy nose.",
+        "It has sharp, pointy...."
+      ],
+      "books": [
+        "Shark in the Park"
+      ]
+    },
+    {
+      "word": "pad",
+      "pos": "n",
+      "meaning": "便笺本",
+      "examples": [
+        "Hen is with her pad and pens."
+      ],
+      "books": [
+        "Shark in the Park"
+      ]
+    },
+    {
+      "word": "pen",
+      "pos": "n",
+      "meaning": "笔，钢笔",
+      "examples": [
+        "Hen is with her pad and pens."
+      ],
+      "books": [
+        "Shark in the Park"
+      ]
+    },
+    {
+      "word": "squiggles",
+      "pos": "n",
+      "meaning": "胡乱写的字；花体",
+      "examples": [
+        "She makes bright squiggles and marks."
+      ],
+      "books": [
+        "Shark in the Park"
+      ]
+    },
+    {
+      "word": "mark",
+      "pos": "n",
+      "meaning": "符号，记号",
+      "examples": [
+        "She makes bright squiggles and marks."
+      ],
+      "books": [
+        "Shark in the Park"
+      ]
+    },
+    {
+      "word": "teeth",
+      "pos": "n",
+      "meaning": "牙齿",
+      "examples": [],
+      "books": [
+        "Shark in the Park"
+      ]
+    },
+    {
+      "word": "snake",
+      "pos": "n",
+      "meaning": "蛇",
+      "examples": [
+        "Up Pops Jake Snake.",
+        "It’s Jake Snake and his rubber ring!",
+        "I am a snake."
+      ],
+      "books": [
+        "Shark in the Park",
+        "Can I Play Too"
+      ]
+    },
+    {
+      "word": "up pop",
+      "pos": "phrase",
+      "meaning": "有突然弹出得意思，这里理解为小蛇从水里突然露出了头",
+      "examples": [
+        "Up Pops Jake Snake."
+      ],
+      "books": [
+        "Shark in the Park"
+      ]
+    },
+    {
+      "word": "rubber ring",
+      "pos": "phrase",
+      "meaning": "橡胶圈，这里就理解为救生圈",
+      "examples": [
+        "It’s Jake Snake and his rubber ring!"
+      ],
+      "books": [
+        "Shark in the Park"
+      ]
+    },
+    {
+      "word": "snarl",
+      "pos": "n",
+      "meaning": "（动物的）呲牙低吼；愤怒叫嚷（声）",
+      "examples": [
+        "Then snarls and howls and a hullabaloo."
+      ],
+      "books": [
+        "Goose on the Loose"
+      ]
+    },
+    {
+      "word": "howl",
+      "pos": "n",
+      "meaning": "(狗、狼等）嗥叫，长嚎",
+      "examples": [
+        "Then snarls and howls and a hullabaloo."
+      ],
+      "books": [
+        "Goose on the Loose"
+      ]
+    },
+    {
+      "word": "hullabaloo",
+      "pos": "n",
+      "meaning": "喧嚣；吵闹声",
+      "examples": [
+        "Then snarls and howls and a hullabaloo."
+      ],
+      "books": [
+        "Goose on the Loose"
+      ]
+    },
+    {
+      "word": "feel",
+      "pos": "v",
+      "meaning": "感受到，体会到",
+      "examples": [
+        "But Goose has stopped, and feels a fool.",
+        "Now I feel cranky, too.",
+        "I feel rested!"
+      ],
+      "books": [
+        "Goose on the Loose",
+        "I Will Take a Nap"
+      ]
+    },
+    {
+      "word": "land",
+      "pos": "v",
+      "meaning": "落下，跌落（过去式：landed）",
+      "examples": [
+        "She's landed in the penguin pool!"
+      ],
+      "books": [
+        "Goose on the Loose"
+      ]
+    },
+    {
+      "word": "penguin",
+      "pos": "n",
+      "meaning": "企鹅",
+      "examples": [
+        "She's landed in the penguin pool!"
+      ],
+      "books": [
+        "Goose on the Loose"
+      ]
+    },
+    {
+      "word": "pool",
+      "pos": "n",
+      "meaning": "游泳池；池塘",
+      "examples": [
+        "She's landed in the penguin pool!",
+        "What if it is a pool party?",
+        "A fancy pool party?"
+      ],
+      "books": [
+        "Goose on the Loose",
+        "I Am Invited to a Party"
+      ]
+    },
+    {
+      "word": "goose",
+      "pos": "n",
+      "meaning": "鹅",
+      "examples": [
+        "Goose is on a scooter.",
+        "Goose on The Loose",
+        "She's a goose on the loose."
+      ],
+      "books": [
+        "Goose on the Loose"
+      ]
+    },
+    {
+      "word": "scooter",
+      "pos": "n",
+      "meaning": "（儿童的）滑板车，踏板车",
+      "examples": [
+        "Goose is on a scooter."
+      ],
+      "books": [
+        "Goose on the Loose"
+      ]
+    },
+    {
+      "word": "loose",
+      "pos": "adj",
+      "meaning": "不受束缚的",
+      "examples": [
+        "Goose on The Loose",
+        "She's a goose on the loose.",
+        "Look out! Goose is on the loose."
+      ],
+      "books": [
+        "Goose on the Loose"
+      ]
+    },
+    {
+      "word": "get out of",
+      "pos": "phrase",
+      "meaning": "逃避；避免",
+      "examples": [
+        "Get out of my way!",
+        "Get out of my way!“ Goose goes scooting on."
+      ],
+      "books": [
+        "Goose on the Loose"
+      ]
+    },
+    {
+      "word": "almost",
+      "pos": "adv",
+      "meaning": "几乎，差不多",
+      "examples": [
+        "She almost runs down Rooster Ron.",
+        "She almost scoots right into Toad."
+      ],
+      "books": [
+        "Goose on the Loose"
+      ]
+    },
+    {
+      "word": "run down",
+      "pos": "phrase",
+      "meaning": "撞倒",
+      "examples": [
+        "She almost runs down Rooster Ron."
+      ],
+      "books": [
+        "Goose on the Loose"
+      ]
+    },
+    {
+      "word": "scoot",
+      "pos": "v",
+      "meaning": "猛冲，溜走",
+      "examples": [
+        "Goose is on a scooter.",
+        "Get out of my way!“ Goose goes scooting on.",
+        "Goose is scooting to Ted's shed..."
+      ],
+      "books": [
+        "Goose on the Loose"
+      ]
+    },
+    {
+      "word": "look out",
+      "pos": "phrase",
+      "meaning": "当心，注意",
+      "examples": [
+        "Look out, behind you. Watch out, Ted!",
+        "Look out! Goose is on the loose."
+      ],
+      "books": [
+        "Goose on the Loose"
+      ]
+    },
+    {
+      "word": "behind",
+      "pos": "prep",
+      "meaning": "在……后面",
+      "examples": [
+        "Look out, behind you. Watch out, Ted!",
+        "The ball flew behind you and fell here!"
+      ],
+      "books": [
+        "Goose on the Loose",
+        "Watch Me Throw the Ball"
+      ]
+    },
+    {
+      "word": "watch out",
+      "pos": "phrase",
+      "meaning": "小心；提防",
+      "examples": [
+        "Look out, behind you. Watch out, Ted!"
+      ],
+      "books": [
+        "Goose on the Loose"
+      ]
+    },
+    {
+      "word": "end up",
+      "pos": "phrase",
+      "meaning": "结束，告终",
+      "examples": [
+        "Ted ends up in his flower bed."
+      ],
+      "books": [
+        "Goose on the Loose"
+      ]
+    },
+    {
+      "word": "toad",
+      "pos": "n",
+      "meaning": "蟾蜍，癞蛤蟆",
+      "examples": [
+        "She almost scoots right into Toad.",
+        "Toad groans and drops a heavy load."
+      ],
+      "books": [
+        "Goose on the Loose"
+      ]
+    },
+    {
+      "word": "right into",
+      "pos": "phrase",
+      "meaning": "直接迚入，文中得意思可以理解为直接撞上了（蟾蜍）",
+      "examples": [
+        "She almost scoots right into Toad."
+      ],
+      "books": [
+        "Goose on the Loose"
+      ]
+    },
+    {
+      "word": "groan",
+      "pos": "v",
+      "meaning": "呻吟，咕哝",
+      "examples": [
+        "Toad groans and drops a heavy load."
+      ],
+      "books": [
+        "Goose on the Loose"
+      ]
+    },
+    {
+      "word": "drop",
+      "pos": "v",
+      "meaning": "掉落",
+      "examples": [
+        "Toad groans and drops a heavy load."
+      ],
+      "books": [
+        "Goose on the Loose"
+      ]
+    },
+    {
+      "word": "heavy",
+      "pos": "adj",
+      "meaning": "重的，沉的",
+      "examples": [
+        "Toad groans and drops a heavy load.",
+        "But a hippo on your trunk is heavy.",
+        "very heavy."
+      ],
+      "books": [
+        "Goose on the Loose",
+        "I Broke My Trunk"
+      ]
+    },
+    {
+      "word": "cockatoo",
+      "pos": "n",
+      "meaning": "凤头鹦鹉，葵花鹦鹉",
+      "examples": [
+        ".and shocks a flock of cockatoos."
+      ],
+      "books": [
+        "Goose on the Loose"
+      ]
+    },
+    {
+      "word": "load",
+      "pos": "n",
+      "meaning": "货物",
+      "examples": [
+        "Toad groans and drops a heavy load."
+      ],
+      "books": [
+        "Goose on the Loose"
+      ]
+    },
+    {
+      "word": "dove",
+      "pos": "n",
+      "meaning": "鸽子",
+      "examples": [
+        "The doves all coo."
+      ],
+      "books": [
+        "Goose on the Loose"
+      ]
+    },
+    {
+      "word": "wit",
+      "pos": "n",
+      "meaning": "风趣",
+      "examples": [
+        "The brown owl says , \"too —wit—too—woo\"."
+      ],
+      "books": [
+        "Goose on the Loose"
+      ]
+    },
+    {
+      "word": "head for",
+      "pos": "phrase",
+      "meaning": "前往；出发",
+      "examples": [
+        "Now Goose is heading for...the zoo"
+      ],
+      "books": [
+        "Goose on the Loose"
+      ]
+    },
+    {
+      "word": "upset",
+      "pos": "v",
+      "meaning": "打乱，搅乱",
+      "examples": [
+        "She upsets a bunch of kangaroos..."
+      ],
+      "books": [
+        "Goose on the Loose"
+      ]
+    },
+    {
+      "word": "a bunch of",
+      "pos": "phrase",
+      "meaning": "一群",
+      "examples": [
+        "She upsets a bunch of kangaroos..."
+      ],
+      "books": [
+        "Goose on the Loose"
+      ]
+    },
+    {
+      "word": "kangaroo",
+      "pos": "n",
+      "meaning": "袋鼠",
+      "examples": [
+        "She upsets a bunch of kangaroos..."
+      ],
+      "books": [
+        "Goose on the Loose"
+      ]
+    },
+    {
+      "word": "shock",
+      "pos": "v",
+      "meaning": "震惊",
+      "examples": [
+        ".and shocks a flock of cockatoos."
+      ],
+      "books": [
+        "Goose on the Loose"
+      ]
+    },
+    {
+      "word": "a flock of",
+      "pos": "phrase",
+      "meaning": "一群（鸟，羊等）",
+      "examples": [
+        ".and shocks a flock of cockatoos."
+      ],
+      "books": [
+        "Goose on the Loose"
+      ]
+    },
+    {
+      "word": "flee up",
+      "pos": "phrase",
+      "meaning": "逃离",
+      "examples": [
+        "Fat cat flees up a tree."
+      ],
+      "books": [
+        "Fat Cat on a Mat"
+      ]
+    },
+    {
+      "word": "yelp",
+      "pos": "v",
+      "meaning": "（因兴奋、疼痛等）尖叫",
+      "examples": [
+        "I don’t like bees!” yelps Fat cat.",
+        "Like my new hat, Fat cat?\" \"Good catch!\" yelps Fat cat."
+      ],
+      "books": [
+        "Fat Cat on a Mat"
+      ]
+    },
+    {
+      "word": "stuck",
+      "pos": "adj",
+      "meaning": "卡住的，动不了的；被困住",
+      "examples": [
+        "Are you stuck?\" shouts Big Pig.",
+        "I am stuck. It is bad luck,\" she moans."
+      ],
+      "books": [
+        "Fat Cat on a Mat"
+      ]
+    },
+    {
+      "word": "or",
+      "pos": "conj",
+      "meaning": "或，或者",
+      "examples": [
+        "I don't like bees or trees."
+      ],
+      "books": [
+        "Fat Cat on a Mat"
+      ]
+    },
+    {
+      "word": "bend",
+      "pos": "v",
+      "meaning": "弯曲，弄弯",
+      "examples": [
+        "The tree bends..."
+      ],
+      "books": [
+        "Fat Cat on a Mat"
+      ]
+    },
+    {
+      "word": "nest",
+      "pos": "n",
+      "meaning": "窝，巢，穴",
+      "examples": [
+        "and the nest drops off the end.",
+        "The nest drops, with a plop, on top of Big Pig.",
+        "It's the eggs from the nest!\" says Big pig."
+      ],
+      "books": [
+        "Fat Cat on a Mat"
+      ]
+    },
+    {
+      "word": "drop off",
+      "pos": "phrase",
+      "meaning": "下，掉线了（文中理解为鸟巢掉了下来）",
+      "examples": [
+        "and the nest drops off the end."
+      ],
+      "books": [
+        "Fat Cat on a Mat"
+      ]
+    },
+    {
+      "word": "catch",
+      "pos": "v",
+      "meaning": "接住，截住",
+      "examples": [
+        "Like my new hat, Fat cat?\" \"Good catch!\" yelps Fat cat.",
+        "Let's play catch!",
+        "I love playing catch with friends!"
+      ],
+      "books": [
+        "Fat Cat on a Mat",
+        "Can I Play Too"
+      ]
+    },
+    {
+      "word": "patch",
+      "pos": "n",
+      "meaning": "小块，<非正式> 属地，管辖地（文中",
+      "examples": [
+        "Fat cat lands in a sandy patch \"I must help the eggs to hatch.",
+        "a sandy patch"
+      ],
+      "books": [
+        "Fat Cat on a Mat"
+      ]
+    },
+    {
+      "word": "a sandy patch",
+      "pos": "phrase",
+      "meaning": "我们就理解为一小块沙地）",
+      "examples": [
+        "Fat cat lands in a sandy patch \"I must help the eggs to hatch."
+      ],
+      "books": [
+        "Fat Cat on a Mat"
+      ]
+    },
+    {
+      "word": "hatch",
+      "pos": "v",
+      "meaning": "孵化，孵出",
+      "examples": [
+        "Fat cat lands in a sandy patch \"I must help the eggs to hatch.",
+        "See the chicks hatch."
+      ],
+      "books": [
+        "Fat Cat on a Mat"
+      ]
+    },
+    {
+      "word": "next day",
+      "pos": "phrase",
+      "meaning": "第二天",
+      "examples": [
+        "Next day, Fat cat will not play."
+      ],
+      "books": [
+        "Fat Cat on a Mat"
+      ]
+    },
+    {
+      "word": "bake",
+      "pos": "v",
+      "meaning": "烤，烘，焙",
+      "examples": [
+        "Bake a cake with me,\" says Jake Snake."
+      ],
+      "books": [
+        "Fat Cat on a Mat"
+      ]
+    },
+    {
+      "word": "lazy",
+      "pos": "adj",
+      "meaning": "懒惰的",
+      "examples": [
+        "You are lazy,\" says Big pig."
+      ],
+      "books": [
+        "Fat Cat on a Mat"
+      ]
+    },
+    {
+      "word": "crazy",
+      "pos": "adj",
+      "meaning": "古怪的，不理智的；疯狂的",
+      "examples": [
+        "You are crazy,\" says Jake Snake.",
+        "It is a long, crazy story.",
+        "No. This is a long, crazy story..."
+      ],
+      "books": [
+        "Fat Cat on a Mat",
+        "I Broke My Trunk"
+      ]
+    },
+    {
+      "word": "hop up",
+      "pos": "phrase",
+      "meaning": "跳",
+      "examples": [
+        "She hops up off her mat."
+      ],
+      "books": [
+        "Fat Cat on a Mat"
+      ]
+    },
+    {
+      "word": "mouse",
+      "pos": "n",
+      "meaning": "老鼠",
+      "examples": [
+        "Mack the mouse is moving house. (SOLD)",
+        "Mouse Moves House",
+        "Mack the mouse is moving house on Fat Cat’s back!"
+      ],
+      "books": [
+        "Mouse Moves House"
+      ]
+    },
+    {
+      "word": "move house",
+      "pos": "phrase",
+      "meaning": "搬家",
+      "examples": [
+        "Mack the mouse is moving house. (SOLD)",
+        "Mouse Moves House",
+        "Mack the mouse is moving house on Fat Cat’s back!"
+      ],
+      "books": [
+        "Mouse Moves House"
+      ]
+    },
+    {
+      "word": "sell",
+      "pos": "v",
+      "meaning": "卖（过去分词：sold）",
+      "examples": [],
+      "books": [
+        "Mouse Moves House"
+      ]
+    },
+    {
+      "word": "pack",
+      "pos": "v",
+      "meaning": "打包，收拾（行李）（第",
+      "examples": [
+        "Mack packs his backpack.",
+        "Now Mack packs his plates.",
+        "Together, Mack and Jack pack and pack."
+      ],
+      "books": [
+        "Mouse Moves House",
+        "Let's Go For a Drive"
+      ]
+    },
+    {
+      "word": "backpack",
+      "pos": "n",
+      "meaning": "背包，行囊",
+      "examples": [
+        "Mack packs his backpack.",
+        "Jack helps Mack put his backpack on his back."
+      ],
+      "books": [
+        "Mouse Moves House"
+      ]
+    },
+    {
+      "word": "plate",
+      "pos": "n",
+      "meaning": "盘子，碟子",
+      "examples": [
+        "Now Mack packs his plates."
+      ],
+      "books": [
+        "Mouse Moves House"
+      ]
+    },
+    {
+      "word": "here is",
+      "pos": "phrase",
+      "meaning": "这是……",
+      "examples": [
+        "Here is Mack’s friend Jack."
+      ],
+      "books": [
+        "Mouse Moves House"
+      ]
+    },
+    {
+      "word": "together",
+      "pos": "adv",
+      "meaning": "在一起，共同",
+      "examples": [
+        "Together, Mack and Jack pack and pack.",
+        "If they are having that much fun together,"
+      ],
+      "books": [
+        "Mouse Moves House",
+        "My New Friend Is So Fun"
+      ]
+    },
+    {
+      "word": "nick-nack",
+      "pos": "",
+      "meaning": "小装饰品",
+      "examples": [
+        "Jack packs Mack’s nick-nacks in a black sack."
+      ],
+      "books": [
+        "Mouse Moves House"
+      ]
+    },
+    {
+      "word": "sack",
+      "pos": "n",
+      "meaning": "大袋",
+      "examples": [
+        "Jack packs Mack’s nick-nacks in a black sack."
+      ],
+      "books": [
+        "Mouse Moves House"
+      ]
+    },
+    {
+      "word": "crack",
+      "pos": "n",
+      "meaning": "爆裂声",
+      "examples": [
+        "CRACK! Look out, Jack!"
+      ],
+      "books": [
+        "Mouse Moves House"
+      ]
+    },
+    {
+      "word": "picture",
+      "pos": "n",
+      "meaning": "图片，绘画",
+      "examples": [
+        "It s time to pack the pictures."
+      ],
+      "books": [
+        "Mouse Moves House"
+      ]
+    },
+    {
+      "word": "stack",
+      "pos": "v",
+      "meaning": "成叠堆放",
+      "examples": [
+        "Mack and Jack pack...and they stack..."
+      ],
+      "books": [
+        "Mouse Moves House"
+      ]
+    },
+    {
+      "word": "stop for",
+      "pos": "phrase",
+      "meaning": "为…停下来",
+      "examples": [
+        "...then they stop for a cheesy snack."
+      ],
+      "books": [
+        "Mouse Moves House"
+      ]
+    },
+    {
+      "word": "cheesy",
+      "pos": "adj",
+      "meaning": "干酪质的",
+      "examples": [
+        "...then they stop for a cheesy snack."
+      ],
+      "books": [
+        "Mouse Moves House"
+      ]
+    },
+    {
+      "word": "snack",
+      "pos": "n",
+      "meaning": "零食，点心",
+      "examples": [
+        "...then they stop for a cheesy snack."
+      ],
+      "books": [
+        "Mouse Moves House"
+      ]
+    },
+    {
+      "word": "open",
+      "pos": "v",
+      "meaning": "开，打开（第三人称单",
+      "examples": [
+        "Mack opens his door and walks out onto the floor."
+      ],
+      "books": [
+        "Mouse Moves House"
+      ]
+    },
+    {
+      "word": "chat with",
+      "pos": "phrase",
+      "meaning": "同……聊天，和……聊天（第",
+      "examples": [
+        "He chats with the cat."
+      ],
+      "books": [
+        "Mouse Moves House"
+      ]
+    },
+    {
+      "word": "come here",
+      "pos": "phrase",
+      "meaning": "来这里，过来",
+      "examples": [
+        "Come here, Jack. Meet my friend Fat Cat."
+      ],
+      "books": [
+        "Mouse Moves House"
+      ]
+    },
+    {
+      "word": "back",
+      "pos": "n",
+      "meaning": "背部",
+      "examples": [
+        "Jack helps Mack put his backpack on his back.",
+        "Mack the mouse is moving house on Fat Cat’s back!"
+      ],
+      "books": [
+        "Mouse Moves House"
+      ]
+    },
+    {
+      "word": "hen",
+      "pos": "n",
+      "meaning": "母鸡",
+      "examples": [
+        "Hen has new pens.",
+        "When will you use your new pens, Hen?",
+        "Hen hops off her nest."
+      ],
+      "books": [
+        "Hen's Pens"
+      ]
+    },
+    {
+      "word": "ten",
+      "pos": "det",
+      "meaning": "10个",
+      "examples": [
+        "She has ten new pens."
+      ],
+      "books": [
+        "Hen's Pens"
+      ]
+    },
+    {
+      "word": "when",
+      "pos": "adv",
+      "meaning": "什么时候",
+      "examples": [
+        "When will you use your new pens, Hen?"
+      ],
+      "books": [
+        "Hen's Pens"
+      ]
+    },
+    {
+      "word": "use",
+      "pos": "v",
+      "meaning": "用，使用",
+      "examples": [
+        "When will you use your new pens, Hen?"
+      ],
+      "books": [
+        "Hen's Pens"
+      ]
+    },
+    {
+      "word": "straw",
+      "pos": "v",
+      "meaning": "麦秆，稻草",
+      "examples": [
+        "What will you draw?\" \"Straw..."
+      ],
+      "books": [
+        "Hen's Pens"
+      ]
+    },
+    {
+      "word": "hop off",
+      "pos": "phrase",
+      "meaning": "跳下来",
+      "examples": [
+        "Hen hops off her nest."
+      ],
+      "books": [
+        "Hen's Pens"
+      ]
+    },
+    {
+      "word": "pattern",
+      "pos": "n",
+      "meaning": "图案，花样",
+      "examples": [
+        "Drawing patterns is what I like best."
+      ],
+      "books": [
+        "Hen's Pens"
+      ]
+    },
+    {
+      "word": "zigzag",
+      "pos": "n",
+      "meaning": "锯齿形线条",
+      "examples": [
+        "And zigzags are better than All the rest.",
+        "Or more zigzags?\" Hen begs.",
+        "Hen's zigzags are very bright indeed."
+      ],
+      "books": [
+        "Hen's Pens"
+      ]
+    },
+    {
+      "word": "all the rest",
+      "pos": "phrase",
+      "meaning": "其他一切；所有其他的",
+      "examples": [
+        "And zigzags are better than All the rest."
+      ],
+      "books": [
+        "Hen's Pens"
+      ]
+    },
+    {
+      "word": "zig / zag",
+      "pos": "v",
+      "meaning": "急转",
+      "examples": [],
+      "books": [
+        "Hen's Pens"
+      ]
+    },
+    {
+      "word": "left",
+      "pos": "adv",
+      "meaning": "左边",
+      "examples": [
+        "She zigs and zags from left to right."
+      ],
+      "books": [
+        "Hen's Pens"
+      ]
+    },
+    {
+      "word": "right",
+      "pos": "adv",
+      "meaning": "右边",
+      "examples": [
+        "She zigs and zags from left to right.",
+        "Wait. That was not right.",
+        "Not right at all."
+      ],
+      "books": [
+        "Hen's Pens",
+        "Listen to My Trumpet"
+      ]
+    },
+    {
+      "word": "day and night",
+      "pos": "phrase",
+      "meaning": "从早到晚，日以继夜",
+      "examples": [
+        "She zigs and zags all day and night..."
+      ],
+      "books": [
+        "Hen's Pens"
+      ]
+    },
+    {
+      "word": "until",
+      "pos": "adv",
+      "meaning": "直到……为止",
+      "examples": [
+        "...until her paper has run out."
+      ],
+      "books": [
+        "Hen's Pens"
+      ]
+    },
+    {
+      "word": "run out",
+      "pos": "phrase",
+      "meaning": "用完；耗尽",
+      "examples": [
+        "...until her paper has run out."
+      ],
+      "books": [
+        "Hen's Pens"
+      ]
+    },
+    {
+      "word": "dot",
+      "pos": "n",
+      "meaning": "点，小圆点，点状物",
+      "examples": [
+        "Draw big dots on your eggs."
+      ],
+      "books": [
+        "Hen's Pens"
+      ]
+    },
+    {
+      "word": "indeed",
+      "pos": "adv",
+      "meaning": "的确，确实，实际上",
+      "examples": [
+        "Hen's zigzags are very bright indeed."
+      ],
+      "books": [
+        "Hen's Pens"
+      ]
+    },
+    {
+      "word": "sure",
+      "pos": "adj",
+      "meaning": "确信的，有把握的",
+      "examples": [
+        "I'm sure the others will not mind...",
+        "I was sure you were a pig.",
+        "Sure. Everyone pretends."
+      ],
+      "books": [
+        "Hen's Pens",
+        "I'm a Frog"
+      ]
+    },
+    {
+      "word": "mind",
+      "pos": "v",
+      "meaning": "介意，反对",
+      "examples": [
+        "I'm sure the others will not mind..."
+      ],
+      "books": [
+        "Hen's Pens"
+      ]
+    },
+    {
+      "word": "if",
+      "pos": "conj",
+      "meaning": "如果",
+      "examples": [
+        "if I zigzag all the eggs I find."
+      ],
+      "books": [
+        "Hen's Pens"
+      ]
+    },
+    {
+      "word": "dreadful",
+      "pos": "adj",
+      "meaning": "糟糕透顶的",
+      "examples": [
+        "Now all the eggs are in a dreadful mix."
+      ],
+      "books": [
+        "Hen's Pens"
+      ]
+    },
+    {
+      "word": "mix",
+      "pos": "n",
+      "meaning": "混合体",
+      "examples": [
+        "Now all the eggs are in a dreadful mix."
+      ],
+      "books": [
+        "Hen's Pens"
+      ]
+    },
+    {
+      "word": "sort out",
+      "pos": "phrase",
+      "meaning": "挑选出；分类",
+      "examples": [],
+      "books": [
+        "Hen's Pens"
+      ]
+    },
+    {
+      "word": "fix",
+      "pos": "v",
+      "meaning": "处理，解决（问题等）",
+      "examples": [
+        "Sorting them out is hard to fix.",
+        "Will being sorry fix my toy?!"
+      ],
+      "books": [
+        "Hen's Pens",
+        "I Love My New Toy"
+      ]
+    },
+    {
+      "word": "mistake",
+      "pos": "n",
+      "meaning": "错误，过失",
+      "examples": [
+        "Hen has made a bad mistake."
+      ],
+      "books": [
+        "Hen's Pens"
+      ]
+    },
+    {
+      "word": "frog",
+      "pos": "n",
+      "meaning": "蛙，青蛙",
+      "examples": [
+        "Frog sits on his log by the bog.",
+        "Frog on A Log",
+        "Off he goes! Frog likes to jog."
+      ],
+      "books": [
+        "Frog on a Log",
+        "I'm a Frog"
+      ]
+    },
+    {
+      "word": "bog",
+      "pos": "n",
+      "meaning": "泥塘，沼泽",
+      "examples": [
+        "Frog sits on his log by the bog.",
+        "With one big hop, he jumps over the bog.",
+        "I'm a jogging frog from the log by the bog."
+      ],
+      "books": [
+        "Frog on a Log"
+      ]
+    },
+    {
+      "word": "jump over",
+      "pos": "phrase",
+      "meaning": "跳过",
+      "examples": [
+        "With one big hop, he jumps over the bog."
+      ],
+      "books": [
+        "Frog on a Log"
+      ]
+    },
+    {
+      "word": "off",
+      "pos": "adv",
+      "meaning": "从…离开",
+      "examples": [
+        "Off he goes! Frog likes to jog.",
+        "Frog falls off into the bog.",
+        "...and Frog falls off into the bog."
+      ],
+      "books": [
+        "Frog on a Log",
+        "The Thank You Book"
+      ]
+    },
+    {
+      "word": "jog",
+      "pos": "v",
+      "meaning": "慢跑",
+      "examples": [
+        "Off he goes! Frog likes to jog.",
+        "I'm a jogging frog from the log by the bog.",
+        "Frog's jogging has ended. It is foggy."
+      ],
+      "books": [
+        "Frog on a Log"
+      ]
+    },
+    {
+      "word": "from",
+      "pos": "prep",
+      "meaning": "来自",
+      "examples": [
+        "I'm a jogging frog from the log by the bog."
+      ],
+      "books": [
+        "Frog on a Log"
+      ]
+    },
+    {
+      "word": "foggy",
+      "pos": "adj",
+      "meaning": "有雾的，雾气茫茫的",
+      "examples": [
+        "Frog's jogging has ended. It is foggy."
+      ],
+      "books": [
+        "Frog on a Log"
+      ]
+    },
+    {
+      "word": "bump into",
+      "pos": "phrase",
+      "meaning": "无意中遇到、碰到",
+      "examples": [
+        "Pup can't see. He bumps into Frog's log.",
+        "Now he bumps into Frog's log...",
+        "Bump into my log\" says Frog."
+      ],
+      "books": [
+        "Frog on a Log"
+      ]
+    },
+    {
+      "word": "fall off",
+      "pos": "phrase",
+      "meaning": "跌落；下降",
+      "examples": [
+        "Frog falls off into the bog.",
+        "...and Frog falls off into the bog.",
+        "I cannot fall off. I'm strapped to my log."
+      ],
+      "books": [
+        "Frog on a Log"
+      ]
+    },
+    {
+      "word": "silly",
+      "pos": "adj",
+      "meaning": "愚蠢的，傻的",
+      "examples": [
+        "You silly dog!",
+        "You silly hog!",
+        "You will not call us silly dog and hog?"
+      ],
+      "books": [
+        "Frog on a Log",
+        "I Am Going",
+        "Let's Go For a Drive"
+      ]
+    },
+    {
+      "word": "along",
+      "pos": "adv",
+      "meaning": "前来",
+      "examples": [
+        "Frog is back up on his log. Along trots Big Pig in the fog."
+      ],
+      "books": [
+        "Frog on a Log"
+      ]
+    },
+    {
+      "word": "trot",
+      "pos": "v",
+      "meaning": "（马等四足动物）快步，疾走",
+      "examples": [
+        "Frog is back up on his log. Along trots Big Pig in the fog."
+      ],
+      "books": [
+        "Frog on a Log"
+      ]
+    },
+    {
+      "word": "hog",
+      "pos": "n",
+      "meaning": "猪",
+      "examples": [
+        "You silly hog!",
+        "You will not call us silly dog and hog?"
+      ],
+      "books": [
+        "Frog on a Log"
+      ]
+    },
+    {
+      "word": "sunny",
+      "pos": "adj",
+      "meaning": "阳光充足的，阳光明媚",
+      "examples": [
+        "Next day, it is sunny.",
+        "It might be sunny while we drive.",
+        "Sunglasses!Sunglasses!Sunny-sunglasses!"
+      ],
+      "books": [
+        "Frog on a Log",
+        "Let's Go For a Drive"
+      ]
+    },
+    {
+      "word": "croak",
+      "pos": "v",
+      "meaning": "呱呱地叫",
+      "examples": [
+        "No, bump away!\" croaks grinning Frog."
+      ],
+      "books": [
+        "Frog on a Log"
+      ]
+    },
+    {
+      "word": "grinning",
+      "pos": "v",
+      "meaning": "露齿笑的（grin的进行时）",
+      "examples": [
+        "No, bump away!\" croaks grinning Frog."
+      ],
+      "books": [
+        "Frog on a Log"
+      ]
+    },
+    {
+      "word": "strap",
+      "pos": "v",
+      "meaning": "（用带子）束住，捆绑（过去",
+      "examples": [
+        "I cannot fall off. I'm strapped to my log."
+      ],
+      "books": [
+        "Frog on a Log"
+      ]
+    },
+    {
+      "word": "which",
+      "pos": "pron",
+      "meaning": "（指明事物）……的那个",
+      "examples": [
+        "...which tips back into the bog...."
+      ],
+      "books": [
+        "Frog on a Log"
+      ]
+    },
+    {
+      "word": "tip",
+      "pos": "v",
+      "meaning": "倾斜，斜侧",
+      "examples": [
+        "...which tips back into the bog...."
+      ],
+      "books": [
+        "Frog on a Log"
+      ]
+    },
+    {
+      "word": "take with",
+      "pos": "phrase",
+      "meaning": "将……带上",
+      "examples": [
+        "...taking with it foolish Frog."
+      ],
+      "books": [
+        "Frog on a Log"
+      ]
+    },
+    {
+      "word": "foolish",
+      "pos": "adj",
+      "meaning": "愚蠢的，傻的",
+      "examples": [
+        "...taking with it foolish Frog."
+      ],
+      "books": [
+        "Frog on a Log"
+      ]
+    },
+    {
+      "word": "agog",
+      "pos": "adj",
+      "meaning": "兴奋的",
+      "examples": [
+        "Frog is agog. \"Now it is me who is silly. A silly frog!"
+      ],
+      "books": [
+        "Frog on a Log"
+      ]
+    },
+    {
+      "word": "piggie",
+      "pos": "n",
+      "meaning": "小猪，猪",
+      "examples": [
+        "Hi, Piggie!"
+      ],
+      "books": [
+        "I Love My New Toy"
+      ]
+    },
+    {
+      "word": "look at",
+      "pos": "phrase",
+      "meaning": "看",
+      "examples": [
+        "LOOK AT MY NEW TOY!!!",
+        "Look at me go!"
+      ],
+      "books": [
+        "I Love My New Toy",
+        "I Am Going"
+      ]
+    },
+    {
+      "word": "toy",
+      "pos": "n",
+      "meaning": "玩具",
+      "examples": [
+        "I Love My New Toy",
+        "LOOK AT MY NEW TOY!!!",
+        "I love my new toy."
+      ],
+      "books": [
+        "I Love My New Toy"
+      ]
+    },
+    {
+      "word": "does",
+      "pos": "v",
+      "meaning": "做；工作；有用（do 的第三人称单数）",
+      "examples": [
+        "What does it do?"
+      ],
+      "books": [
+        "I Love My New Toy"
+      ]
+    },
+    {
+      "word": "idea",
+      "pos": "n",
+      "meaning": "想法，主意",
+      "examples": [
+        "I have no idea.",
+        "We need a new idea...",
+        "She has an idea."
+      ],
+      "books": [
+        "I Love My New Toy",
+        "Can I Play Too",
+        "Let's Go For a Drive"
+      ]
+    },
+    {
+      "word": "maybe",
+      "pos": "adv",
+      "meaning": "（不确定）大概，或许",
+      "examples": [
+        "Maybe it is a throwing toy.",
+        "Maybe we can have fun, too...",
+        "YAY! Maybe you will really like slop!"
+      ],
+      "books": [
+        "I Love My New Toy",
+        "Are You Ready to Play Outside",
+        "I Really Like Slop",
+        "Watch Me Throw the Ball"
+      ]
+    },
+    {
+      "word": "throwing",
+      "pos": "n",
+      "meaning": "投掷",
+      "examples": [
+        "Maybe it is a throwing toy.",
+        "I love throwing toys."
+      ],
+      "books": [
+        "I Love My New Toy"
+      ]
+    },
+    {
+      "word": "here",
+      "pos": "adv",
+      "meaning": "给某人东西或指某物时说",
+      "examples": [
+        "Here. Try it.",
+        "Here it comes!"
+      ],
+      "books": [
+        "I Love My New Toy",
+        "Listen to My Trumpet"
+      ]
+    },
+    {
+      "word": "zip",
+      "pos": "v",
+      "meaning": "嘘嘘地飞，伴随嘶嘶声移动",
+      "examples": [],
+      "books": [
+        "I Love My New Toy"
+      ]
+    },
+    {
+      "word": "nice",
+      "pos": "adj",
+      "meaning": "干得好的",
+      "examples": [
+        "Nice throw.",
+        "Fun! Brian Bat is nice!",
+        "Both Piggie and Brian are so nice!"
+      ],
+      "books": [
+        "I Love My New Toy",
+        "My New Friend Is So Fun"
+      ]
+    },
+    {
+      "word": "throw",
+      "pos": "v",
+      "meaning": "投，掷，抛",
+      "examples": [
+        "Maybe it is a throwing toy.",
+        "I love throwing toys.",
+        "Nice throw."
+      ],
+      "books": [
+        "I Love My New Toy",
+        "Can I Play Too"
+      ]
+    },
+    {
+      "word": "zoom",
+      "pos": "int",
+      "meaning": "嗖（拟声词，表示快速移动）",
+      "examples": [],
+      "books": [
+        "I Love My New Toy"
+      ]
+    },
+    {
+      "word": "break",
+      "pos": "v",
+      "meaning": "打破，打碎",
+      "examples": [
+        "You have a break-and-snap toy."
+      ],
+      "books": [
+        "I Love My New Toy"
+      ]
+    },
+    {
+      "word": "broke",
+      "pos": "v",
+      "meaning": "打破，打碎（break 的过去式形式）",
+      "examples": [
+        "I broke your toy.",
+        "You broke my toy.",
+        "And YOU broke it!"
+      ],
+      "books": [
+        "I Love My New Toy",
+        "I Broke My Trunk"
+      ]
+    },
+    {
+      "word": "mad",
+      "pos": "adj",
+      "meaning": "生气的，气愤的",
+      "examples": [
+        "I am mad and sad!"
+      ],
+      "books": [
+        "I Love My New Toy"
+      ]
+    },
+    {
+      "word": "sad",
+      "pos": "adj",
+      "meaning": "伤心的，难过的",
+      "examples": [
+        "I am mad and sad!",
+        "My Friend is Sad",
+        "My friend is sad."
+      ],
+      "books": [
+        "I Love My New Toy",
+        "My Friend is Sad"
+      ]
+    },
+    {
+      "word": "sorry",
+      "pos": "adj",
+      "meaning": "抱歉的，惭愧的",
+      "examples": [
+        "I am sorry.",
+        "You are sorry!",
+        "Very sorry!"
+      ],
+      "books": [
+        "I Love My New Toy"
+      ]
+    },
+    {
+      "word": "and",
+      "pos": "conj",
+      "meaning": "而且",
+      "examples": [
+        "I am mad and sad!",
+        "And YOU broke it!",
+        "You have a break-and-snap toy."
+      ],
+      "books": [
+        "I Love My New Toy",
+        "Are You Ready to Play Outside"
+      ]
+    },
+    {
+      "word": "snap",
+      "pos": "v",
+      "meaning": "（啪的一声）扣上",
+      "examples": [
+        "You have a break-and-snap toy."
+      ],
+      "books": [
+        "I Love My New Toy"
+      ]
+    },
+    {
+      "word": "enjoy",
+      "pos": "v",
+      "meaning": "玩得开心",
+      "examples": [],
+      "books": [
+        "I Love My New Toy"
+      ]
+    },
+    {
+      "word": "play with",
+      "pos": "phrase",
+      "meaning": "同…一起玩",
+      "examples": [
+        "Do you want to play with my new toy?",
+        "You do not want to play with my new toy?",
+        "I do not want to play with your new toy."
+      ],
+      "books": [
+        "I Love My New Toy",
+        "Can I Play Too"
+      ]
+    },
+    {
+      "word": "want to",
+      "pos": "phrase",
+      "meaning": "想要做；想要……",
+      "examples": [
+        "Do you want to play with my new toy?",
+        "You do not want to play with my new toy?",
+        "I do not want to play with your new toy."
+      ],
+      "books": [
+        "I Love My New Toy",
+        "Can I Play Too",
+        "Pigs Make Me Sneeze"
+      ]
+    },
+    {
+      "word": "good",
+      "pos": "adj",
+      "meaning": "好的",
+      "examples": [
+        "This is a good day.",
+        "Yes! Yesterday was a good day, too."
+      ],
+      "books": [
+        "I Am Going"
+      ]
+    },
+    {
+      "word": "just like",
+      "pos": "phrase",
+      "meaning": "就像，正如",
+      "examples": [
+        "Just like yesterday.",
+        "Just like yesterday"
+      ],
+      "books": [
+        "I Am Going"
+      ]
+    },
+    {
+      "word": "yesterday",
+      "pos": "adv",
+      "meaning": "昨天",
+      "examples": [
+        "Just like yesterday.",
+        "Yes! Yesterday was a good day, too.",
+        "Just like yesterday"
+      ],
+      "books": [
+        "I Am Going"
+      ]
+    },
+    {
+      "word": "too",
+      "pos": "adv",
+      "meaning": "也",
+      "examples": [
+        "Yes! Yesterday was a good day, too.",
+        "Then I will go, too!"
+      ],
+      "books": [
+        "I Am Going"
+      ]
+    },
+    {
+      "word": "well",
+      "pos": "int",
+      "meaning": "（用于表示想要开口说话）嗯，好",
+      "examples": [
+        "Well, I am going."
+      ],
+      "books": [
+        "I Am Going"
+      ]
+    },
+    {
+      "word": "go away",
+      "pos": "phrase",
+      "meaning": "离开，走开",
+      "examples": [
+        "You are going away?!"
+      ],
+      "books": [
+        "I Am Going"
+      ]
+    },
+    {
+      "word": "cannot",
+      "pos": "v",
+      "meaning": "不能；无法",
+      "examples": [
+        "You cannot go!"
+      ],
+      "books": [
+        "I Am Going"
+      ]
+    },
+    {
+      "word": "must",
+      "pos": "aux",
+      "meaning": "一定",
+      "examples": [
+        "You must not go!"
+      ],
+      "books": [
+        "I Am Going"
+      ]
+    },
+    {
+      "word": "let",
+      "pos": "v",
+      "meaning": "让（某事发生）",
+      "examples": [
+        "I WILL NOT LET YOU GO!!!"
+      ],
+      "books": [
+        "I Am Going"
+      ]
+    },
+    {
+      "word": "going",
+      "pos": "v",
+      "meaning": "走（go的现在分词）",
+      "examples": [
+        "Well, I am going.",
+        "You are going?!",
+        "You are going away?!"
+      ],
+      "books": [
+        "I Am Going"
+      ]
+    },
+    {
+      "word": "who",
+      "pos": "pron",
+      "meaning": "谁",
+      "examples": [
+        "Who will I skip with?",
+        "Who will I play Ping-Pong with?",
+        "Who will I wear a silly hat with?"
+      ],
+      "books": [
+        "I Am Going"
+      ]
+    },
+    {
+      "word": "skip",
+      "pos": "v",
+      "meaning": "蹦蹦跳跳地走",
+      "examples": [
+        "Who will I skip with?",
+        "WHO WILL I SKIP AND PLAY PING-PONG",
+        "We are going to skip!"
+      ],
+      "books": [
+        "I Am Going",
+        "Are You Ready to Play Outside"
+      ]
+    },
+    {
+      "word": "with",
+      "pos": "prep",
+      "meaning": "和……在一起",
+      "examples": [
+        "Who will I skip with?",
+        "Who will I play Ping-Pong with?",
+        "Who will I wear a silly hat with?"
+      ],
+      "books": [
+        "I Am Going"
+      ]
+    },
+    {
+      "word": "ping-pong",
+      "pos": "n",
+      "meaning": "乒乓球",
+      "examples": [
+        "Who will I play Ping-Pong with?",
+        "WHO WILL I SKIP AND PLAY PING-PONG"
+      ],
+      "books": [
+        "I Am Going"
+      ]
+    },
+    {
+      "word": "wear",
+      "pos": "v",
+      "meaning": "戴",
+      "examples": [
+        "Who will I wear a silly hat with?"
+      ],
+      "books": [
+        "I Am Going"
+      ]
+    },
+    {
+      "word": "hat",
+      "pos": "n",
+      "meaning": "帽子",
+      "examples": [
+        "Who will I wear a silly hat with?",
+        "IN A SILLY HAT WITH!?!"
+      ],
+      "books": [
+        "I Am Going"
+      ]
+    },
+    {
+      "word": "gerald",
+      "pos": "n",
+      "meaning": "杰拉尔德（男子名，义为勇敢的战士）*小象的名字",
+      "examples": [
+        "I am sorry, Gerald.",
+        "It is lunchtime, Gerald."
+      ],
+      "books": [
+        "I Am Going"
+      ]
+    },
+    {
+      "word": "fine",
+      "pos": "adj",
+      "meaning": "（无奈的）好吧",
+      "examples": [],
+      "books": [
+        "I Am Going"
+      ]
+    },
+    {
+      "word": "then",
+      "pos": "adv",
+      "meaning": "那么",
+      "examples": [
+        "Then I will go, too!",
+        "Then I cannot be near you!",
+        "Then we cannot be friends!"
+      ],
+      "books": [
+        "I Am Going",
+        "Pigs Make Me Sneeze"
+      ]
+    },
+    {
+      "word": "wait",
+      "pos": "v",
+      "meaning": "等一下",
+      "examples": [
+        "Wait! Go later!"
+      ],
+      "books": [
+        "I Am Going"
+      ]
+    },
+    {
+      "word": "later",
+      "pos": "adv",
+      "meaning": "稍后",
+      "examples": [
+        "Wait! Go later!"
+      ],
+      "books": [
+        "I Am Going"
+      ]
+    },
+    {
+      "word": "next week",
+      "pos": "phrase",
+      "meaning": "下周",
+      "examples": [
+        "Go next week!"
+      ],
+      "books": [
+        "I Am Going"
+      ]
+    },
+    {
+      "word": "next month",
+      "pos": "phrase",
+      "meaning": "下个月",
+      "examples": [
+        "Go next month!"
+      ],
+      "books": [
+        "I Am Going"
+      ]
+    },
+    {
+      "word": "next year",
+      "pos": "phrase",
+      "meaning": "明年",
+      "examples": [
+        "GO NEXT YEAR!!!"
+      ],
+      "books": [
+        "I Am Going"
+      ]
+    },
+    {
+      "word": "now",
+      "pos": "adv",
+      "meaning": "现在",
+      "examples": [
+        "I am going now."
+      ],
+      "books": [
+        "I Am Going"
+      ]
+    },
+    {
+      "word": "why",
+      "pos": "adv",
+      "meaning": "（用于问句）为什么",
+      "examples": [],
+      "books": [
+        "I Am Going"
+      ]
+    },
+    {
+      "word": "lunchtime",
+      "pos": "n",
+      "meaning": "午餐时间",
+      "examples": [
+        "It is lunchtime, Gerald."
+      ],
+      "books": [
+        "I Am Going"
+      ]
+    },
+    {
+      "word": "eat",
+      "pos": "v",
+      "meaning": "吃，吃饭",
+      "examples": [
+        "I am going to eat lunch.",
+        "You are going to eat lunch?"
+      ],
+      "books": [
+        "I Am Going"
+      ]
+    },
+    {
+      "word": "ready",
+      "pos": "v",
+      "meaning": "<正式>做好……的准备",
+      "examples": [
+        "Are You Ready to Play Outside",
+        "Are you ready to play outside?"
+      ],
+      "books": [
+        "Are You Ready to Play Outside"
+      ]
+    },
+    {
+      "word": "play",
+      "pos": "v",
+      "meaning": "玩，玩耍",
+      "examples": [
+        "Are You Ready to Play Outside",
+        "Are you ready to play outside?",
+        "HOW CAN ANYONE PLAY OUTSIDE WITH ALL"
+      ],
+      "books": [
+        "Are You Ready to Play Outside"
+      ]
+    },
+    {
+      "word": "outside",
+      "pos": "adv",
+      "meaning": "在户外",
+      "examples": [
+        "Are You Ready to Play Outside",
+        "Are you ready to play outside?",
+        "HOW CAN ANYONE PLAY OUTSIDE WITH ALL"
+      ],
+      "books": [
+        "Are You Ready to Play Outside"
+      ]
+    },
+    {
+      "word": "be going to do",
+      "pos": "phrase",
+      "meaning": "打算，即将做",
+      "examples": [],
+      "books": [
+        "Are You Ready to Play Outside"
+      ]
+    },
+    {
+      "word": "everything",
+      "pos": "pron",
+      "meaning": "每件事",
+      "examples": [
+        "We are going to do everything today!",
+        "We have everything we need for our drive..."
+      ],
+      "books": [
+        "Are You Ready to Play Outside",
+        "Let's Go For a Drive"
+      ]
+    },
+    {
+      "word": "run",
+      "pos": "v",
+      "meaning": "奔跑；跑步",
+      "examples": [
+        "We are going to run!",
+        "Run! Run! Run!"
+      ],
+      "books": [
+        "Are You Ready to Play Outside"
+      ]
+    },
+    {
+      "word": "jump",
+      "pos": "v",
+      "meaning": "跳（全身跳起的动作）",
+      "examples": [
+        "We are going to jump!",
+        "Jump! Jump! Jump!"
+      ],
+      "books": [
+        "Are You Ready to Play Outside"
+      ]
+    },
+    {
+      "word": "nothing",
+      "pos": "pron",
+      "meaning": "没有什么",
+      "examples": [
+        "NOTHING CAN STOP US!"
+      ],
+      "books": [
+        "Are You Ready to Play Outside"
+      ]
+    },
+    {
+      "word": "us",
+      "pos": "pron",
+      "meaning": "我们",
+      "examples": [
+        "NOTHING CAN STOP US!"
+      ],
+      "books": [
+        "Are You Ready to Play Outside"
+      ]
+    },
+    {
+      "word": "rain",
+      "pos": "v",
+      "meaning": "下雨",
+      "examples": [
+        "It is starting to rain.",
+        "It is raining.",
+        "I have never seen so much rain in my life!"
+      ],
+      "books": [
+        "Are You Ready to Play Outside"
+      ]
+    },
+    {
+      "word": "pouring",
+      "pos": "v",
+      "meaning": "（雨）倾盆而下（pour的现在分词）",
+      "examples": [
+        "It is pouring.",
+        "It is really pouring."
+      ],
+      "books": [
+        "Are You Ready to Play Outside"
+      ]
+    },
+    {
+      "word": "never",
+      "pos": "adv",
+      "meaning": "决不，永不",
+      "examples": [
+        "I have never seen so much rain in my life!"
+      ],
+      "books": [
+        "Are You Ready to Play Outside"
+      ]
+    },
+    {
+      "word": "seen",
+      "pos": "v",
+      "meaning": "看见（see的过在分词）",
+      "examples": [
+        "I have never seen so much rain in my life!",
+        "I have not seen Gerald today."
+      ],
+      "books": [
+        "Are You Ready to Play Outside",
+        "I Broke My Trunk"
+      ]
+    },
+    {
+      "word": "so much",
+      "pos": "phrase",
+      "meaning": "达到这种程度",
+      "examples": [
+        "I have never seen so much rain in my life!"
+      ],
+      "books": [
+        "Are You Ready to Play Outside"
+      ]
+    },
+    {
+      "word": "in my life",
+      "pos": "phrase",
+      "meaning": "我的一生，在我生命中",
+      "examples": [
+        "I have never seen so much rain in my life!"
+      ],
+      "books": [
+        "Are You Ready to Play Outside"
+      ]
+    },
+    {
+      "word": "happy",
+      "pos": "adj",
+      "meaning": "快乐的；幸福的",
+      "examples": [
+        "I am not a happy pig."
+      ],
+      "books": [
+        "Are You Ready to Play Outside"
+      ]
+    },
+    {
+      "word": "still",
+      "pos": "adv",
+      "meaning": "还，依旧",
+      "examples": [
+        "But, it is still raining!",
+        "But he is still sad.",
+        "But you are still sad."
+      ],
+      "books": [
+        "Are You Ready to Play Outside",
+        "My Friend is Sad"
+      ]
+    },
+    {
+      "word": "anyone",
+      "pos": "pron",
+      "meaning": "任何一个人",
+      "examples": [
+        "HOW CAN ANYONE PLAY OUTSIDE WITH ALL"
+      ],
+      "books": [
+        "Are You Ready to Play Outside",
+        "Happy Pig Day"
+      ]
+    },
+    {
+      "word": "have fun",
+      "pos": "phrase",
+      "meaning": "玩得开心",
+      "examples": [
+        "They are having fun.",
+        "Maybe we can have fun, too..."
+      ],
+      "books": [
+        "Are You Ready to Play Outside"
+      ]
+    },
+    {
+      "word": "great",
+      "pos": "adj",
+      "meaning": "好的，棒的",
+      "examples": [
+        "This is GREAT! Let's play!",
+        "Great. Now cats make me sneeze, too.",
+        "Piggie! Piggie! Great news!"
+      ],
+      "books": [
+        "Are You Ready to Play Outside",
+        "Pigs Make Me Sneeze",
+        "Let's Go For a Drive"
+      ]
+    },
+    {
+      "word": "love",
+      "pos": "v",
+      "meaning": "喜欢（某物或某事）",
+      "examples": [
+        "I love rain!"
+      ],
+      "books": [
+        "Are You Ready to Play Outside"
+      ]
+    },
+    {
+      "word": "hope",
+      "pos": "v",
+      "meaning": "希望",
+      "examples": [
+        "I hope it rains all day!",
+        "I hope I have good dreams."
+      ],
+      "books": [
+        "Are You Ready to Play Outside",
+        "I Will Take a Nap"
+      ]
+    },
+    {
+      "word": "all day",
+      "pos": "phrase",
+      "meaning": "整天",
+      "examples": [
+        "I hope it rains all day!",
+        "Hopping all day"
+      ],
+      "books": [
+        "Are You Ready to Play Outside",
+        "I'm a Frog"
+      ]
+    },
+    {
+      "word": "rats",
+      "pos": "int",
+      "meaning": "可恶，糟糕（表示气恼）",
+      "examples": [],
+      "books": [
+        "Are You Ready to Play Outside"
+      ]
+    },
+    {
+      "word": "worry",
+      "pos": "v",
+      "meaning": "担心，发愁",
+      "examples": [
+        "Do not worry, Piggie. I have a plan.",
+        "Do not worry, Gerald."
+      ],
+      "books": [
+        "Are You Ready to Play Outside",
+        "The Thank You Book"
+      ]
+    },
+    {
+      "word": "plan",
+      "pos": "n",
+      "meaning": "计划，打算",
+      "examples": [
+        "Do not worry, Piggie. I have a plan.",
+        "we need a plan!",
+        "Make a plan and stick to it, is what I say."
+      ],
+      "books": [
+        "Are You Ready to Play Outside",
+        "Let's Go For a Drive"
+      ]
+    },
+    {
+      "word": "elephant",
+      "pos": "n",
+      "meaning": "大象",
+      "examples": [
+        "Elephants make the best friends!"
+      ],
+      "books": [
+        "Are You Ready to Play Outside"
+      ]
+    },
+    {
+      "word": "best",
+      "pos": "adj",
+      "meaning": "最好的",
+      "examples": [
+        "Elephants make the best friends!",
+        "You are the best friend a pig could ever have!",
+        "You are the best!"
+      ],
+      "books": [
+        "Are You Ready to Play Outside",
+        "The Thank You Book"
+      ]
+    },
+    {
+      "word": "play catch",
+      "pos": "phrase",
+      "meaning": "接球游戏，传球游戏",
+      "examples": [
+        "Let's play catch!",
+        "I love playing catch with friends!",
+        "We are playing catch."
+      ],
+      "books": [
+        "Can I Play Too"
+      ]
+    },
+    {
+      "word": "love doing sth",
+      "pos": "phrase",
+      "meaning": "喜欢做某事（love playing catch",
+      "examples": [
+        "love doing sth. love playing",
+        "love doing sth. love playing catch"
+      ],
+      "books": [
+        "Can I Play Too"
+      ]
+    },
+    {
+      "word": "so",
+      "pos": "conj",
+      "meaning": "所以",
+      "examples": [
+        "I am so happy!"
+      ],
+      "books": [
+        "Can I Play Too",
+        "Happy Pig Day"
+      ]
+    },
+    {
+      "word": "arm",
+      "pos": "n",
+      "meaning": "手臂",
+      "examples": [
+        "You do not have arms.",
+        "I do not have arms!?!",
+        "I know I do not have arms!"
+      ],
+      "books": [
+        "Can I Play Too"
+      ]
+    },
+    {
+      "word": "know",
+      "pos": "v",
+      "meaning": "知道",
+      "examples": [
+        "I know I do not have arms!",
+        "I do not know. But I can try.",
+        "I know parties."
+      ],
+      "books": [
+        "Can I Play Too",
+        "I Am Invited to a Party"
+      ]
+    },
+    {
+      "word": "try to",
+      "pos": "phrase",
+      "meaning": "试着；设法",
+      "examples": [
+        "Try to catch it!"
+      ],
+      "books": [
+        "Can I Play Too"
+      ]
+    },
+    {
+      "word": "okay",
+      "pos": "int",
+      "meaning": "好，行",
+      "examples": [
+        "It is okay. Let's try again.",
+        "Okay. I will try again."
+      ],
+      "books": [
+        "Can I Play Too"
+      ]
+    },
+    {
+      "word": "again",
+      "pos": "adv",
+      "meaning": "再一次",
+      "examples": [
+        "It is okay. Let's try again.",
+        "Okay. I will try again."
+      ],
+      "books": [
+        "Can I Play Too"
+      ]
+    },
+    {
+      "word": "working",
+      "pos": "v",
+      "meaning": "工作（work的现在分词）",
+      "examples": [
+        "This is not working."
+      ],
+      "books": [
+        "Can I Play Too"
+      ]
+    },
+    {
+      "word": "need",
+      "pos": "v",
+      "meaning": "需要",
+      "examples": [
+        "We need a new idea...",
+        "Maybe we need more balls.",
+        "Do we need even more balls?"
+      ],
+      "books": [
+        "Can I Play Too",
+        "My Friend is Sad"
+      ]
+    },
+    {
+      "word": "more",
+      "pos": "adv",
+      "meaning": "更多的",
+      "examples": [
+        "Maybe we need more balls.",
+        "More balls!",
+        "More balls!?!"
+      ],
+      "books": [
+        "Can I Play Too",
+        "My Friend is Sad",
+        "I Broke My Trunk"
+      ]
+    },
+    {
+      "word": "even more",
+      "pos": "phrase",
+      "meaning": "更多",
+      "examples": [
+        "Do we need even more balls?"
+      ],
+      "books": [
+        "Can I Play Too"
+      ]
+    },
+    {
+      "word": "tried",
+      "pos": "v",
+      "meaning": "努力（try 的过去式）",
+      "examples": [
+        "We have tried."
+      ],
+      "books": [
+        "Can I Play Too"
+      ]
+    },
+    {
+      "word": "swim",
+      "pos": "n",
+      "meaning": "游泳",
+      "examples": [
+        "aaaaa A ball? A swim? A hat?"
+      ],
+      "books": [
+        "Pigs Make Me Sneeze"
+      ]
+    },
+    {
+      "word": "sneezing",
+      "pos": "v",
+      "meaning": "打喷嚏（sneeze的现在分词）",
+      "examples": [],
+      "books": [
+        "Pigs Make Me Sneeze"
+      ]
+    },
+    {
+      "word": "softly",
+      "pos": "adv",
+      "meaning": "轻声地；温柔地",
+      "examples": [
+        "What if you tried to sneeze more softly?"
+      ],
+      "books": [
+        "Pigs Make Me Sneeze"
+      ]
+    },
+    {
+      "word": "near",
+      "pos": "v",
+      "meaning": "接近，靠近",
+      "examples": [
+        "Then I cannot be near you!"
+      ],
+      "books": [
+        "Pigs Make Me Sneeze"
+      ]
+    },
+    {
+      "word": "apart",
+      "pos": "adv",
+      "meaning": "相隔，分开",
+      "examples": [
+        "Then we must be apart forever!"
+      ],
+      "books": [
+        "Pigs Make Me Sneeze"
+      ]
+    },
+    {
+      "word": "forever",
+      "pos": "adv",
+      "meaning": "永远",
+      "examples": [
+        "Then we must be apart forever!"
+      ],
+      "books": [
+        "Pigs Make Me Sneeze"
+      ]
+    },
+    {
+      "word": "speak",
+      "pos": "v",
+      "meaning": "说",
+      "examples": [
+        "No. Do not speak.",
+        "I am trying to speak Elephant!"
+      ],
+      "books": [
+        "Pigs Make Me Sneeze",
+        "Listen to My Trumpet"
+      ]
+    },
+    {
+      "word": "doctor",
+      "pos": "n",
+      "meaning": "医生",
+      "examples": [
+        "No. I am not okay, Doctor Cat.",
+        "Oh, thank you, doctor!"
+      ],
+      "books": [
+        "Pigs Make Me Sneeze"
+      ]
+    },
+    {
+      "word": "think",
+      "pos": "v",
+      "meaning": "认为，觉得",
+      "examples": [
+        "I do not think pigs make you sneeze.",
+        "I do not think cats make you sneeze.",
+        "I think you have a cold."
+      ],
+      "books": [
+        "Pigs Make Me Sneeze"
+      ]
+    },
+    {
+      "word": "have a cold",
+      "pos": "phrase",
+      "meaning": "感冒，受凉",
+      "examples": [
+        "I think you have a cold.",
+        "I HAVE A COLD!"
+      ],
+      "books": [
+        "Pigs Make Me Sneeze"
+      ]
+    },
+    {
+      "word": "sick",
+      "pos": "adj",
+      "meaning": "生病的，患病的",
+      "examples": [
+        "You are sick.",
+        "I AM SICK!!!"
+      ],
+      "books": [
+        "Pigs Make Me Sneeze"
+      ]
+    },
+    {
+      "word": "news",
+      "pos": "n",
+      "meaning": "消息",
+      "examples": [
+        "Piggie! Piggie! Great news!"
+      ],
+      "books": [
+        "Pigs Make Me Sneeze"
+      ]
+    },
+    {
+      "word": "the best day of",
+      "pos": "phrase",
+      "meaning": "最好的一天",
+      "examples": [
+        "Today is the best day of the year!"
+      ],
+      "books": [
+        "Happy Pig Day"
+      ]
+    },
+    {
+      "word": "year",
+      "pos": "n",
+      "meaning": "年",
+      "examples": [
+        "Today is the best day of the year!"
+      ],
+      "books": [
+        "Happy Pig Day"
+      ]
+    },
+    {
+      "word": "free",
+      "pos": "adj",
+      "meaning": "免费的",
+      "examples": [
+        "Today is free ice cream day?"
+      ],
+      "books": [
+        "Happy Pig Day"
+      ]
+    },
+    {
+      "word": "ice cream",
+      "pos": "phrase",
+      "meaning": "冰淇淋",
+      "examples": [
+        "Today is free ice cream day?",
+        "Should I Share My Ice Cream",
+        "Get your cold ice cream for a hot day!"
+      ],
+      "books": [
+        "Happy Pig Day",
+        "Should I Share My Ice Cream"
+      ]
+    },
+    {
+      "word": "party",
+      "pos": "n",
+      "meaning": "聚会，派对",
+      "examples": [
+        "It is the best day to have a pig party!",
+        "I Am Invited to a Party",
+        "I am invited to a party!"
+      ],
+      "books": [
+        "Happy Pig Day",
+        "I Am Invited to a Party"
+      ]
+    },
+    {
+      "word": "sing",
+      "pos": "v",
+      "meaning": "唱（歌）",
+      "examples": [
+        "It's the best day to sing pig songs!"
+      ],
+      "books": [
+        "Happy Pig Day"
+      ]
+    },
+    {
+      "word": "songs",
+      "pos": "n",
+      "meaning": "歌曲，歌集（song 的复数）",
+      "examples": [
+        "It's the best day to sing pig songs!"
+      ],
+      "books": [
+        "Happy Pig Day"
+      ]
+    },
+    {
+      "word": "dance",
+      "pos": "n",
+      "meaning": "舞蹈  v. 跳舞",
+      "examples": [
+        "It is the best day to dance pig dances!"
+      ],
+      "books": [
+        "Happy Pig Day"
+      ]
+    },
+    {
+      "word": "food",
+      "pos": "n",
+      "meaning": "食物",
+      "examples": [
+        "It is the best day to eat pig food!"
+      ],
+      "books": [
+        "Happy Pig Day"
+      ]
+    },
+    {
+      "word": "oink",
+      "pos": "int",
+      "meaning": "哼哼（猪的叫声）",
+      "examples": [
+        "It is the best day to say: OINKY! OINK! OINK!",
+        "Look! OINKY! OINK! OINK!",
+        "OINKY! OINK! OINK!"
+      ],
+      "books": [
+        "Happy Pig Day"
+      ]
+    },
+    {
+      "word": "know about",
+      "pos": "phrase",
+      "meaning": "知道……的情况；知道关于",
+      "examples": [
+        "Ooooh! I did not know about Happy Pig Day."
+      ],
+      "books": [
+        "Happy Pig Day"
+      ]
+    },
+    {
+      "word": "a lot of",
+      "pos": "phrase",
+      "meaning": "许多,很多",
+      "examples": [
+        "That is a lot of pigs.",
+        "There will be a lot of driving on our drive."
+      ],
+      "books": [
+        "Happy Pig Day",
+        "Let's Go For a Drive"
+      ]
+    },
+    {
+      "word": "trunk",
+      "pos": "n",
+      "meaning": "象鼻",
+      "examples": [
+        "I have a trunk.",
+        "I Broke My Trunk",
+        "What happened to your trunk?"
+      ],
+      "books": [
+        "Happy Pig Day",
+        "I Broke My Trunk"
+      ]
+    },
+    {
+      "word": "gray",
+      "pos": "adj",
+      "meaning": "灰色的；苍白的",
+      "examples": [],
+      "books": [
+        "Happy Pig Day"
+      ]
+    },
+    {
+      "word": "hooves",
+      "pos": "n",
+      "meaning": "蹄（hoof 的复数）",
+      "examples": [
+        "I do not have hooves!"
+      ],
+      "books": [
+        "Happy Pig Day"
+      ]
+    },
+    {
+      "word": "pink",
+      "pos": "adj",
+      "meaning": "粉红色的",
+      "examples": [
+        "I am not PINK!"
+      ],
+      "books": [
+        "Happy Pig Day"
+      ]
+    },
+    {
+      "word": "belong",
+      "pos": "v",
+      "meaning": "属于",
+      "examples": [
+        "and I do not belong."
+      ],
+      "books": [
+        "Happy Pig Day"
+      ]
+    },
+    {
+      "word": "just for",
+      "pos": "phrase",
+      "meaning": "只是为了",
+      "examples": [
+        "Happy Pig Day is not just for pigs."
+      ],
+      "books": [
+        "Happy Pig Day"
+      ]
+    },
+    {
+      "word": "invited",
+      "pos": "v",
+      "meaning": "邀请（invite 的过去式和过去分词，文中指被邀请）",
+      "examples": [
+        "I Am Invited to a Party",
+        "I am invited to a party!"
+      ],
+      "books": [
+        "I Am Invited to a Party"
+      ]
+    },
+    {
+      "word": "cool",
+      "pos": "adj",
+      "meaning": "时髦的，酷的",
+      "examples": [
+        "It is cool."
+      ],
+      "books": [
+        "I Am Invited to a Party"
+      ]
+    },
+    {
+      "word": "have never been",
+      "pos": "phrase",
+      "meaning": "从来没有……（been 是 be 的过去分词）",
+      "examples": [
+        "I have never been to a party.",
+        "have never been ……been be"
+      ],
+      "books": [
+        "I Am Invited to a Party"
+      ]
+    },
+    {
+      "word": "fancy",
+      "pos": "adj",
+      "meaning": "时髦的，华丽的",
+      "examples": [
+        "What if it is a fancy party?",
+        "Is this fancy?",
+        "VERY FANCY."
+      ],
+      "books": [
+        "I Am Invited to a Party"
+      ]
+    },
+    {
+      "word": "be ready",
+      "pos": "phrase",
+      "meaning": "准备好",
+      "examples": [
+        "We must be ready.",
+        "WE MUST BE READY!!!"
+      ],
+      "books": [
+        "I Am Invited to a Party"
+      ]
+    },
+    {
+      "word": "really",
+      "pos": "adv",
+      "meaning": "（用于带有隐含的否定回答的疑问句和感叹句）真的，是吗",
+      "examples": [
+        "I Really Like Slop",
+        "Pigs, really, really, really, really, really like slop!",
+        "YAY! Maybe you will really like slop!"
+      ],
+      "books": [
+        "I Am Invited to a Party",
+        "I Really Like Slop"
+      ]
+    },
+    {
+      "word": "how",
+      "pos": "adv",
+      "meaning": "怎样，如何",
+      "examples": [
+        "How is this?"
+      ],
+      "books": [
+        "I Am Invited to a Party"
+      ]
+    },
+    {
+      "word": "make a splash",
+      "pos": "phrase",
+      "meaning": "引起轰动",
+      "examples": [
+        "We will make a splash."
+      ],
+      "books": [
+        "I Am Invited to a Party"
+      ]
+    },
+    {
+      "word": "costume party",
+      "pos": "phrase",
+      "meaning": "变装舞会；化妆舞会",
+      "examples": [
+        "What if it is a costume party?",
+        "A fancy pool costume party?"
+      ],
+      "books": [
+        "I Am Invited to a Party"
+      ]
+    },
+    {
+      "word": "surprise",
+      "pos": "n",
+      "meaning": "不寻常的事件，意外之事，惊喜",
+      "examples": [
+        "Wellthat is a surprise."
+      ],
+      "books": [
+        "I Am Invited to a Party"
+      ]
+    },
+    {
+      "word": "cowboy",
+      "pos": "n",
+      "meaning": "牛仔",
+      "examples": [
+        "Gerald loves cowboys.",
+        "I saw a COWBOY!",
+        "But you love cowboys!"
+      ],
+      "books": [
+        "My Friend is Sad"
+      ]
+    },
+    {
+      "word": "clown",
+      "pos": "n",
+      "meaning": "小丑",
+      "examples": [
+        "Clowns are funny.",
+        "Then I saw a clown!",
+        "A funny, funny clown!"
+      ],
+      "books": [
+        "My Friend is Sad"
+      ]
+    },
+    {
+      "word": "robot",
+      "pos": "n",
+      "meaning": "机器人",
+      "examples": [
+        "How can anyone be sad around a robot!?",
+        "I saw a robot!",
+        "A cool, cool robot!"
+      ],
+      "books": [
+        "My Friend is Sad"
+      ]
+    },
+    {
+      "word": "can",
+      "pos": "v",
+      "meaning": "可以，能",
+      "examples": [
+        "How can anyone be sad around a robot!?"
+      ],
+      "books": [
+        "My Friend is Sad"
+      ]
+    },
+    {
+      "word": "around",
+      "pos": "adv",
+      "meaning": "周围",
+      "examples": [
+        "How can anyone be sad around a robot!?"
+      ],
+      "books": [
+        "My Friend is Sad"
+      ]
+    },
+    {
+      "word": "because",
+      "pos": "conj",
+      "meaning": "(说明原因）因为",
+      "examples": [
+        "I am happy because you are here!",
+        "Because I really like you."
+      ],
+      "books": [
+        "My Friend is Sad",
+        "I Really Like Slop"
+      ]
+    },
+    {
+      "word": "there",
+      "pos": "adv",
+      "meaning": "这里",
+      "examples": [
+        "But you were not there to see him!",
+        "There was more!",
+        "And my best friend was not there to see it"
+      ],
+      "books": [
+        "My Friend is Sad"
+      ]
+    },
+    {
+      "word": "in fact",
+      "pos": "phrase",
+      "meaning": "事实上，实际上",
+      "examples": [
+        "Well, in fact, I..."
+      ],
+      "books": [
+        "My Friend is Sad"
+      ]
+    },
+    {
+      "word": "glasses",
+      "pos": "n",
+      "meaning": "眼镜（glass 的复数）",
+      "examples": [
+        "You need new glasses..."
+      ],
+      "books": [
+        "My Friend is Sad"
+      ]
+    },
+    {
+      "word": "move",
+      "pos": "v",
+      "meaning": "移动，改变位置",
+      "examples": [
+        "Do not move!"
+      ],
+      "books": [
+        "Listen to My Trumpet"
+      ]
+    },
+    {
+      "word": "trumpet",
+      "pos": "n",
+      "meaning": "小号，喇叭",
+      "examples": [
+        "Listen to My Trumpet",
+        "I HAVE A TRUMPET!",
+        "Do you want to listen to my trumpet?"
+      ],
+      "books": [
+        "Listen to My Trumpet"
+      ]
+    },
+    {
+      "word": "listen to",
+      "pos": "phrase",
+      "meaning": "倾听",
+      "examples": [
+        "Listen to My Trumpet",
+        "Do you want to listen to my trumpet?"
+      ],
+      "books": [
+        "Listen to My Trumpet"
+      ]
+    },
+    {
+      "word": "not at all",
+      "pos": "phrase",
+      "meaning": "一点也不",
+      "examples": [],
+      "books": [
+        "Listen to My Trumpet"
+      ]
+    },
+    {
+      "word": "better",
+      "pos": "adj",
+      "meaning": "较好的，更好的",
+      "examples": [
+        "That is better! Tr-ink!"
+      ],
+      "books": [
+        "Listen to My Trumpet"
+      ]
+    },
+    {
+      "word": "music",
+      "pos": "n",
+      "meaning": "音乐，乐曲",
+      "examples": [
+        "That is not music!",
+        "...that was not music. Sorry.",
+        "You think I am trying to make music?"
+      ],
+      "books": [
+        "Listen to My Trumpet"
+      ]
+    },
+    {
+      "word": "sounds like",
+      "pos": "phrase",
+      "meaning": "听起来像……（sound 的第三",
+      "examples": [
+        "Piggie sounds like my aunt Molly. With a cold!",
+        "sounds like ……sound"
+      ],
+      "books": [
+        "Listen to My Trumpet"
+      ]
+    },
+    {
+      "word": "aunt",
+      "pos": "n",
+      "meaning": "姨妈，姑妈",
+      "examples": [
+        "Piggie sounds like my aunt Molly. With a cold!"
+      ],
+      "books": [
+        "Listen to My Trumpet"
+      ]
+    },
+    {
+      "word": "cold",
+      "pos": "n",
+      "meaning": "感冒，伤风",
+      "examples": [
+        "Piggie sounds like my aunt Molly. With a cold!"
+      ],
+      "books": [
+        "Listen to My Trumpet"
+      ]
+    },
+    {
+      "word": "finish",
+      "pos": "n",
+      "meaning": "结尾，结局",
+      "examples": [
+        "And now the BIG FINISH!"
+      ],
+      "books": [
+        "Listen to My Trumpet"
+      ]
+    },
+    {
+      "word": "finished",
+      "pos": "v",
+      "meaning": "完成，结束（finish的过去式）",
+      "examples": [],
+      "books": [
+        "Listen to My Trumpet"
+      ]
+    },
+    {
+      "word": "what do you think of",
+      "pos": "phrase",
+      "meaning": "你觉得……怎么样?",
+      "examples": [],
+      "books": [
+        "Listen to My Trumpet"
+      ]
+    },
+    {
+      "word": "loud",
+      "pos": "adj",
+      "meaning": "大声的，响亮的",
+      "examples": [
+        "Your trumpet is LOUD.",
+        "Your trumpet is loud and shiny and you hold"
+      ],
+      "books": [
+        "Listen to My Trumpet"
+      ]
+    },
+    {
+      "word": "shiny",
+      "pos": "adj",
+      "meaning": "光滑发亮的，有光泽的",
+      "examples": [
+        "Your trumpet is shiny.",
+        "Your trumpet is loud and shiny and you hold"
+      ],
+      "books": [
+        "Listen to My Trumpet"
+      ]
+    },
+    {
+      "word": "hold",
+      "pos": "v",
+      "meaning": "(用手、手臂等）抓住",
+      "examples": [
+        "You, uh, hold your trumpet very well.",
+        "Your trumpet is loud and shiny and you hold"
+      ],
+      "books": [
+        "Listen to My Trumpet"
+      ]
+    },
+    {
+      "word": "waiting",
+      "pos": "v",
+      "meaning": "等待，期待（wait的现在分词）",
+      "examples": [
+        "I'm waiting..."
+      ],
+      "books": [
+        "Listen to My Trumpet"
+      ]
+    },
+    {
+      "word": "tell",
+      "pos": "v",
+      "meaning": "告诉，告知",
+      "examples": [
+        "So, I will tell you the truth.",
+        "We must tell them to stop having fun!",
+        "Piggie! Brian! We have to tell you something!"
+      ],
+      "books": [
+        "Listen to My Trumpet",
+        "My New Friend Is So Fun"
+      ]
+    },
+    {
+      "word": "truth",
+      "pos": "n",
+      "meaning": "事实，真相",
+      "examples": [
+        "So, I will tell you the truth."
+      ],
+      "books": [
+        "Listen to My Trumpet"
+      ]
+    },
+    {
+      "word": "trying to",
+      "pos": "phrase",
+      "meaning": "试着；设法（try 的现在分词形式）",
+      "examples": [
+        "You think I am trying to make music?",
+        "I am trying to speak Elephant!"
+      ],
+      "books": [
+        "Listen to My Trumpet"
+      ]
+    },
+    {
+      "word": "accent",
+      "pos": "n",
+      "meaning": "口音，腔调",
+      "examples": [
+        "...your accent needs work."
+      ],
+      "books": [
+        "Listen to My Trumpet"
+      ]
+    },
+    {
+      "word": "work",
+      "pos": "v",
+      "meaning": "加工",
+      "examples": [
+        "...your accent needs work."
+      ],
+      "books": [
+        "Listen to My Trumpet"
+      ]
+    },
+    {
+      "word": "teach",
+      "pos": "v",
+      "meaning": "教会，训练；教育",
+      "examples": [
+        "I will teach you."
+      ],
+      "books": [
+        "Listen to My Trumpet"
+      ]
+    },
+    {
+      "word": "dessert",
+      "pos": "n",
+      "meaning": "（正餐后的）甜点",
+      "examples": [],
+      "books": [
+        "I Really Like Slop"
+      ]
+    },
+    {
+      "word": "bub",
+      "pos": "n",
+      "meaning": "小家伙",
+      "examples": [
+        "Don’t push it, bub"
+      ],
+      "books": [
+        "I Really Like Slop"
+      ]
+    },
+    {
+      "word": "slop",
+      "pos": "n",
+      "meaning": "（倒掉的）剩饭菜",
+      "examples": [
+        "I Really Like Slop",
+        "THIS is slop!",
+        "Yummy, yummy slop!"
+      ],
+      "books": [
+        "I Really Like Slop"
+      ]
+    },
+    {
+      "word": "yummy",
+      "pos": "adj",
+      "meaning": "<非正式>美味的，可口的",
+      "examples": [
+        "Yummy, yummy slop!",
+        "Should I share my awesome, yummy, sweet,",
+        "It is very yummy!"
+      ],
+      "books": [
+        "I Really Like Slop",
+        "Should I Share My Ice Cream"
+      ]
+    },
+    {
+      "word": "part of",
+      "pos": "phrase",
+      "meaning": "部分的；一部分",
+      "examples": [
+        "Eating slop is part of pig culture."
+      ],
+      "books": [
+        "I Really Like Slop"
+      ]
+    },
+    {
+      "word": "culture",
+      "pos": "n",
+      "meaning": "文化，文明",
+      "examples": [
+        "Eating slop is part of pig culture."
+      ],
+      "books": [
+        "I Really Like Slop"
+      ]
+    },
+    {
+      "word": "smell",
+      "pos": "n",
+      "meaning": "气味；臭味",
+      "examples": [
+        "Should it smell like that?"
+      ],
+      "books": [
+        "I Really Like Slop"
+      ]
+    },
+    {
+      "word": "like",
+      "pos": "v",
+      "meaning": "像，如同",
+      "examples": [
+        "I Really Like Slop",
+        "Pigs, really, really, really, really, really like slop!",
+        "Should it smell like that?"
+      ],
+      "books": [
+        "I Really Like Slop"
+      ]
+    },
+    {
+      "word": "sniff",
+      "pos": "v",
+      "meaning": "嗅，闻",
+      "examples": [],
+      "books": [
+        "I Really Like Slop"
+      ]
+    },
+    {
+      "word": "those",
+      "pos": "pron",
+      "meaning": "那些（that 的复数）",
+      "examples": [
+        "What about all of those… flies?",
+        "GET THOSE SUNGLASSES!",
+        "GET THOSE UMBRELLAS!"
+      ],
+      "books": [
+        "I Really Like Slop",
+        "Let's Go For a Drive"
+      ]
+    },
+    {
+      "word": "flies",
+      "pos": "n",
+      "meaning": "苍蝇（fly 的复数）",
+      "examples": [
+        "What about all of those… flies?",
+        "The flies are how you know it is ripe!",
+        "Eating flies !"
+      ],
+      "books": [
+        "I Really Like Slop",
+        "I'm a Frog"
+      ]
+    },
+    {
+      "word": "ripe",
+      "pos": "adj",
+      "meaning": "口味浓郁的，醇美可口的",
+      "examples": [
+        "The flies are how you know it is ripe!"
+      ],
+      "books": [
+        "I Really Like Slop"
+      ]
+    },
+    {
+      "word": "walk",
+      "pos": "v",
+      "meaning": "走，行走",
+      "examples": [
+        "Walk, walk, walk, walk, walk."
+      ],
+      "books": [
+        "I Really Like Slop"
+      ]
+    },
+    {
+      "word": "gulp",
+      "pos": "v",
+      "meaning": "匆匆吞下；大口呼吸",
+      "examples": [
+        "I will (GULP) try your slop."
+      ],
+      "books": [
+        "I Really Like Slop"
+      ]
+    },
+    {
+      "word": "taste",
+      "pos": "n",
+      "meaning": "一口",
+      "examples": [
+        "Try a big taste!",
+        "I will try a small taste.",
+        "That is a small taste."
+      ],
+      "books": [
+        "I Really Like Slop"
+      ]
+    },
+    {
+      "word": "close",
+      "pos": "adj",
+      "meaning": "接近的",
+      "examples": [
+        "You are close to trying slop!",
+        "You are closer!"
+      ],
+      "books": [
+        "I Really Like Slop"
+      ]
+    },
+    {
+      "word": "spicy",
+      "pos": "adj",
+      "meaning": "刺激的，辛辣的",
+      "examples": [
+        "Spicy, huh?"
+      ],
+      "books": [
+        "I Really Like Slop"
+      ]
+    },
+    {
+      "word": "glad",
+      "pos": "adj",
+      "meaning": "高兴的",
+      "examples": [
+        "But, I am glad I tried it."
+      ],
+      "books": [
+        "I Really Like Slop"
+      ]
+    },
+    {
+      "word": "something",
+      "pos": "pron",
+      "meaning": "某物",
+      "examples": [
+        "Is something on my head?"
+      ],
+      "books": [
+        "There Is a Bird on Your Head"
+      ]
+    },
+    {
+      "word": "on my head",
+      "pos": "phrase",
+      "meaning": "在我头上",
+      "examples": [
+        "Is something on my head?",
+        "There is a bird on my head?",
+        "Is there a bird on my head now?"
+      ],
+      "books": [
+        "There Is a Bird on Your Head"
+      ]
+    },
+    {
+      "word": "bird",
+      "pos": "n",
+      "meaning": "鸟",
+      "examples": [
+        "There Is a Bird on Your Head",
+        "There is a bird on your head.",
+        "There is a bird on my head?"
+      ],
+      "books": [
+        "There Is a Bird on Your Head"
+      ]
+    },
+    {
+      "word": "in love",
+      "pos": "phrase",
+      "meaning": "相爱",
+      "examples": [
+        "They are in love!",
+        "The birds on my head are in love?"
+      ],
+      "books": [
+        "There Is a Bird on Your Head"
+      ]
+    },
+    {
+      "word": "how do you know",
+      "pos": "phrase",
+      "meaning": "你怎么知道",
+      "examples": [
+        "How do you know they are love birds?"
+      ],
+      "books": [
+        "There Is a Bird on Your Head"
+      ]
+    },
+    {
+      "word": "making a nest",
+      "pos": "phrase",
+      "meaning": "筑巢（make 的现在分词）",
+      "examples": [
+        "They are making a nest!",
+        "Two birds are making a nest on my head?"
+      ],
+      "books": [
+        "There Is a Bird on Your Head"
+      ]
+    },
+    {
+      "word": "afraid",
+      "pos": "adj",
+      "meaning": "害怕的；(害怕后果而）不愿意的",
+      "examples": [
+        "I am afraid to ask"
+      ],
+      "books": [
+        "There Is a Bird on Your Head"
+      ]
+    },
+    {
+      "word": "egg",
+      "pos": "n",
+      "meaning": "蛋",
+      "examples": [
+        "Do I have an egg on my head?",
+        "You have three eggs on your head.",
+        "I do not want three eggs on my head!"
+      ],
+      "books": [
+        "There Is a Bird on Your Head"
+      ]
+    },
+    {
+      "word": "good news",
+      "pos": "phrase",
+      "meaning": "好消息",
+      "examples": [
+        "Then I have good news!"
+      ],
+      "books": [
+        "There Is a Bird on Your Head"
+      ]
+    },
+    {
+      "word": "gone",
+      "pos": "adj",
+      "meaning": "不复存在的",
+      "examples": [
+        "The eggs are gone?"
+      ],
+      "books": [
+        "There Is a Bird on Your Head"
+      ]
+    },
+    {
+      "word": "hatching",
+      "pos": "v",
+      "meaning": "孵化（hatch 的现在分词）",
+      "examples": [
+        "The eggs are hatching!",
+        "The eggs on my head are hatching?"
+      ],
+      "books": [
+        "There Is a Bird on Your Head"
+      ]
+    },
+    {
+      "word": "baby chicks",
+      "pos": "phrase",
+      "meaning": "刚孵化出来的小鸟",
+      "examples": [
+        "Now, I have three baby chicks on my head.",
+        "I do not want three baby chicks, two birds,"
+      ],
+      "books": [
+        "There Is a Bird on Your Head"
+      ]
+    },
+    {
+      "word": "somewhere",
+      "pos": "n",
+      "meaning": "某个地方",
+      "examples": [
+        "SOMEWHERE ELSE!",
+        "Why not ask them to go somewhere else?",
+        "Will you please go somewhere else?"
+      ],
+      "books": [
+        "There Is a Bird on Your Head",
+        "Should I Share My Ice Cream"
+      ]
+    },
+    {
+      "word": "else",
+      "pos": "adj",
+      "meaning": "其他的，另外的",
+      "examples": [
+        "SOMEWHERE ELSE!",
+        "Why not ask them to go somewhere else?",
+        "Will you please go somewhere else?"
+      ],
+      "books": [
+        "There Is a Bird on Your Head"
+      ]
+    },
+    {
+      "word": "will you please",
+      "pos": "phrase",
+      "meaning": "用于礼貌地请求某人做某事",
+      "examples": [
+        "Will you please go somewhere else?"
+      ],
+      "books": [
+        "There Is a Bird on Your Head"
+      ]
+    },
+    {
+      "word": "problem",
+      "pos": "n",
+      "meaning": "问题",
+      "examples": [
+        "No problem."
+      ],
+      "books": [
+        "There Is a Bird on Your Head"
+      ]
+    },
+    {
+      "word": "very much",
+      "pos": "phrase",
+      "meaning": "非常，很，十分",
+      "examples": [
+        "Thank you very much!"
+      ],
+      "books": [
+        "There Is a Bird on Your Head"
+      ]
+    },
+    {
+      "word": "found",
+      "pos": "v",
+      "meaning": "发现，找到（find 的过去式）",
+      "examples": [
+        "You found my ball!"
+      ],
+      "books": [
+        "Watch Me Throw the Ball"
+      ]
+    },
+    {
+      "word": "threw",
+      "pos": "v",
+      "meaning": "抛（throw 的过去式）",
+      "examples": [
+        "Yes. I threw it from way over there!",
+        "You threw this ball from way over there?!",
+        "I threw the ball so far, you cannot even see it!"
+      ],
+      "books": [
+        "Watch Me Throw the Ball"
+      ]
+    },
+    {
+      "word": "over there",
+      "pos": "phrase",
+      "meaning": "在那里",
+      "examples": [
+        "Yes. I threw it from way over there!",
+        "You threw this ball from way over there?!"
+      ],
+      "books": [
+        "Watch Me Throw the Ball"
+      ]
+    },
+    {
+      "word": "be good at",
+      "pos": "phrase",
+      "meaning": "擅长做某事",
+      "examples": [],
+      "books": [
+        "Watch Me Throw the Ball"
+      ]
+    },
+    {
+      "word": "secret",
+      "pos": "n",
+      "meaning": "秘诀，诀窍",
+      "examples": [
+        "Do you know the secret to throwing?"
+      ],
+      "books": [
+        "Watch Me Throw the Ball"
+      ]
+    },
+    {
+      "word": "easy",
+      "pos": "adj",
+      "meaning": "容易的，不费力的",
+      "examples": [
+        "Throwing this ball is not easy!",
+        "It will not be easy."
+      ],
+      "books": [
+        "Watch Me Throw the Ball",
+        "Should I Share My Ice Cream"
+      ]
+    },
+    {
+      "word": "takes skill",
+      "pos": "phrase",
+      "meaning": "需要技巧（take的第三人称单数）",
+      "examples": [
+        "It takes skill. It takes practice.",
+        "It takes skill and practice."
+      ],
+      "books": [
+        "Watch Me Throw the Ball"
+      ]
+    },
+    {
+      "word": "practice",
+      "pos": "v",
+      "meaning": "练习，实践",
+      "examples": [
+        "It takes skill. It takes practice.",
+        "It takes skill and practice."
+      ],
+      "books": [
+        "Watch Me Throw the Ball"
+      ]
+    },
+    {
+      "word": "worked hard",
+      "pos": "phrase",
+      "meaning": "努力学习（work的过去分词）",
+      "examples": [],
+      "books": [
+        "Watch Me Throw the Ball"
+      ]
+    },
+    {
+      "word": "learn",
+      "pos": "v",
+      "meaning": "学习，学会",
+      "examples": [
+        "I worked very hard to learn how to throw a ball."
+      ],
+      "books": [
+        "Watch Me Throw the Ball"
+      ]
+    },
+    {
+      "word": "got it",
+      "pos": "phrase",
+      "meaning": "知道明白了；懂了（get 的过去式）",
+      "examples": [],
+      "books": [
+        "Watch Me Throw the Ball"
+      ]
+    },
+    {
+      "word": "how about",
+      "pos": "phrase",
+      "meaning": "你认为……怎样？",
+      "examples": [
+        "Well, how about that?"
+      ],
+      "books": [
+        "Watch Me Throw the Ball"
+      ]
+    },
+    {
+      "word": "far",
+      "pos": "adv",
+      "meaning": "远",
+      "examples": [
+        "I threw the ball so far, you cannot even see it!",
+        "And that is not very far!",
+        "Not very far at all..."
+      ],
+      "books": [
+        "Watch Me Throw the Ball"
+      ]
+    },
+    {
+      "word": "rock",
+      "pos": "v",
+      "meaning": "<俚>很好，棒极了",
+      "examples": [
+        "Who rocks?!",
+        "The pig rocks!",
+        "Yes! I rock!"
+      ],
+      "books": [
+        "Watch Me Throw the Ball"
+      ]
+    },
+    {
+      "word": "call",
+      "pos": "v",
+      "meaning": "称呼，把……唤作",
+      "examples": [
+        "Call me \"super pig\"!",
+        "Need to throw a ball? Here's the pig to call!"
+      ],
+      "books": [
+        "Watch Me Throw the Ball"
+      ]
+    },
+    {
+      "word": "power",
+      "pos": "n",
+      "meaning": "力量",
+      "examples": [
+        "With my arm of power!"
+      ],
+      "books": [
+        "Watch Me Throw the Ball"
+      ]
+    },
+    {
+      "word": "need to",
+      "pos": "phrase",
+      "meaning": "需要；需要做",
+      "examples": [
+        "Need to throw a ball? Here's the pig to call!"
+      ],
+      "books": [
+        "Watch Me Throw the Ball"
+      ]
+    },
+    {
+      "word": "all the way",
+      "pos": "phrase",
+      "meaning": "完全，表示在整个过程中",
+      "examples": [
+        "I THREW THE BALL ALL THE WAY AROUND"
+      ],
+      "books": [
+        "Watch Me Throw the Ball"
+      ]
+    },
+    {
+      "word": "around the world",
+      "pos": "phrase",
+      "meaning": "环绕世界",
+      "examples": [
+        "AROUND THE WORLD!!!"
+      ],
+      "books": [
+        "Watch Me Throw the Ball"
+      ]
+    },
+    {
+      "word": "neat",
+      "pos": "adj",
+      "meaning": "<美，非正式>很棒的",
+      "examples": [
+        "Super pig \" is really neat!"
+      ],
+      "books": [
+        "Watch Me Throw the Ball"
+      ]
+    },
+    {
+      "word": "beat",
+      "pos": "v",
+      "meaning": "击败，战胜",
+      "examples": [
+        "Super pig \" cannot be beat!"
+      ],
+      "books": [
+        "Watch Me Throw the Ball"
+      ]
+    },
+    {
+      "word": "flew",
+      "pos": "v",
+      "meaning": "飞（fly的过去式）",
+      "examples": [
+        "The ball flew behind you and fell here!"
+      ],
+      "books": [
+        "Watch Me Throw the Ball"
+      ]
+    },
+    {
+      "word": "fell",
+      "pos": "v",
+      "meaning": "掉下，跌落（fall 的过去式形式）",
+      "examples": [
+        "The ball flew behind you and fell here!"
+      ],
+      "books": [
+        "Watch Me Throw the Ball"
+      ]
+    },
+    {
+      "word": "at all",
+      "pos": "phrase",
+      "meaning": "根本",
+      "examples": [
+        "Not very far at all..."
+      ],
+      "books": [
+        "Watch Me Throw the Ball"
+      ]
+    },
+    {
+      "word": "drive",
+      "pos": "n",
+      "meaning": "驾车出行",
+      "examples": [
+        "Let's Go For a Drive",
+        "Let's go for a drive!",
+        "Drive! Drive! Drivey-drive-drive!"
+      ],
+      "books": [
+        "Let's Go For a Drive"
+      ]
+    },
+    {
+      "word": "sounds",
+      "pos": "v",
+      "meaning": "听起来（sound的第三人称单数）",
+      "examples": [
+        "That sounds fun!"
+      ],
+      "books": [
+        "Let's Go For a Drive"
+      ]
+    },
+    {
+      "word": "go for a drive",
+      "pos": "phrase",
+      "meaning": "开车兜风",
+      "examples": [
+        "Let's Go For a Drive",
+        "Let's go for a drive!",
+        "You cannot go for a drive without a map!"
+      ],
+      "books": [
+        "Let's Go For a Drive"
+      ]
+    },
+    {
+      "word": "first",
+      "pos": "det",
+      "meaning": "首先",
+      "examples": [
+        "First, we need a map."
+      ],
+      "books": [
+        "Let's Go For a Drive"
+      ]
+    },
+    {
+      "word": "without",
+      "pos": "prep",
+      "meaning": "没有，缺乏",
+      "examples": [
+        "You cannot go for a drive without a map!"
+      ],
+      "books": [
+        "Let's Go For a Drive"
+      ]
+    },
+    {
+      "word": "might be",
+      "pos": "phrase",
+      "meaning": "可能会",
+      "examples": [
+        "It might be sunny while we drive."
+      ],
+      "books": [
+        "Let's Go For a Drive"
+      ]
+    },
+    {
+      "word": "while",
+      "pos": "conj",
+      "meaning": "当……的时候",
+      "examples": [
+        "It might be sunny while we drive.",
+        "It might rain while we drive."
+      ],
+      "books": [
+        "Let's Go For a Drive"
+      ]
+    },
+    {
+      "word": "sunglasses",
+      "pos": "n",
+      "meaning": "太阳镜,墨镜（sunglass 的复数）",
+      "examples": [
+        "We need sunglasses!",
+        "I have sunglasses!",
+        "GET THOSE SUNGLASSES!"
+      ],
+      "books": [
+        "Let's Go For a Drive"
+      ]
+    },
+    {
+      "word": "bring",
+      "pos": "v",
+      "meaning": "带来",
+      "examples": [
+        "Bringing sunglasses on a drive is smart"
+      ],
+      "books": [
+        "Let's Go For a Drive"
+      ]
+    },
+    {
+      "word": "smart",
+      "pos": "adj",
+      "meaning": "聪明的，明智的",
+      "examples": [
+        "Bringing sunglasses on a drive is smart"
+      ],
+      "books": [
+        "Let's Go For a Drive"
+      ]
+    },
+    {
+      "word": "umbrellas",
+      "pos": "n",
+      "meaning": "雨伞（umbrella 的复数）",
+      "examples": [
+        "We need umbrellas!",
+        "I have umbrellas!",
+        "GET THOSE UMBRELLAS!"
+      ],
+      "books": [
+        "Let's Go For a Drive"
+      ]
+    },
+    {
+      "word": "make a plan",
+      "pos": "phrase",
+      "meaning": "定计划",
+      "examples": [
+        "Make a plan and stick to it, is what I say."
+      ],
+      "books": [
+        "Let's Go For a Drive"
+      ]
+    },
+    {
+      "word": "stick to",
+      "pos": "phrase",
+      "meaning": "坚持",
+      "examples": [
+        "Make a plan and stick to it, is what I say."
+      ],
+      "books": [
+        "Let's Go For a Drive"
+      ]
+    },
+    {
+      "word": "stuff",
+      "pos": "n",
+      "meaning": "东西，物品",
+      "examples": [
+        "We have so much stuff to pack!"
+      ],
+      "books": [
+        "Let's Go For a Drive"
+      ]
+    },
+    {
+      "word": "bag",
+      "pos": "n",
+      "meaning": "袋，包",
+      "examples": [
+        "We need bags!",
+        "I have bags!",
+        "GET THOSE BAGS!"
+      ],
+      "books": [
+        "Let's Go For a Drive"
+      ]
+    },
+    {
+      "word": "go wrong with",
+      "pos": "phrase",
+      "meaning": "出错，出毛病",
+      "examples": [
+        "You cannot go wrong with a good plan."
+      ],
+      "books": [
+        "Let's Go For a Drive"
+      ]
+    },
+    {
+      "word": "car",
+      "pos": "n",
+      "meaning": "汽车，轿车",
+      "examples": [
+        "WE NEED A CAR!",
+        "I said, “WE NEED A CAR!",
+        "Um... Do you have a car, Piggie?"
+      ],
+      "books": [
+        "Let's Go For a Drive"
+      ]
+    },
+    {
+      "word": "except",
+      "pos": "prep",
+      "meaning": "除……外，不包括",
+      "examples": [
+        "..except a car!"
+      ],
+      "books": [
+        "Let's Go For a Drive"
+      ]
+    },
+    {
+      "word": "ruined",
+      "pos": "v",
+      "meaning": "毁灭（ruin 的过去式）",
+      "examples": [
+        "Our plans are ruined."
+      ],
+      "books": [
+        "Let's Go For a Drive"
+      ]
+    },
+    {
+      "word": "pirate",
+      "pos": "n",
+      "meaning": "海盗",
+      "examples": [
+        "We could play “Pirate."
+      ],
+      "books": [
+        "Let's Go For a Drive"
+      ]
+    },
+    {
+      "word": "pal",
+      "pos": "n",
+      "meaning": "<非正式>朋友，伙伴",
+      "examples": [
+        "Who needs plans when you have a pig for a pal?"
+      ],
+      "books": [
+        "Let's Go For a Drive"
+      ]
+    },
+    {
+      "word": "met",
+      "pos": "v",
+      "meaning": "遇见（meet的过去式）",
+      "examples": [
+        "Piggie just met Brian Bat for the first time."
+      ],
+      "books": [
+        "My New Friend Is So Fun"
+      ]
+    },
+    {
+      "word": "the first time",
+      "pos": "phrase",
+      "meaning": "第一次",
+      "examples": [
+        "Piggie just met Brian Bat for the first time."
+      ],
+      "books": [
+        "My New Friend Is So Fun"
+      ]
+    },
+    {
+      "word": "must be doing",
+      "pos": "phrase",
+      "meaning": "肯定正在做某事",
+      "examples": [],
+      "books": [
+        "My New Friend Is So Fun"
+      ]
+    },
+    {
+      "word": "super",
+      "pos": "adj",
+      "meaning": "超级的",
+      "examples": [
+        "They must be having a super fun time!",
+        "They must be having a super-duper fun time!"
+      ],
+      "books": [
+        "My New Friend Is So Fun"
+      ]
+    },
+    {
+      "word": "super-duper",
+      "pos": "adj",
+      "meaning": "极好的",
+      "examples": [
+        "They must be having a super-duper fun time!"
+      ],
+      "books": [
+        "My New Friend Is So Fun"
+      ]
+    },
+    {
+      "word": "too much",
+      "pos": "phrase",
+      "meaning": "太多",
+      "examples": [
+        "What if they are having too much fun?",
+        "How can they have too much fun?"
+      ],
+      "books": [
+        "My New Friend Is So Fun"
+      ]
+    },
+    {
+      "word": "than",
+      "pos": "prep",
+      "meaning": "比",
+      "examples": [
+        "They could be having more fun than they have",
+        "It is worse than we feared!"
+      ],
+      "books": [
+        "My New Friend Is So Fun"
+      ]
+    },
+    {
+      "word": "lose",
+      "pos": "v",
+      "meaning": "失去",
+      "examples": [
+        "I DO NOT WANT TO LOSE MY BEST FRIEND!!!"
+      ],
+      "books": [
+        "My New Friend Is So Fun"
+      ]
+    },
+    {
+      "word": "stop doing",
+      "pos": "phrase",
+      "meaning": "停止做,停下正在做的事情",
+      "examples": [
+        "stop doing ,"
+      ],
+      "books": [
+        "My New Friend Is So Fun"
+      ]
+    },
+    {
+      "word": "skid",
+      "pos": "v",
+      "meaning": "刹车",
+      "examples": [
+        "SKID! SKID!"
+      ],
+      "books": [
+        "My New Friend Is So Fun"
+      ]
+    },
+    {
+      "word": "have to",
+      "pos": "phrase",
+      "meaning": "必须",
+      "examples": [
+        "Piggie! Brian! We have to tell you something!",
+        "We have to tell you how much fun we are",
+        "What did you have to tell us?"
+      ],
+      "books": [
+        "My New Friend Is So Fun"
+      ]
+    },
+    {
+      "word": "how much",
+      "pos": "phrase",
+      "meaning": "多少",
+      "examples": [
+        "We have to tell you how much fun we are"
+      ],
+      "books": [
+        "My New Friend Is So Fun"
+      ]
+    },
+    {
+      "word": "drawings",
+      "pos": "n",
+      "meaning": "图纸,图画（drawing 的复数）",
+      "examples": [
+        "We even made Best Friend drawings!",
+        "Best. Friend. Drawings?",
+        "Do you want to see our drawings?"
+      ],
+      "books": [
+        "My New Friend Is So Fun"
+      ]
+    },
+    {
+      "word": "worse than",
+      "pos": "phrase",
+      "meaning": "比……更差，比……更糟糕",
+      "examples": [
+        "It is worse than we feared!"
+      ],
+      "books": [
+        "My New Friend Is So Fun"
+      ]
+    },
+    {
+      "word": "feared",
+      "pos": "v",
+      "meaning": "担心，畏惧( fear的过去式）",
+      "examples": [
+        "It is worse than we feared!"
+      ],
+      "books": [
+        "My New Friend Is So Fun"
+      ]
+    },
+    {
+      "word": "doomed",
+      "pos": "adj",
+      "meaning": "注定要失败的",
+      "examples": [
+        "We are doomed."
+      ],
+      "books": [
+        "My New Friend Is So Fun"
+      ]
+    },
+    {
+      "word": "cover",
+      "pos": "v",
+      "meaning": "覆盖，遮盖",
+      "examples": [
+        "I must cover my eyes!",
+        "I cannot cover my eyes!"
+      ],
+      "books": [
+        "My New Friend Is So Fun"
+      ]
+    },
+    {
+      "word": "of course",
+      "pos": "adj",
+      "meaning": "一定，当然",
+      "examples": [
+        "of course adj."
+      ],
+      "books": [
+        "My New Friend Is So Fun"
+      ]
+    },
+    {
+      "word": "look like",
+      "pos": "phrase",
+      "meaning": "看起来像……",
+      "examples": [
+        "You look like a pig."
+      ],
+      "books": [
+        "I'm a Frog"
+      ]
+    },
+    {
+      "word": "name",
+      "pos": "n",
+      "meaning": "名字",
+      "examples": [
+        "And your name is \"Piggie."
+      ],
+      "books": [
+        "I'm a Frog"
+      ]
+    },
+    {
+      "word": "every day",
+      "pos": "phrase",
+      "meaning": "每天",
+      "examples": [
+        "You learn something new every day!",
+        "You really do learn something new every day."
+      ],
+      "books": [
+        "I'm a Frog"
+      ]
+    },
+    {
+      "word": "become",
+      "pos": "v",
+      "meaning": "变成，成为",
+      "examples": [
+        "When did you become a frog?",
+        "What if I become a frog?"
+      ],
+      "books": [
+        "I'm a Frog"
+      ]
+    },
+    {
+      "word": "about",
+      "pos": "adv",
+      "meaning": "大约",
+      "examples": [
+        "About five minutes ago."
+      ],
+      "books": [
+        "I'm a Frog"
+      ]
+    },
+    {
+      "word": "minutes",
+      "pos": "n",
+      "meaning": "分钟（minute 的复数）",
+      "examples": [
+        "About five minutes ago.",
+        "FIVE MINUTES AGO!?!",
+        "FIVE MINUTES AGO SHE WAS A PIG!"
+      ],
+      "books": [
+        "I'm a Frog"
+      ]
+    },
+    {
+      "word": "ago",
+      "pos": "adv",
+      "meaning": "以前",
+      "examples": [
+        "About five minutes ago.",
+        "FIVE MINUTES AGO!?!",
+        "FIVE MINUTES AGO SHE WAS A PIG!"
+      ],
+      "books": [
+        "I'm a Frog"
+      ]
+    },
+    {
+      "word": "hopping",
+      "pos": "v",
+      "meaning": "跳跃（hop 的现在分词）",
+      "examples": [
+        "Hopping all day"
+      ],
+      "books": [
+        "I'm a Frog"
+      ]
+    },
+    {
+      "word": "pretend",
+      "pos": "adj",
+      "meaning": "<非正式>假装的，假想的（尤",
+      "examples": [
+        "It is pretend.",
+        "I am pretending.",
+        "Pretending is when you act like something"
+      ],
+      "books": [
+        "I'm a Frog"
+      ]
+    },
+    {
+      "word": "the end",
+      "pos": "phrase",
+      "meaning": "结束",
+      "examples": [
+        "IT IS THE END!?!"
+      ],
+      "books": [
+        "I'm a Frog"
+      ]
+    },
+    {
+      "word": "act",
+      "pos": "v",
+      "meaning": "假装；表演",
+      "examples": [
+        "Pretending is when you act like something"
+      ],
+      "books": [
+        "I'm a Frog"
+      ]
+    },
+    {
+      "word": "grown-up",
+      "pos": "v",
+      "meaning": "成年人",
+      "examples": [
+        "Even grown-up people ?"
+      ],
+      "books": [
+        "I'm a Frog"
+      ]
+    },
+    {
+      "word": "hot day",
+      "pos": "phrase",
+      "meaning": "大热天，天热",
+      "examples": [
+        "Get your cold ice cream for a hot day!"
+      ],
+      "books": [
+        "Should I Share My Ice Cream"
+      ]
+    },
+    {
+      "word": "boy",
+      "pos": "int",
+      "meaning": "（尤用于表示羡慕或兴奋）好家伙，天啊",
+      "examples": [
+        "Oh, boy! Ice cream!",
+        "Oh, boy! Oh, boy!"
+      ],
+      "books": [
+        "Should I Share My Ice Cream"
+      ]
+    },
+    {
+      "word": "please",
+      "pos": "int",
+      "meaning": "请（用于客气地请求）",
+      "examples": [
+        "One ice cream, please."
+      ],
+      "books": [
+        "Should I Share My Ice Cream"
+      ]
+    },
+    {
+      "word": "should i",
+      "pos": "phrase",
+      "meaning": "我应该……吗？",
+      "examples": [
+        "Should I Share My Ice Cream",
+        "Should I share my ice cream with her?",
+        "Should I share my awesome, yummy, sweet,"
+      ],
+      "books": [
+        "Should I Share My Ice Cream"
+      ]
+    },
+    {
+      "word": "awesome",
+      "pos": "adj",
+      "meaning": "非常棒的，极佳的",
+      "examples": [
+        "Should I share my awesome, yummy, sweet,"
+      ],
+      "books": [
+        "Should I Share My Ice Cream"
+      ]
+    },
+    {
+      "word": "sweet",
+      "pos": "adj",
+      "meaning": "甜的",
+      "examples": [
+        "Should I share my awesome, yummy, sweet,"
+      ],
+      "books": [
+        "Should I Share My Ice Cream"
+      ]
+    },
+    {
+      "word": "tasty",
+      "pos": "adj",
+      "meaning": "美味的",
+      "examples": [
+        "super, great, tasty, nice, cool ice cream?"
+      ],
+      "books": [
+        "Should I Share My Ice Cream"
+      ]
+    },
+    {
+      "word": "flavor",
+      "pos": "n",
+      "meaning": "滋味，口味",
+      "examples": [
+        "Maybe Piggie does not like this flavor!",
+        "Sharing a flavor Piggie does not like would be",
+        "Piggie will like this flavor."
+      ],
+      "books": [
+        "Should I Share My Ice Cream"
+      ]
+    },
+    {
+      "word": "wrong",
+      "pos": "adj",
+      "meaning": "不合适的,错误的",
+      "examples": [],
+      "books": [
+        "Should I Share My Ice Cream"
+      ]
+    },
+    {
+      "word": "find",
+      "pos": "v",
+      "meaning": "找到，找回",
+      "examples": [
+        "I must find her!"
+      ],
+      "books": [
+        "Should I Share My Ice Cream"
+      ]
+    },
+    {
+      "word": "some of",
+      "pos": "phrase",
+      "meaning": "一些，其中一些",
+      "examples": [
+        "Would you like some of my ice cream?"
+      ],
+      "books": [
+        "Should I Share My Ice Cream"
+      ]
+    },
+    {
+      "word": "cheer up",
+      "pos": "phrase",
+      "meaning": "高兴起来",
+      "examples": [],
+      "books": [
+        "Should I Share My Ice Cream"
+      ]
+    },
+    {
+      "word": "blew it",
+      "pos": "phrase",
+      "meaning": "搞砸了，闯祸了（blow 的过去式）",
+      "examples": [],
+      "books": [
+        "Should I Share My Ice Cream"
+      ]
+    },
+    {
+      "word": "tired",
+      "pos": "adj",
+      "meaning": "疲倦的，累的",
+      "examples": [
+        "I am tired.",
+        "I am trying to take a nap because I am TIRED"
+      ],
+      "books": [
+        "I Will Take a Nap"
+      ]
+    },
+    {
+      "word": "cranky",
+      "pos": "adj",
+      "meaning": "烦躁的，暴躁的",
+      "examples": [
+        "And cranky.",
+        "and CRANKY!",
+        "And a nap helps if you are cranky?"
+      ],
+      "books": [
+        "I Will Take a Nap"
+      ]
+    },
+    {
+      "word": "take a nap",
+      "pos": "phrase",
+      "meaning": "睡午觉；小睡一下",
+      "examples": [
+        "I Will Take a Nap",
+        "I will take a nap.",
+        "I am trying to take a nap because I am TIRED"
+      ],
+      "books": [
+        "I Will Take a Nap"
+      ]
+    },
+    {
+      "word": "happier",
+      "pos": "adj",
+      "meaning": "更快乐的，更幸福的",
+      "examples": [
+        "I am happier when I am rested."
+      ],
+      "books": [
+        "I Will Take a Nap"
+      ]
+    },
+    {
+      "word": "rested",
+      "pos": "adj",
+      "meaning": "休息得好的，精力充沛的",
+      "examples": [
+        "I am happier when I am rested.",
+        "I feel rested!"
+      ],
+      "books": [
+        "I Will Take a Nap"
+      ]
+    },
+    {
+      "word": "dreams",
+      "pos": "n",
+      "meaning": "美梦（dream 的复数形式）",
+      "examples": [
+        "I hope I have good dreams."
+      ],
+      "books": [
+        "I Will Take a Nap"
+      ]
+    },
+    {
+      "word": "help",
+      "pos": "v",
+      "meaning": "帮助，对……有益",
+      "examples": [
+        "And a nap helps if you are cranky?",
+        "Yes, a nap helps if you are"
+      ],
+      "books": [
+        "I Will Take a Nap"
+      ]
+    },
+    {
+      "word": "special buddy",
+      "pos": "phrase",
+      "meaning": "特别的朋友",
+      "examples": [
+        "I like to nap with my special buddy."
+      ],
+      "books": [
+        "I Will Take a Nap"
+      ]
+    },
+    {
+      "word": "ready to",
+      "pos": "phrase",
+      "meaning": "准备做某事",
+      "examples": [
+        "Ready to nap?",
+        "Ready to nap!"
+      ],
+      "books": [
+        "I Will Take a Nap"
+      ]
+    },
+    {
+      "word": "snurk",
+      "pos": "v",
+      "meaning": "偷偷摸摸地走（sneak的过去式）",
+      "examples": [
+        "Snurk. Snurk. Snurk. Snurk. Puff."
+      ],
+      "books": [
+        "I Will Take a Nap"
+      ]
+    },
+    {
+      "word": "enjoying",
+      "pos": "v",
+      "meaning": "享受（enjoy 的现在分词）",
+      "examples": [
+        "How are you enjoying your nap, Gerald?",
+        "I am not enjoying my nap, Piggie!"
+      ],
+      "books": [
+        "I Will Take a Nap"
+      ]
+    },
+    {
+      "word": "turnip",
+      "pos": "n",
+      "meaning": "萝卜",
+      "examples": [
+        "And why is my head a TURNIP?",
+        "I’m a floating TURNIP HEAD!",
+        "She’s a floating TURNIP HEAD!"
+      ],
+      "books": [
+        "I Will Take a Nap"
+      ]
+    },
+    {
+      "word": "question",
+      "pos": "n",
+      "meaning": "问题",
+      "examples": [
+        "Good question."
+      ],
+      "books": [
+        "I Will Take a Nap"
+      ]
+    },
+    {
+      "word": "also",
+      "pos": "adv",
+      "meaning": "也",
+      "examples": [
+        "Also, I have a TURNIP HEAD!",
+        "She also wanted to play her piano."
+      ],
+      "books": [
+        "I Will Take a Nap",
+        "I Broke My Trunk"
+      ]
+    },
+    {
+      "word": "happened",
+      "pos": "v",
+      "meaning": "发生（happen 的过去式）",
+      "examples": [
+        "What happened to your trunk?",
+        "Piggie! What happened to your snout?!"
+      ],
+      "books": [
+        "I Broke My Trunk"
+      ]
+    },
+    {
+      "word": "long",
+      "pos": "adj",
+      "meaning": "漫长的；长篇的",
+      "examples": [
+        "It is a long, crazy story.",
+        "No. This is a long, crazy story...",
+        "It is a long, crazy story..."
+      ],
+      "books": [
+        "I Broke My Trunk"
+      ]
+    },
+    {
+      "word": "story",
+      "pos": "n",
+      "meaning": "故事",
+      "examples": [
+        "It is a long, crazy story.",
+        "No. There is more to my story.",
+        "No. This is a long, crazy story..."
+      ],
+      "books": [
+        "I Broke My Trunk"
+      ]
+    },
+    {
+      "word": "lift",
+      "pos": "v",
+      "meaning": "提起，举起",
+      "examples": [
+        "I wanted to lift Hippo onto my trunk!",
+        "So, I lifted Hippo onto my trunk.",
+        "I lifted both of them onto my trunk!"
+      ],
+      "books": [
+        "I Broke My Trunk"
+      ]
+    },
+    {
+      "word": "rhino",
+      "pos": "n",
+      "meaning": "犀牛",
+      "examples": [
+        "Then, Rhino showed up...",
+        "Rhino wanted a turn.",
+        "But, a hippo and a rhino on your trunk are"
+      ],
+      "books": [
+        "I Broke My Trunk"
+      ]
+    },
+    {
+      "word": "showed up",
+      "pos": "phrase",
+      "meaning": "露面（showed的过去式）",
+      "examples": [
+        "Then, Rhino showed up...",
+        "Then Hippo's sister showed up!"
+      ],
+      "books": [
+        "I Broke My Trunk"
+      ]
+    },
+    {
+      "word": "turn",
+      "pos": "n",
+      "meaning": "轮到的机会,文中就是指也要去小象",
+      "examples": [
+        "Rhino wanted a turn.",
+        "Did she want a turn, too?"
+      ],
+      "books": [
+        "I Broke My Trunk"
+      ]
+    },
+    {
+      "word": "both of",
+      "pos": "phrase",
+      "meaning": "两者都",
+      "examples": [
+        "I lifted both of them onto my trunk!"
+      ],
+      "books": [
+        "I Broke My Trunk"
+      ]
+    },
+    {
+      "word": "sister",
+      "pos": "n",
+      "meaning": "姐姐，妹妹",
+      "examples": [
+        "Then Hippo's sister showed up!",
+        "Hippo has a sister?",
+        "A big sister..."
+      ],
+      "books": [
+        "I Broke My Trunk"
+      ]
+    },
+    {
+      "word": "thankful",
+      "pos": "adj",
+      "meaning": "感谢的，感激的",
+      "examples": [
+        "I have a lot to be thankful for..."
+      ],
+      "books": [
+        "The Thank You Book"
+      ]
+    },
+    {
+      "word": "had better",
+      "pos": "phrase",
+      "meaning": "应该，最好",
+      "examples": [
+        "I had better get thanking!"
+      ],
+      "books": [
+        "The Thank You Book"
+      ]
+    },
+    {
+      "word": "thanking",
+      "pos": "v",
+      "meaning": "致谢，感谢；道谢（thank 的现在分词）",
+      "examples": [
+        "I had better get thanking!",
+        "Thanking is nice.",
+        "I am a thanking machine!"
+      ],
+      "books": [
+        "The Thank You Book"
+      ]
+    },
+    {
+      "word": "important",
+      "pos": "adj",
+      "meaning": "重要的，（人）影响很大的",
+      "examples": [
+        "important to me!",
+        "You will forget someone important!",
+        "Piggie, you have forgotten someone important!"
+      ],
+      "books": [
+        "The Thank You Book"
+      ]
+    },
+    {
+      "word": "forget",
+      "pos": "v",
+      "meaning": "忘记，遗忘",
+      "examples": [
+        "You will forget someone",
+        "You will forget someone important!",
+        "But you will forget someone."
+      ],
+      "books": [
+        "The Thank You Book"
+      ]
+    },
+    {
+      "word": "-o-rama",
+      "pos": "",
+      "meaning": "前接活动内容，一般指大型活动/赛事",
+      "examples": [
+        "It will be a THANK-O-RAMA!"
+      ],
+      "books": [
+        "The Thank You Book"
+      ]
+    },
+    {
+      "word": "squirrels",
+      "pos": "n",
+      "meaning": "松鼠（squirrel的复数）",
+      "examples": [
+        "Squirrels! Piggie!"
+      ],
+      "books": [
+        "The Thank You Book"
+      ]
+    },
+    {
+      "word": "giving up",
+      "pos": "phrase",
+      "meaning": "放弃（give的现在分词）",
+      "examples": [
+        "Thank you for never giving up."
+      ],
+      "books": [
+        "The Thank You Book"
+      ]
+    },
+    {
+      "word": "get to be in",
+      "pos": "phrase",
+      "meaning": "加入进来",
+      "examples": [
+        "And I am sorry you do not get to be in our books."
+      ],
+      "books": [
+        "The Thank You Book"
+      ]
+    },
+    {
+      "word": "machine",
+      "pos": "n",
+      "meaning": "机器",
+      "examples": [
+        "I am a thanking machine!"
+      ],
+      "books": [
+        "The Thank You Book"
+      ]
+    },
+    {
+      "word": "next",
+      "pos": "adj",
+      "meaning": "下一个的，接下来的",
+      "examples": [
+        "My next thanks will be a BIG one!"
+      ],
+      "books": [
+        "The Thank You Book"
+      ]
+    },
+    {
+      "word": "talking about",
+      "pos": "phrase",
+      "meaning": "谈论，谈到(talk的现在分词)",
+      "examples": [
+        "Oh! Now I know who you are talking about."
+      ],
+      "books": [
+        "The Thank You Book"
+      ]
+    },
+    {
+      "word": "any time",
+      "pos": "phrase",
+      "meaning": "随时，在任何时候",
+      "examples": [
+        "Any time, dude!"
+      ],
+      "books": [
+        "The Thank You Book"
+      ]
+    },
+    {
+      "word": "dude",
+      "pos": "n",
+      "meaning": "<美，非正式>家伙，小子",
+      "examples": [
+        "Any time, dude!"
+      ],
+      "books": [
+        "The Thank You Book"
+      ]
+    },
+    {
+      "word": "anyone else",
+      "pos": "phrase",
+      "meaning": "还有谁,其他人",
+      "examples": [
+        "I CANNOT THINK OF ANYONE ELSE I HAVE",
+        "anyone else ,"
+      ],
+      "books": [
+        "The Thank You Book"
+      ]
+    },
+    {
+      "word": "goofed",
+      "pos": "v",
+      "meaning": "<非正式>犯愚蠢的错误，犯低级的错误",
+      "examples": [],
+      "books": [
+        "The Thank You Book"
+      ]
+    },
+    {
+      "word": "means a lot to me",
+      "pos": "phrase",
+      "meaning": "很重大的意义",
+      "examples": [
+        "That means a lot to me, Piggie."
+      ],
+      "books": [
+        "The Thank You Book"
+      ]
+    },
+    {
+      "word": "reader",
+      "pos": "n",
+      "meaning": "读者",
+      "examples": [
+        "Our reader.",
+        "You forgot to thank our reader.",
+        "Thank you for being our reader!"
+      ],
+      "books": [
+        "The Thank You Book"
+      ]
+    },
+    {
+      "word": "lucky",
+      "pos": "adj",
+      "meaning": "幸运的，走运的；吉祥的",
+      "examples": [
+        "Yep. I am one lucky pig."
+      ],
+      "books": [
+        "The Thank You Book"
+      ]
+    }
+  ]
+}
