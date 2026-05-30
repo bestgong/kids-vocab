@@ -1,5 +1,5 @@
 {
-  "total": 562,
+  "total": 665,
   "books": [
     {
       "title": "Big Pig on a Dig",
@@ -120,6 +120,26 @@
     {
       "title": "The Thank You Book",
       "cn": "感谢书"
+    },
+    {
+      "title": "One, Two Buckle My Shoe",
+      "cn": "一二扣好鞋"
+    },
+    {
+      "title": "How Bear Lost His Tail",
+      "cn": "大熊怎么丢了尾巴"
+    },
+    {
+      "title": "The Tortoise and The Eagle",
+      "cn": "乌龟与老鹰"
+    },
+    {
+      "title": "The Genie in The Bottle",
+      "cn": "瓶子里的妖怪"
+    },
+    {
+      "title": "How Elephants Lost Their Wings",
+      "cn": "大象怎么丢了翅膀"
     }
   ],
   "words": [
@@ -1452,10 +1472,12 @@
       "pos": "n",
       "meaning": "便笺本",
       "examples": [
-        "Hen is with her pad and pens."
+        "Hen is with her pad and pens.",
+        "Bear padded away - and he didn't trip once."
       ],
       "books": [
-        "Shark in the Park"
+        "Shark in the Park",
+        "How Bear Lost His Tail"
       ]
     },
     {
@@ -2454,10 +2476,12 @@
       "pos": "adv",
       "meaning": "左边",
       "examples": [
-        "She zigs and zags from left to right."
+        "She zigs and zags from left to right.",
+        "there were no houses left."
       ],
       "books": [
-        "Hen's Pens"
+        "Hen's Pens",
+        "How Elephants Lost Their Wings"
       ]
     },
     {
@@ -2602,11 +2626,13 @@
       "meaning": "处理，解决（问题等）",
       "examples": [
         "Sorting them out is hard to fix.",
-        "Will being sorry fix my toy?!"
+        "Will being sorry fix my toy?!",
+        "Twenty-five, twenty-six, \"Let's get this fixed.\""
       ],
       "books": [
         "Hen's Pens",
-        "I Love My New Toy"
+        "I Love My New Toy",
+        "One, Two Buckle My Shoe"
       ]
     },
     {
@@ -3116,10 +3142,12 @@
       "pos": "v",
       "meaning": "（啪的一声）扣上",
       "examples": [
-        "You have a break-and-snap toy."
+        "You have a break-and-snap toy.",
+        "\"YES,\" snapped the genie."
       ],
       "books": [
-        "I Love My New Toy"
+        "I Love My New Toy",
+        "The Genie in The Bottle"
       ]
     },
     {
@@ -3538,11 +3566,13 @@
       "meaning": "每件事",
       "examples": [
         "We are going to do everything today!",
-        "We have everything we need for our drive..."
+        "We have everything we need for our drive...",
+        "He had everything a tortoise could want."
       ],
       "books": [
         "Are You Ready to Play Outside",
-        "Let's Go For a Drive"
+        "Let's Go For a Drive",
+        "The Tortoise and The Eagle"
       ]
     },
     {
@@ -3804,10 +3834,12 @@
       "pos": "n",
       "meaning": "大象",
       "examples": [
-        "Elephants make the best friends!"
+        "Elephants make the best friends!",
+        "This story is about flying elephants,"
       ],
       "books": [
-        "Are You Ready to Play Outside"
+        "Are You Ready to Play Outside",
+        "How Elephants Lost Their Wings"
       ]
     },
     {
@@ -4709,10 +4741,12 @@
       "meaning": "光滑发亮的，有光泽的",
       "examples": [
         "Your trumpet is shiny.",
-        "Your trumpet is loud and shiny and you hold"
+        "Your trumpet is loud and shiny and you hold",
+        "and a very shiny shell."
       ],
       "books": [
-        "Listen to My Trumpet"
+        "Listen to My Trumpet",
+        "The Tortoise and The Eagle"
       ]
     },
     {
@@ -4882,10 +4916,12 @@
       "pos": "n",
       "meaning": "气味；臭味",
       "examples": [
-        "Should it smell like that?"
+        "Should it smell like that?",
+        "Bear smelled them."
       ],
       "books": [
-        "I Really Like Slop"
+        "I Really Like Slop",
+        "How Bear Lost His Tail"
       ]
     },
     {
@@ -5181,10 +5217,12 @@
       "examples": [
         "SOMEWHERE ELSE!",
         "Why not ask them to go somewhere else?",
-        "Will you please go somewhere else?"
+        "Will you please go somewhere else?",
+        "Then, he caught something else."
       ],
       "books": [
-        "There Is a Bird on Your Head"
+        "There Is a Bird on Your Head",
+        "The Genie in The Bottle"
       ]
     },
     {
@@ -5978,10 +6016,12 @@
       "meaning": "变成，成为",
       "examples": [
         "When did you become a frog?",
-        "What if I become a frog?"
+        "What if I become a frog?",
+        "Day became night."
       ],
       "books": [
-        "I'm a Frog"
+        "I'm a Frog",
+        "How Bear Lost His Tail"
       ]
     },
     {
@@ -6152,10 +6192,12 @@
       "pos": "adj",
       "meaning": "美味的",
       "examples": [
-        "super, great, tasty, nice, cool ice cream?"
+        "super, great, tasty, nice, cool ice cream?",
+        "and caught a tasty fish for dinner."
       ],
       "books": [
-        "Should I Share My Ice Cream"
+        "Should I Share My Ice Cream",
+        "The Genie in The Bottle"
       ]
     },
     {
@@ -6713,6 +6755,1139 @@
       ],
       "books": [
         "The Thank You Book"
+      ]
+    },
+    {
+      "word": "buckle",
+      "pos": "v",
+      "meaning": "扣住，扣紧",
+      "examples": [
+        "One, two, buckle my shoe."
+      ],
+      "books": [
+        "One, Two Buckle My Shoe"
+      ]
+    },
+    {
+      "word": "knock",
+      "pos": "v",
+      "meaning": "敲，击",
+      "examples": [
+        "Three, four, knock at the door."
+      ],
+      "books": [
+        "One, Two Buckle My Shoe"
+      ]
+    },
+    {
+      "word": "pick up",
+      "pos": "phrase",
+      "meaning": "捡起；获得；收拾",
+      "examples": [
+        "Five, six, pick up sticks."
+      ],
+      "books": [
+        "One, Two Buckle My Shoe"
+      ]
+    },
+    {
+      "word": "stick",
+      "pos": "n",
+      "meaning": "小棍",
+      "examples": [
+        "Five, six, pick up sticks."
+      ],
+      "books": [
+        "One, Two Buckle My Shoe"
+      ]
+    },
+    {
+      "word": "lay",
+      "pos": "v",
+      "meaning": "放置",
+      "examples": [
+        "Seven, eight, lay them straight."
+      ],
+      "books": [
+        "One, Two Buckle My Shoe"
+      ]
+    },
+    {
+      "word": "straight",
+      "pos": "adj",
+      "meaning": "直的，笔直的",
+      "examples": [
+        "Seven, eight, lay them straight."
+      ],
+      "books": [
+        "One, Two Buckle My Shoe"
+      ]
+    },
+    {
+      "word": "delve",
+      "pos": "v",
+      "meaning": "挖",
+      "examples": [
+        "Eleven, twelve, dig and delve."
+      ],
+      "books": [
+        "One, Two Buckle My Shoe"
+      ]
+    },
+    {
+      "word": "maid",
+      "pos": "n",
+      "meaning": "女仆，女佣",
+      "examples": [
+        "Thirteen, fourteen, maids a-courting."
+      ],
+      "books": [
+        "One, Two Buckle My Shoe"
+      ]
+    },
+    {
+      "word": "courting",
+      "pos": "v",
+      "meaning": "讨好，向……献殷勤，求偶",
+      "examples": [
+        "Thirteen, fourteen, maids a-courting."
+      ],
+      "books": [
+        "One, Two Buckle My Shoe"
+      ]
+    },
+    {
+      "word": "kitchen",
+      "pos": "n",
+      "meaning": "厨房",
+      "examples": [
+        "Fifteen, sixteen, maids in the kitchen."
+      ],
+      "books": [
+        "One, Two Buckle My Shoe"
+      ]
+    },
+    {
+      "word": "once more",
+      "pos": "phrase",
+      "meaning": "再一次",
+      "examples": [
+        "Twenty-three, twenty-four, home once more."
+      ],
+      "books": [
+        "One, Two Buckle My Shoe"
+      ]
+    },
+    {
+      "word": "fasten",
+      "pos": "v",
+      "meaning": "关紧，锁好（门窗）",
+      "examples": [
+        "Twenty-seven, twenty-eight, fasten the gate."
+      ],
+      "books": [
+        "One, Two Buckle My Shoe"
+      ]
+    },
+    {
+      "word": "gate",
+      "pos": "n",
+      "meaning": "大门",
+      "examples": [
+        "Twenty-seven, twenty-eight, fasten the gate."
+      ],
+      "books": [
+        "One, Two Buckle My Shoe"
+      ]
+    },
+    {
+      "word": "safe",
+      "pos": "adj",
+      "meaning": "安全的，平安的",
+      "examples": [
+        "Twenty-nine, thirty, \"You're safe now, Gertie.\""
+      ],
+      "books": [
+        "One, Two Buckle My Shoe"
+      ]
+    },
+    {
+      "word": "shoo",
+      "pos": "v",
+      "meaning": "嘘！走开！（驱赶动物的声音）",
+      "examples": [
+        "Twenty-one, twenty-two, \"Shoo fox, shoo!\""
+      ],
+      "books": [
+        "One, Two Buckle My Shoe"
+      ]
+    },
+    {
+      "word": "once upon a time",
+      "pos": "phrase",
+      "meaning": "从前",
+      "examples": [
+        "Once upon a time, Bear had a long, thick tail."
+      ],
+      "books": [
+        "How Bear Lost His Tail"
+      ]
+    },
+    {
+      "word": "thick",
+      "pos": "adj",
+      "meaning": "厚的，粗的",
+      "examples": [
+        "Once upon a time, Bear had a long, thick tail."
+      ],
+      "books": [
+        "How Bear Lost His Tail"
+      ]
+    },
+    {
+      "word": "animal",
+      "pos": "n",
+      "meaning": "动物；兽类",
+      "examples": [
+        "The other animals loved his tail."
+      ],
+      "books": [
+        "How Bear Lost His Tail"
+      ]
+    },
+    {
+      "word": "trip over",
+      "pos": "phrase",
+      "meaning": "被……绊倒",
+      "examples": [
+        "He tripped over it when he was walking."
+      ],
+      "books": [
+        "How Bear Lost His Tail"
+      ]
+    },
+    {
+      "word": "tickle",
+      "pos": "v",
+      "meaning": "挠（某人）的痒痒",
+      "examples": [
+        "It tickled his nose when he tried to sleep."
+      ],
+      "books": [
+        "How Bear Lost His Tail"
+      ]
+    },
+    {
+      "word": "atishoo",
+      "pos": "int",
+      "meaning": "阿嚏（指喷嚏声）",
+      "examples": [
+        "(Atishoo!)"
+      ],
+      "books": [
+        "How Bear Lost His Tail"
+      ]
+    },
+    {
+      "word": "fair",
+      "pos": "adj",
+      "meaning": "公平的；合理的",
+      "examples": [
+        "(it's not fair!)"
+      ],
+      "books": [
+        "How Bear Lost His Tail"
+      ]
+    },
+    {
+      "word": "better than",
+      "pos": "phrase",
+      "meaning": "超过；好于……",
+      "examples": [
+        "Bear's tail is better than mine,"
+      ],
+      "books": [
+        "How Bear Lost His Tail"
+      ]
+    },
+    {
+      "word": "decide",
+      "pos": "v",
+      "meaning": "决心；决定",
+      "examples": [
+        "He decided to play a trick on him."
+      ],
+      "books": [
+        "How Bear Lost His Tail"
+      ]
+    },
+    {
+      "word": "play a trick",
+      "pos": "phrase",
+      "meaning": "恶作剧，捉弄",
+      "examples": [
+        "He decided to play a trick on him."
+      ],
+      "books": [
+        "How Bear Lost His Tail"
+      ]
+    },
+    {
+      "word": "crept",
+      "pos": "v",
+      "meaning": "匍匐爬行（creep的过去式）",
+      "examples": [
+        "He crept over to a fisherman and took a few fish."
+      ],
+      "books": [
+        "How Bear Lost His Tail"
+      ]
+    },
+    {
+      "word": "hole",
+      "pos": "n",
+      "meaning": "洞，坑；裂口，开口",
+      "examples": [
+        "Fox carried the fish to an ice hole in the lake."
+      ],
+      "books": [
+        "How Bear Lost His Tail"
+      ]
+    },
+    {
+      "word": "lake",
+      "pos": "n",
+      "meaning": "湖，湖泊",
+      "examples": [
+        "Fox carried the fish to an ice hole in the lake."
+      ],
+      "books": [
+        "How Bear Lost His Tail"
+      ]
+    },
+    {
+      "word": "closer",
+      "pos": "adj",
+      "meaning": "靠近的",
+      "examples": [
+        "He came closer."
+      ],
+      "books": [
+        "How Bear Lost His Tail"
+      ]
+    },
+    {
+      "word": "delicious",
+      "pos": "adj",
+      "meaning": "美味的，芬芳的",
+      "examples": [
+        "Those fish look delicious,"
+      ],
+      "books": [
+        "How Bear Lost His Tail"
+      ]
+    },
+    {
+      "word": "bite",
+      "pos": "v",
+      "meaning": "咬，咬饵",
+      "examples": [
+        "The fish will bite it and you can pull them out."
+      ],
+      "books": [
+        "How Bear Lost His Tail"
+      ]
+    },
+    {
+      "word": "pull out",
+      "pos": "phrase",
+      "meaning": "拔出，离开，撤离",
+      "examples": [
+        "The fish will bite it and you can pull them out."
+      ],
+      "books": [
+        "How Bear Lost His Tail"
+      ]
+    },
+    {
+      "word": "grow",
+      "pos": "v",
+      "meaning": "成长，发展",
+      "examples": [
+        "The night grew cold."
+      ],
+      "books": [
+        "How Bear Lost His Tail"
+      ]
+    },
+    {
+      "word": "huge",
+      "pos": "adj",
+      "meaning": "庞大的，极大的",
+      "examples": [
+        "Fox could only see a huge heap of snow."
+      ],
+      "books": [
+        "How Bear Lost His Tail"
+      ]
+    },
+    {
+      "word": "a heap of",
+      "pos": "phrase",
+      "meaning": "一大堆；许多",
+      "examples": [
+        "Fox could only see a huge heap of snow."
+      ],
+      "books": [
+        "How Bear Lost His Tail"
+      ]
+    },
+    {
+      "word": "frozen",
+      "pos": "v",
+      "meaning": "结冰；凝固（freeze 的过去分词形式）",
+      "examples": [
+        "But his tail had frozen in the lake..."
+      ],
+      "books": [
+        "How Bear Lost His Tail"
+      ]
+    },
+    {
+      "word": "break off",
+      "pos": "phrase",
+      "meaning": "折断",
+      "examples": [
+        "It broke off."
+      ],
+      "books": [
+        "How Bear Lost His Tail"
+      ]
+    },
+    {
+      "word": "happen",
+      "pos": "v",
+      "meaning": "发生",
+      "examples": [
+        "I didn't know that would happen."
+      ],
+      "books": [
+        "How Bear Lost His Tail"
+      ]
+    },
+    {
+      "word": "tortoise",
+      "pos": "n",
+      "meaning": "乌龟",
+      "examples": [
+        "This is a story about a tortoise."
+      ],
+      "books": [
+        "The Tortoise and The Eagle"
+      ]
+    },
+    {
+      "word": "lovely",
+      "pos": "adj",
+      "meaning": "可爱的，美好的",
+      "examples": [
+        "He had a lovely log to sit on,"
+      ],
+      "books": [
+        "The Tortoise and The Eagle"
+      ]
+    },
+    {
+      "word": "juicy",
+      "pos": "adj",
+      "meaning": "多汁的，汁液丰富的",
+      "examples": [
+        "juicy apples to eat"
+      ],
+      "books": [
+        "The Tortoise and The Eagle"
+      ]
+    },
+    {
+      "word": "shell",
+      "pos": "n",
+      "meaning": "壳，贝壳；龟壳",
+      "examples": [
+        "and a very shiny shell."
+      ],
+      "books": [
+        "The Tortoise and The Eagle"
+      ]
+    },
+    {
+      "word": "all day long",
+      "pos": "phrase",
+      "meaning": "整天；全天",
+      "examples": [
+        "All day long, he saw an eagle in the sky."
+      ],
+      "books": [
+        "The Tortoise and The Eagle"
+      ]
+    },
+    {
+      "word": "eagle",
+      "pos": "n",
+      "meaning": "鹰，雕",
+      "examples": [
+        "All day long, he saw an eagle in the sky."
+      ],
+      "books": [
+        "The Tortoise and The Eagle"
+      ]
+    },
+    {
+      "word": "feather",
+      "pos": "n",
+      "meaning": "羽毛",
+      "examples": [
+        "It had golden feathers and great big wings."
+      ],
+      "books": [
+        "The Tortoise and The Eagle"
+      ]
+    },
+    {
+      "word": "wing",
+      "pos": "n",
+      "meaning": "（鸟、昆虫或蝙蝠的）翅膀，翼",
+      "examples": [
+        "It had golden feathers and great big wings."
+      ],
+      "books": [
+        "The Tortoise and The Eagle"
+      ]
+    },
+    {
+      "word": "climb",
+      "pos": "v",
+      "meaning": "攀登，攀爬",
+      "examples": [
+        "He climbed onto a rock…"
+      ],
+      "books": [
+        "The Tortoise and The Eagle"
+      ]
+    },
+    {
+      "word": "belly",
+      "pos": "n",
+      "meaning": "（人或动物的）腹部",
+      "examples": [
+        "and flopped onto his belly."
+      ],
+      "books": [
+        "The Tortoise and The Eagle"
+      ]
+    },
+    {
+      "word": "climb up",
+      "pos": "phrase",
+      "meaning": "爬上去",
+      "examples": [
+        "He climbed up a tree…"
+      ],
+      "books": [
+        "The Tortoise and The Eagle"
+      ]
+    },
+    {
+      "word": "puddle",
+      "pos": "n",
+      "meaning": "(尤指雨水积成的）水坑，泥潭",
+      "examples": [
+        "and landed splat in a puddle."
+      ],
+      "books": [
+        "The Tortoise and The Eagle"
+      ]
+    },
+    {
+      "word": "call to",
+      "pos": "phrase",
+      "meaning": "呼唤；向……喊",
+      "examples": [
+        "He called to the eagle."
+      ],
+      "books": [
+        "The Tortoise and The Eagle"
+      ]
+    },
+    {
+      "word": "reply",
+      "pos": "v",
+      "meaning": "回答",
+      "examples": [
+        "\"What will you give me?\" the eagle replied."
+      ],
+      "books": [
+        "The Tortoise and The Eagle"
+      ]
+    },
+    {
+      "word": "very well",
+      "pos": "phrase",
+      "meaning": "非常好；那好吧",
+      "examples": [
+        "\"Very well,\" said the eagle."
+      ],
+      "books": [
+        "The Tortoise and The Eagle"
+      ]
+    },
+    {
+      "word": "rise up",
+      "pos": "phrase",
+      "meaning": "上升",
+      "examples": [
+        "Up and up the eagle rose…"
+      ],
+      "books": [
+        "The Tortoise and The Eagle"
+      ]
+    },
+    {
+      "word": "through",
+      "pos": "prep",
+      "meaning": "穿过",
+      "examples": [
+        "up through the clouds to the bright blue sky."
+      ],
+      "books": [
+        "The Tortoise and The Eagle"
+      ]
+    },
+    {
+      "word": "hold on",
+      "pos": "phrase",
+      "meaning": "握住，坚持；（在困境或危险中）坚持住",
+      "examples": [
+        "\"Hold on!\""
+      ],
+      "books": [
+        "The Tortoise and The Eagle"
+      ]
+    },
+    {
+      "word": "ground",
+      "pos": "n",
+      "meaning": "地，地面",
+      "examples": [
+        "The tortoise looked at the ground."
+      ],
+      "books": [
+        "The Tortoise and The Eagle"
+      ]
+    },
+    {
+      "word": "dizzy",
+      "pos": "adj",
+      "meaning": "头晕目眩的；眩晕的",
+      "examples": [
+        "He felt dizzy."
+      ],
+      "books": [
+        "The Tortoise and The Eagle"
+      ]
+    },
+    {
+      "word": "take back to",
+      "pos": "phrase",
+      "meaning": "带回来",
+      "examples": [
+        "So the eagle took the tortoise back to the ground."
+      ],
+      "books": [
+        "The Tortoise and The Eagle"
+      ]
+    },
+    {
+      "word": "make for",
+      "pos": "phrase",
+      "meaning": "有助于",
+      "examples": [
+        "You're not made for flying."
+      ],
+      "books": [
+        "The Tortoise and The Eagle"
+      ]
+    },
+    {
+      "word": "no longer",
+      "pos": "phrase",
+      "meaning": "不再",
+      "examples": [
+        "And he no longer wanted to fly."
+      ],
+      "books": [
+        "The Tortoise and The Eagle"
+      ]
+    },
+    {
+      "word": "genie",
+      "pos": "n",
+      "meaning": "妖怪",
+      "examples": [
+        "a bottle and a BIG bad genie."
+      ],
+      "books": [
+        "The Genie in The Bottle"
+      ]
+    },
+    {
+      "word": "go fishing",
+      "pos": "phrase",
+      "meaning": "去钓鱼",
+      "examples": [
+        "Once upon a time, a fisherman went fishing."
+      ],
+      "books": [
+        "The Genie in The Bottle"
+      ]
+    },
+    {
+      "word": "again and again",
+      "pos": "phrase",
+      "meaning": "再三地，反复地",
+      "examples": [
+        "He threw his nets again and again."
+      ],
+      "books": [
+        "The Genie in The Bottle"
+      ]
+    },
+    {
+      "word": "slimy",
+      "pos": "adj",
+      "meaning": "黏糊糊的",
+      "examples": [
+        "He caught slimy seaweed..."
+      ],
+      "books": [
+        "The Genie in The Bottle"
+      ]
+    },
+    {
+      "word": "seaweed",
+      "pos": "n",
+      "meaning": "海藻",
+      "examples": [
+        "He caught slimy seaweed..."
+      ],
+      "books": [
+        "The Genie in The Bottle"
+      ]
+    },
+    {
+      "word": "smelly",
+      "pos": "adj",
+      "meaning": "有难闻气味的，发臭的",
+      "examples": [
+        "...and a smelly sock."
+      ],
+      "books": [
+        "The Genie in The Bottle"
+      ]
+    },
+    {
+      "word": "sock",
+      "pos": "n",
+      "meaning": "短袜",
+      "examples": [
+        "...and a smelly sock."
+      ],
+      "books": [
+        "The Genie in The Bottle"
+      ]
+    },
+    {
+      "word": "yuck",
+      "pos": "int",
+      "meaning": "啐（表示反感等）",
+      "examples": [
+        "(Yuck!)"
+      ],
+      "books": [
+        "The Genie in The Bottle"
+      ]
+    },
+    {
+      "word": "stopper",
+      "pos": "n",
+      "meaning": "塞子；阻塞物",
+      "examples": [
+        "He pulled out the stopper and looked in."
+      ],
+      "books": [
+        "The Genie in The Bottle"
+      ]
+    },
+    {
+      "word": "throw away",
+      "pos": "phrase",
+      "meaning": "扔掉，丢弃",
+      "examples": [
+        "And he threw it away."
+      ],
+      "books": [
+        "The Genie in The Bottle"
+      ]
+    },
+    {
+      "word": "suddenly",
+      "pos": "adv",
+      "meaning": "突然地，出乎意料地",
+      "examples": [
+        "Suddenly, smoke poured out."
+      ],
+      "books": [
+        "The Genie in The Bottle"
+      ]
+    },
+    {
+      "word": "pour out",
+      "pos": "phrase",
+      "meaning": "倒出",
+      "examples": [
+        "Suddenly, smoke poured out."
+      ],
+      "books": [
+        "The Genie in The Bottle"
+      ]
+    },
+    {
+      "word": "turn into",
+      "pos": "phrase",
+      "meaning": "变成",
+      "examples": [
+        "The smoke turned into a huge face."
+      ],
+      "books": [
+        "The Genie in The Bottle"
+      ]
+    },
+    {
+      "word": "tummy",
+      "pos": "n",
+      "meaning": "肚子，胃",
+      "examples": [
+        "The genie's tummy rumbled."
+      ],
+      "books": [
+        "The Genie in The Bottle"
+      ]
+    },
+    {
+      "word": "rumble",
+      "pos": "v",
+      "meaning": "发出隆隆声",
+      "examples": [
+        "The genie's tummy rumbled."
+      ],
+      "books": [
+        "The Genie in The Bottle"
+      ]
+    },
+    {
+      "word": "growl",
+      "pos": "v",
+      "meaning": "低沉吼叫，咆哮",
+      "examples": [
+        "I'm hungry,\" he growled."
+      ],
+      "books": [
+        "The Genie in The Bottle"
+      ]
+    },
+    {
+      "word": "kind",
+      "pos": "adj",
+      "meaning": "亲切友好的；温和的",
+      "examples": [
+        "That's not very kind,"
+      ],
+      "books": [
+        "The Genie in The Bottle"
+      ]
+    },
+    {
+      "word": "care",
+      "pos": "v",
+      "meaning": "在意，担忧",
+      "examples": [
+        "I don't care."
+      ],
+      "books": [
+        "The Genie in The Bottle"
+      ]
+    },
+    {
+      "word": "fit",
+      "pos": "v",
+      "meaning": "可容纳，装进",
+      "examples": [
+        "You'd never fit,"
+      ],
+      "books": [
+        "The Genie in The Bottle"
+      ]
+    },
+    {
+      "word": "whoosh",
+      "pos": "v",
+      "meaning": "飞快地移动",
+      "examples": [
+        "He whooshed back in..."
+      ],
+      "books": [
+        "The Genie in The Bottle"
+      ]
+    },
+    {
+      "word": "hard",
+      "pos": "adv",
+      "meaning": "费力地；用力地",
+      "examples": [
+        "and the fisherman pushed the stopper in hard."
+      ],
+      "books": [
+        "The Genie in The Bottle"
+      ]
+    },
+    {
+      "word": "whew",
+      "pos": "int",
+      "meaning": "（惊讶、宽慰时发出的声音）哟，噢",
+      "examples": [
+        "Whew!"
+      ],
+      "books": [
+        "The Genie in The Bottle"
+      ]
+    },
+    {
+      "word": "peacock",
+      "pos": "n",
+      "meaning": "（雄）孔雀",
+      "examples": [
+        "two gods, houses, peacocks and banana trees."
+      ],
+      "books": [
+        "How Elephants Lost Their Wings"
+      ]
+    },
+    {
+      "word": "banana",
+      "pos": "n",
+      "meaning": "香蕉",
+      "examples": [
+        "two gods, houses, peacocks and banana trees."
+      ],
+      "books": [
+        "How Elephants Lost Their Wings"
+      ]
+    },
+    {
+      "word": "everywhere",
+      "pos": "adv",
+      "meaning": "到处",
+      "examples": [
+        "They flew everywhere."
+      ],
+      "books": [
+        "How Elephants Lost Their Wings"
+      ]
+    },
+    {
+      "word": "loop the loop",
+      "pos": "phrase",
+      "meaning": "翻跟斗",
+      "examples": [
+        "They even looped the loop."
+      ],
+      "books": [
+        "How Elephants Lost Their Wings"
+      ]
+    },
+    {
+      "word": "sometimes",
+      "pos": "adv",
+      "meaning": "有时，间或",
+      "examples": [
+        "Sometimes, the gods flew on their backs."
+      ],
+      "books": [
+        "How Elephants Lost Their Wings"
+      ]
+    },
+    {
+      "word": "noisy",
+      "pos": "adj",
+      "meaning": "嗓门大的，聒噪的；嘈杂的",
+      "examples": [
+        "But the elephants were noisy."
+      ],
+      "books": [
+        "How Elephants Lost Their Wings"
+      ]
+    },
+    {
+      "word": "yell",
+      "pos": "v",
+      "meaning": "大喊，叫喊",
+      "examples": [
+        "They yelled, and crowed like roosters."
+      ],
+      "books": [
+        "How Elephants Lost Their Wings"
+      ]
+    },
+    {
+      "word": "rooster",
+      "pos": "n",
+      "meaning": "公鸡",
+      "examples": [
+        "They yelled, and crowed like roosters."
+      ],
+      "books": [
+        "How Elephants Lost Their Wings"
+      ]
+    },
+    {
+      "word": "shook",
+      "pos": "v",
+      "meaning": "摇动（shake 的过去式）",
+      "examples": [
+        "Trees and houses shook below them."
+      ],
+      "books": [
+        "How Elephants Lost Their Wings"
+      ]
+    },
+    {
+      "word": "below",
+      "pos": "prep",
+      "meaning": "（位置）在……下面",
+      "examples": [
+        "Trees and houses shook below them."
+      ],
+      "books": [
+        "How Elephants Lost Their Wings"
+      ]
+    },
+    {
+      "word": "smash",
+      "pos": "v",
+      "meaning": "撞击",
+      "examples": [
+        "They flew into trees and smashed them."
+      ],
+      "books": [
+        "How Elephants Lost Their Wings"
+      ]
+    },
+    {
+      "word": "broken",
+      "pos": "adj",
+      "meaning": "打碎的，弄坏的",
+      "examples": [
+        "Soon all the trees were broken"
+      ],
+      "books": [
+        "How Elephants Lost Their Wings"
+      ]
+    },
+    {
+      "word": "think of",
+      "pos": "phrase",
+      "meaning": "考虑；想像",
+      "examples": [
+        "and they thought of a trick."
+      ],
+      "books": [
+        "How Elephants Lost Their Wings"
+      ]
+    },
+    {
+      "word": "invite",
+      "pos": "v",
+      "meaning": "邀请，约请",
+      "examples": [
+        "They invited the elephants to a grand feast."
+      ],
+      "books": [
+        "How Elephants Lost Their Wings"
+      ]
+    },
+    {
+      "word": "feast",
+      "pos": "n",
+      "meaning": "宴会，筵席",
+      "examples": [
+        "They invited the elephants to a grand feast."
+      ],
+      "books": [
+        "How Elephants Lost Their Wings"
+      ]
+    },
+    {
+      "word": "take away",
+      "pos": "phrase",
+      "meaning": "拿走，取走",
+      "examples": [
+        "The gods took away their wings."
+      ],
+      "books": [
+        "How Elephants Lost Their Wings"
+      ]
+    },
+    {
+      "word": "cross",
+      "pos": "adj",
+      "meaning": "恼怒的；脾气坏的",
+      "examples": [
+        "The elephants were very cross."
+      ],
+      "books": [
+        "How Elephants Lost Their Wings"
+      ]
+    },
+    {
+      "word": "stomp",
+      "pos": "v",
+      "meaning": "（尤指生气时）跺脚，重踩",
+      "examples": [
+        "They shouted and they stomped."
+      ],
+      "books": [
+        "How Elephants Lost Their Wings"
+      ]
+    },
+    {
+      "word": "never again",
+      "pos": "phrase",
+      "meaning": "不再；再也不会",
+      "examples": [
+        "they never flew again."
+      ],
+      "books": [
+        "How Elephants Lost Their Wings"
+      ]
+    },
+    {
+      "word": "god",
+      "pos": "n",
+      "meaning": "神，天神",
+      "examples": [
+        "two gods, houses, peacocks and banana trees."
+      ],
+      "books": [
+        "How Elephants Lost Their Wings"
       ]
     }
   ]
