@@ -1,5 +1,5 @@
 {
-  "total": 665,
+  "total": 754,
   "books": [
     {
       "title": "Big Pig on a Dig",
@@ -140,6 +140,26 @@
     {
       "title": "How Elephants Lost Their Wings",
       "cn": "大象怎么丢了翅膀"
+    },
+    {
+      "title": "The Daydreamer",
+      "cn": "做白日梦的人"
+    },
+    {
+      "title": "The Old Woman Who Lived in A Shoe",
+      "cn": "住在鞋里的老奶奶"
+    },
+    {
+      "title": "King Donkey Ears",
+      "cn": "驴耳朵国王"
+    },
+    {
+      "title": "Clever Rabbit and The Lion",
+      "cn": "聪明兔与狮子"
+    },
+    {
+      "title": "The Magic Melon",
+      "cn": "神奇的甜瓜"
     }
   ],
   "words": [
@@ -897,11 +917,13 @@
       "meaning": "聪明的，机灵的",
       "examples": [
         "Did you spot Ted's clever plan?",
-        "Clever Fat cat!"
+        "Clever Fat cat!",
+        "said Clever Rabbit."
       ],
       "books": [
         "Ted's Shed",
-        "Fat Cat on a Mat"
+        "Fat Cat on a Mat",
+        "Clever Rabbit and The Lion"
       ]
     },
     {
@@ -1925,10 +1947,12 @@
       "pos": "v",
       "meaning": "震惊",
       "examples": [
-        ".and shocks a flock of cockatoos."
+        ".and shocks a flock of cockatoos.",
+        "She was shocked, but she didn't say."
       ],
       "books": [
-        "Goose on the Loose"
+        "Goose on the Loose",
+        "King Donkey Ears"
       ]
     },
     {
@@ -2099,10 +2123,12 @@
       "pos": "adj",
       "meaning": "懒惰的",
       "examples": [
-        "You are lazy,\" says Big pig."
+        "You are lazy,\" says Big pig.",
+        "This story is about lazy Lee,"
       ],
       "books": [
-        "Fat Cat on a Mat"
+        "Fat Cat on a Mat",
+        "The Magic Melon"
       ]
     },
     {
@@ -2160,9 +2186,12 @@
       "word": "sell",
       "pos": "v",
       "meaning": "卖（过去分词：sold）",
-      "examples": [],
+      "examples": [
+        "I can sell my eggs."
+      ],
       "books": [
-        "Mouse Moves House"
+        "Mouse Moves House",
+        "The Daydreamer"
       ]
     },
     {
@@ -2219,11 +2248,13 @@
       "meaning": "在一起，共同",
       "examples": [
         "Together, Mack and Jack pack and pack.",
-        "If they are having that much fun together,"
+        "If they are having that much fun together,",
+        "squeezed in together,"
       ],
       "books": [
         "Mouse Moves House",
-        "My New Friend Is So Fun"
+        "My New Friend Is So Fun",
+        "The Old Woman Who Lived in A Shoe"
       ]
     },
     {
@@ -2572,10 +2603,12 @@
       "pos": "v",
       "meaning": "介意，反对",
       "examples": [
-        "I'm sure the others will not mind..."
+        "I'm sure the others will not mind...",
+        "And you don't mind?"
       ],
       "books": [
-        "Hen's Pens"
+        "Hen's Pens",
+        "King Donkey Ears"
       ]
     },
     {
@@ -3408,11 +3441,13 @@
       "examples": [
         "Then I will go, too!",
         "Then I cannot be near you!",
-        "Then we cannot be friends!"
+        "Then we cannot be friends!",
+        "Then he saw an old man with a melon."
       ],
       "books": [
         "I Am Going",
-        "Pigs Make Me Sneeze"
+        "Pigs Make Me Sneeze",
+        "The Magic Melon"
       ]
     },
     {
@@ -3822,11 +3857,13 @@
       "examples": [
         "Do not worry, Piggie. I have a plan.",
         "we need a plan!",
-        "Make a plan and stick to it, is what I say."
+        "Make a plan and stick to it, is what I say.",
+        "I have a plan."
       ],
       "books": [
         "Are You Ready to Play Outside",
-        "Let's Go For a Drive"
+        "Let's Go For a Drive",
+        "Clever Rabbit and The Lion"
       ]
     },
     {
@@ -4137,10 +4174,12 @@
       "meaning": "生病的，患病的",
       "examples": [
         "You are sick.",
-        "I AM SICK!!!"
+        "I AM SICK!!!",
+        "But my mother is sick,"
       ],
       "books": [
-        "Pigs Make Me Sneeze"
+        "Pigs Make Me Sneeze",
+        "King Donkey Ears"
       ]
     },
     {
@@ -4181,10 +4220,12 @@
       "pos": "adj",
       "meaning": "免费的",
       "examples": [
-        "Today is free ice cream day?"
+        "Today is free ice cream day?",
+        "So the king freed all the servants."
       ],
       "books": [
-        "Happy Pig Day"
+        "Happy Pig Day",
+        "King Donkey Ears"
       ]
     },
     {
@@ -5144,10 +5185,12 @@
       "examples": [
         "Do I have an egg on my head?",
         "You have three eggs on your head.",
-        "I do not want three eggs on my head!"
+        "I do not want three eggs on my head!",
+        "My hen will lay eggs......lots of eggs."
       ],
       "books": [
-        "There Is a Bird on Your Head"
+        "There Is a Bird on Your Head",
+        "The Daydreamer"
       ]
     },
     {
@@ -5308,10 +5351,12 @@
       "pos": "n",
       "meaning": "秘诀，诀窍",
       "examples": [
-        "Do you know the secret to throwing?"
+        "Do you know the secret to throwing?",
+        "There was once a king with a big secret."
       ],
       "books": [
-        "Watch Me Throw the Ball"
+        "Watch Me Throw the Ball",
+        "King Donkey Ears"
       ]
     },
     {
@@ -5365,10 +5410,12 @@
       "pos": "v",
       "meaning": "学习，学会",
       "examples": [
-        "I worked very hard to learn how to throw a ball."
+        "I worked very hard to learn how to throw a ball.",
+        "And he learned to love his ears."
       ],
       "books": [
-        "Watch Me Throw the Ball"
+        "Watch Me Throw the Ball",
+        "King Donkey Ears"
       ]
     },
     {
@@ -5733,10 +5780,12 @@
       "pos": "prep",
       "meaning": "除……外，不包括",
       "examples": [
-        "..except a car!"
+        "..except a car!",
+        "No one knew...except the servant who cut his hair."
       ],
       "books": [
-        "Let's Go For a Drive"
+        "Let's Go For a Drive",
+        "King Donkey Ears"
       ]
     },
     {
@@ -5970,10 +6019,12 @@
       "pos": "adj",
       "meaning": "一定，当然",
       "examples": [
-        "of course adj."
+        "of course adj.",
+        "Of course,\" said the giant"
       ],
       "books": [
-        "My New Friend Is So Fun"
+        "My New Friend Is So Fun",
+        "The Old Woman Who Lived in A Shoe"
       ]
     },
     {
@@ -6248,9 +6299,12 @@
       "word": "cheer up",
       "pos": "phrase",
       "meaning": "高兴起来",
-      "examples": [],
+      "examples": [
+        "Cheer up!"
+      ],
       "books": [
-        "Should I Share My Ice Cream"
+        "Should I Share My Ice Cream",
+        "The Daydreamer"
       ]
     },
     {
@@ -6511,10 +6565,12 @@
       "meaning": "轮到的机会,文中就是指也要去小象",
       "examples": [
         "Rhino wanted a turn.",
-        "Did she want a turn, too?"
+        "Did she want a turn, too?",
+        "In July, it was Meg's turn."
       ],
       "books": [
-        "I Broke My Trunk"
+        "I Broke My Trunk",
+        "King Donkey Ears"
       ]
     },
     {
@@ -7114,10 +7170,12 @@
       "pos": "v",
       "meaning": "成长，发展",
       "examples": [
-        "The night grew cold."
+        "The night grew cold.",
+        "Will you help us grow the rice?"
       ],
       "books": [
-        "How Bear Lost His Tail"
+        "How Bear Lost His Tail",
+        "The Magic Melon"
       ]
     },
     {
@@ -7653,10 +7711,12 @@
       "pos": "adv",
       "meaning": "费力地；用力地",
       "examples": [
-        "and the fisherman pushed the stopper in hard."
+        "and the fisherman pushed the stopper in hard.",
+        "But it's hard work!"
       ],
       "books": [
-        "The Genie in The Bottle"
+        "The Genie in The Bottle",
+        "The Magic Melon"
       ]
     },
     {
@@ -7888,6 +7948,986 @@
       ],
       "books": [
         "How Elephants Lost Their Wings"
+      ]
+    },
+    {
+      "word": "money",
+      "pos": "n",
+      "meaning": "钱，钞票，货币",
+      "examples": [
+        "Daisy has no money.",
+        "Soon I'll have some money,"
+      ],
+      "books": [
+        "The Daydreamer"
+      ]
+    },
+    {
+      "word": "milk",
+      "pos": "n",
+      "meaning": "（牛或羊等的）奶",
+      "examples": [
+        "Take my milk to market,"
+      ],
+      "books": [
+        "The Daydreamer"
+      ]
+    },
+    {
+      "word": "coin",
+      "pos": "n",
+      "meaning": "硬币",
+      "examples": [
+        "I'll give you a gold coin."
+      ],
+      "books": [
+        "The Daydreamer"
+      ]
+    },
+    {
+      "word": "set off",
+      "pos": "phrase",
+      "meaning": "出发，动身",
+      "examples": [
+        "And she sets off for the market."
+      ],
+      "books": [
+        "The Daydreamer"
+      ]
+    },
+    {
+      "word": "market",
+      "pos": "n",
+      "meaning": "集市，市场",
+      "examples": [
+        "And she sets off for the market."
+      ],
+      "books": [
+        "The Daydreamer"
+      ]
+    },
+    {
+      "word": "buy",
+      "pos": "v",
+      "meaning": "购买，买",
+      "examples": [
+        "I can buy a hen."
+      ],
+      "books": [
+        "The Daydreamer"
+      ]
+    },
+    {
+      "word": "cheese",
+      "pos": "n",
+      "meaning": "奶酪",
+      "examples": [
+        "Market Cheese Eggs"
+      ],
+      "books": [
+        "The Daydreamer"
+      ]
+    },
+    {
+      "word": "lots of",
+      "pos": "phrase",
+      "meaning": "许多；大量",
+      "examples": [
+        "My hen will lay eggs......lots of eggs."
+      ],
+      "books": [
+        "The Daydreamer"
+      ]
+    },
+    {
+      "word": "pretty",
+      "pos": "adj",
+      "meaning": "（尤指女孩）漂亮的，标致的",
+      "examples": [
+        "I'll buy a pretty dress"
+      ],
+      "books": [
+        "The Daydreamer"
+      ]
+    },
+    {
+      "word": "dress",
+      "pos": "n",
+      "meaning": "连衣裙，套裙",
+      "examples": [
+        "I'll buy a pretty dress"
+      ],
+      "books": [
+        "The Daydreamer"
+      ]
+    },
+    {
+      "word": "sparkly",
+      "pos": "adj",
+      "meaning": "耀眼的",
+      "examples": [
+        "and sparkly shoes."
+      ],
+      "books": [
+        "The Daydreamer"
+      ]
+    },
+    {
+      "word": "myself",
+      "pos": "pron",
+      "meaning": "我自己",
+      "examples": [
+        "But I won't get dressed by myself."
+      ],
+      "books": [
+        "The Daydreamer"
+      ]
+    },
+    {
+      "word": "servant",
+      "pos": "n",
+      "meaning": "仆人，佣人",
+      "examples": [
+        "I'll have servants to help me!"
+      ],
+      "books": [
+        "The Daydreamer"
+      ]
+    },
+    {
+      "word": "marry",
+      "pos": "v",
+      "meaning": "结婚，嫁，娶",
+      "examples": [
+        "I'll marry a prince."
+      ],
+      "books": [
+        "The Daydreamer"
+      ]
+    },
+    {
+      "word": "prince",
+      "pos": "n",
+      "meaning": "王子，王孙",
+      "examples": [
+        "I'll marry a prince."
+      ],
+      "books": [
+        "The Daydreamer"
+      ]
+    },
+    {
+      "word": "princess",
+      "pos": "n",
+      "meaning": "公主；王妃",
+      "examples": [
+        "I'll be a princess."
+      ],
+      "books": [
+        "The Daydreamer"
+      ]
+    },
+    {
+      "word": "palace",
+      "pos": "n",
+      "meaning": "王宫",
+      "examples": [
+        "We'll live in a palace"
+      ],
+      "books": [
+        "The Daydreamer"
+      ]
+    },
+    {
+      "word": "ball",
+      "pos": "n",
+      "meaning": "舞会",
+      "examples": [
+        "We'll have a ball."
+      ],
+      "books": [
+        "The Daydreamer"
+      ]
+    },
+    {
+      "word": "twirl",
+      "pos": "v",
+      "meaning": "旋转，转动",
+      "examples": [
+        "I'll twirl and whirl in my new dress."
+      ],
+      "books": [
+        "The Daydreamer"
+      ]
+    },
+    {
+      "word": "whirl",
+      "pos": "v",
+      "meaning": "飞旋，旋转",
+      "examples": [
+        "I'll twirl and whirl in my new dress."
+      ],
+      "books": [
+        "The Daydreamer"
+      ]
+    },
+    {
+      "word": "cry over spilt milk",
+      "pos": "phrase",
+      "meaning": "覆水难收，作无用的后悔",
+      "examples": [
+        "There's no use crying over spilt milk."
+      ],
+      "books": [
+        "The Daydreamer"
+      ]
+    },
+    {
+      "word": "woman",
+      "pos": "n",
+      "meaning": "妇女；女性",
+      "examples": [
+        "There was an old woman who lived in a shoe."
+      ],
+      "books": [
+        "The Old Woman Who Lived in A Shoe"
+      ]
+    },
+    {
+      "word": "children",
+      "pos": "n",
+      "meaning": "孩子们（child 的复数）",
+      "examples": [
+        "She had so many children"
+      ],
+      "books": [
+        "The Old Woman Who Lived in A Shoe"
+      ]
+    },
+    {
+      "word": "greedy",
+      "pos": "adj",
+      "meaning": "贪吃的，嘴馋的",
+      "examples": [
+        "There was Gwen who was greedy"
+      ],
+      "books": [
+        "The Old Woman Who Lived in A Shoe"
+      ]
+    },
+    {
+      "word": "all over",
+      "pos": "phrase",
+      "meaning": "到处，遍及",
+      "examples": [
+        "boys and girls all over the place."
+      ],
+      "books": [
+        "The Old Woman Who Lived in A Shoe"
+      ]
+    },
+    {
+      "word": "squeeze",
+      "pos": "v",
+      "meaning": "挤压",
+      "examples": [
+        "squeezed in together,"
+      ],
+      "books": [
+        "The Old Woman Who Lived in A Shoe"
+      ]
+    },
+    {
+      "word": "another",
+      "pos": "det",
+      "meaning": "另外一个，其他一个",
+      "examples": [
+        "We must get another."
+      ],
+      "books": [
+        "The Old Woman Who Lived in A Shoe"
+      ]
+    },
+    {
+      "word": "right away",
+      "pos": "phrase",
+      "meaning": "立刻，马上",
+      "examples": [
+        "I'll look right away."
+      ],
+      "books": [
+        "The Old Woman Who Lived in A Shoe"
+      ]
+    },
+    {
+      "word": "boot",
+      "pos": "n",
+      "meaning": "靴子",
+      "examples": [
+        "But the boots were too tiny"
+      ],
+      "books": [
+        "The Old Woman Who Lived in A Shoe"
+      ]
+    },
+    {
+      "word": "tiny",
+      "pos": "adj",
+      "meaning": "极小的，微小的",
+      "examples": [
+        "But the boots were too tiny"
+      ],
+      "books": [
+        "The Old Woman Who Lived in A Shoe"
+      ]
+    },
+    {
+      "word": "giant",
+      "pos": "n",
+      "meaning": "（传说中的）巨人",
+      "examples": [
+        "when she met a huge giant."
+      ],
+      "books": [
+        "The Old Woman Who Lived in A Shoe"
+      ]
+    },
+    {
+      "word": "shiver",
+      "pos": "v",
+      "meaning": "颤抖，哆嗦，发抖",
+      "examples": [
+        "He gave a sad shiver."
+      ],
+      "books": [
+        "The Old Woman Who Lived in A Shoe"
+      ]
+    },
+    {
+      "word": "sob",
+      "pos": "v",
+      "meaning": "啜泣，抽噎；哭诉",
+      "examples": [
+        "Please help,\" sobbed the giant."
+      ],
+      "books": [
+        "The Old Woman Who Lived in A Shoe"
+      ]
+    },
+    {
+      "word": "toe",
+      "pos": "n",
+      "meaning": "脚趾",
+      "examples": [
+        "There's a crab on my toe."
+      ],
+      "books": [
+        "The Old Woman Who Lived in A Shoe"
+      ]
+    },
+    {
+      "word": "take hold",
+      "pos": "phrase",
+      "meaning": "抓住",
+      "examples": [
+        "The old woman took hold"
+      ],
+      "books": [
+        "The Old Woman Who Lived in A Shoe"
+      ]
+    },
+    {
+      "word": "helpful",
+      "pos": "adj",
+      "meaning": "有帮助的，有用的，愿意帮忙的",
+      "examples": [
+        "And for being so helpful， take the other one too."
+      ],
+      "books": [
+        "The Old Woman Who Lived in A Shoe"
+      ]
+    },
+    {
+      "word": "knit",
+      "pos": "v",
+      "meaning": "编织，针织",
+      "examples": [
+        "And the little old woman can knit in the sun."
+      ],
+      "books": [
+        "The Old Woman Who Lived in A Shoe"
+      ]
+    },
+    {
+      "word": "woodcutter",
+      "pos": "n",
+      "meaning": "樵夫；伐木者",
+      "examples": [
+        "a woodcutter and a harp."
+      ],
+      "books": [
+        "King Donkey Ears"
+      ]
+    },
+    {
+      "word": "harp",
+      "pos": "n",
+      "meaning": "竖琴",
+      "examples": [
+        "a woodcutter and a harp."
+      ],
+      "books": [
+        "King Donkey Ears"
+      ]
+    },
+    {
+      "word": "cut",
+      "pos": "v",
+      "meaning": "切，割，砍，剪",
+      "examples": [
+        "except the servant who cut his hair."
+      ],
+      "books": [
+        "King Donkey Ears"
+      ]
+    },
+    {
+      "word": "month",
+      "pos": "n",
+      "meaning": "月，月份",
+      "examples": [
+        "Every month, the king had a hair cut."
+      ],
+      "books": [
+        "King Donkey Ears"
+      ]
+    },
+    {
+      "word": "prison",
+      "pos": "n",
+      "meaning": "监狱，牢房",
+      "examples": [
+        "Then he sent the servant to prison."
+      ],
+      "books": [
+        "King Donkey Ears"
+      ]
+    },
+    {
+      "word": "as soon as",
+      "pos": "phrase",
+      "meaning": "一……就……",
+      "examples": [
+        "As soon as Meg had finished, the king cried,"
+      ],
+      "books": [
+        "King Donkey Ears"
+      ]
+    },
+    {
+      "word": "jail",
+      "pos": "n",
+      "meaning": "监禁，监狱",
+      "examples": [
+        "Off to jail!"
+      ],
+      "books": [
+        "King Donkey Ears"
+      ]
+    },
+    {
+      "word": "own",
+      "pos": "adj",
+      "meaning": "自己的，属于自己的",
+      "examples": [
+        "The king thought of his own mother."
+      ],
+      "books": [
+        "King Donkey Ears"
+      ]
+    },
+    {
+      "word": "promise",
+      "pos": "v",
+      "meaning": "承诺，保证",
+      "examples": [
+        "Promise you'll never tell anyone!"
+      ],
+      "books": [
+        "King Donkey Ears"
+      ]
+    },
+    {
+      "word": "think about",
+      "pos": "phrase",
+      "meaning": "认真考虑",
+      "examples": [
+        "That night, it was all Meg could think about."
+      ],
+      "books": [
+        "King Donkey Ears"
+      ]
+    },
+    {
+      "word": "burst",
+      "pos": "v",
+      "meaning": "爆炸，爆裂",
+      "examples": [
+        "I'm going to burst!"
+      ],
+      "books": [
+        "King Donkey Ears"
+      ]
+    },
+    {
+      "word": "at last",
+      "pos": "phrase",
+      "meaning": "最终",
+      "examples": [
+        "At last, she had an idea."
+      ],
+      "books": [
+        "King Donkey Ears"
+      ]
+    },
+    {
+      "word": "donkey",
+      "pos": "n",
+      "meaning": "驴",
+      "examples": [
+        "The king's got donkey ears!"
+      ],
+      "books": [
+        "King Donkey Ears"
+      ]
+    },
+    {
+      "word": "chop down",
+      "pos": "phrase",
+      "meaning": "砍下",
+      "examples": [
+        "a woodcutter chopped down the tree."
+      ],
+      "books": [
+        "King Donkey Ears"
+      ]
+    },
+    {
+      "word": "concert",
+      "pos": "n",
+      "meaning": "音乐会，演奏会",
+      "examples": [
+        "the king gave a huge concert."
+      ],
+      "books": [
+        "King Donkey Ears"
+      ]
+    },
+    {
+      "word": "strange",
+      "pos": "adj",
+      "meaning": "奇怪的，不寻常的",
+      "examples": [
+        "the new harp played a very strange tune."
+      ],
+      "books": [
+        "King Donkey Ears"
+      ]
+    },
+    {
+      "word": "tune",
+      "pos": "n",
+      "meaning": "曲调，曲子",
+      "examples": [
+        "the new harp played a very strange tune."
+      ],
+      "books": [
+        "King Donkey Ears"
+      ]
+    },
+    {
+      "word": "come forward",
+      "pos": "phrase",
+      "meaning": "站出来",
+      "examples": [
+        "The king's best friend came forward."
+      ],
+      "books": [
+        "King Donkey Ears"
+      ]
+    },
+    {
+      "word": "jungle",
+      "pos": "n",
+      "meaning": "（热带）丛林",
+      "examples": [
+        "in a great big jungle lived a great big lion."
+      ],
+      "books": [
+        "Clever Rabbit and The Lion"
+      ]
+    },
+    {
+      "word": "paw",
+      "pos": "n",
+      "meaning": "（动物的）爪子",
+      "examples": [
+        "He had great big paws"
+      ],
+      "books": [
+        "Clever Rabbit and The Lion"
+      ]
+    },
+    {
+      "word": "claw",
+      "pos": "n",
+      "meaning": "（动物的）爪，爪子",
+      "examples": [
+        "and very sharp claws."
+      ],
+      "books": [
+        "Clever Rabbit and The Lion"
+      ]
+    },
+    {
+      "word": "all up",
+      "pos": "phrase",
+      "meaning": "结束；彻底完了",
+      "examples": [
+        "I'm going to eat you all up."
+      ],
+      "books": [
+        "Clever Rabbit and The Lion"
+      ]
+    },
+    {
+      "word": "weak",
+      "pos": "adj",
+      "meaning": "虚弱的，无力的",
+      "examples": [
+        "you're small and weak,"
+      ],
+      "books": [
+        "Clever Rabbit and The Lion"
+      ]
+    },
+    {
+      "word": "hide",
+      "pos": "v",
+      "meaning": "隐藏",
+      "examples": [
+        "all the animals hid from Lion."
+      ],
+      "books": [
+        "Clever Rabbit and The Lion"
+      ]
+    },
+    {
+      "word": "before",
+      "pos": "prep",
+      "meaning": "（时间上）在……之前",
+      "examples": [
+        "I tried to come before,"
+      ],
+      "books": [
+        "Clever Rabbit and The Lion"
+      ]
+    },
+    {
+      "word": "only",
+      "pos": "adj",
+      "meaning": "仅有的，唯一的",
+      "examples": [
+        "I'm the only lion in the jungle."
+      ],
+      "books": [
+        "Clever Rabbit and The Lion"
+      ]
+    },
+    {
+      "word": "eat up",
+      "pos": "phrase",
+      "meaning": "吃光；耗尽",
+      "examples": [
+        "I'll eat him up"
+      ],
+      "books": [
+        "Clever Rabbit and The Lion"
+      ]
+    },
+    {
+      "word": "deep",
+      "pos": "adj",
+      "meaning": "深的",
+      "examples": [
+        "Clever Rabbit led Lion to the deep, wide river."
+      ],
+      "books": [
+        "Clever Rabbit and The Lion"
+      ]
+    },
+    {
+      "word": "wide",
+      "pos": "adj",
+      "meaning": "宽的",
+      "examples": [
+        "Clever Rabbit led Lion to the deep, wide river."
+      ],
+      "books": [
+        "Clever Rabbit and The Lion"
+      ]
+    },
+    {
+      "word": "leap at",
+      "pos": "phrase",
+      "meaning": "向……扑去",
+      "examples": [
+        "Lion leaped at the lion in the water..."
+      ],
+      "books": [
+        "Clever Rabbit and The Lion"
+      ]
+    },
+    {
+      "word": "sweep away",
+      "pos": "phrase",
+      "meaning": "清除；一扫而空",
+      "examples": [
+        "and was swept away."
+      ],
+      "books": [
+        "Clever Rabbit and The Lion"
+      ]
+    },
+    {
+      "word": "rush out",
+      "pos": "phrase",
+      "meaning": "冲出；突然出现",
+      "examples": [
+        "The jungle animals came rushing out."
+      ],
+      "books": [
+        "Clever Rabbit and The Lion"
+      ]
+    },
+    {
+      "word": "melon",
+      "pos": "n",
+      "meaning": "瓜，香瓜，甜瓜",
+      "examples": [
+        "a magic melon,"
+      ],
+      "books": [
+        "The Magic Melon"
+      ]
+    },
+    {
+      "word": "seed",
+      "pos": "n",
+      "meaning": "种子，籽",
+      "examples": [
+        "a magic melon seed."
+      ],
+      "books": [
+        "The Magic Melon"
+      ]
+    },
+    {
+      "word": "hate doing",
+      "pos": "phrase",
+      "meaning": "讨厌做某事",
+      "examples": [
+        "Lee hated working."
+      ],
+      "books": [
+        "The Magic Melon"
+      ]
+    },
+    {
+      "word": "snooze",
+      "pos": "v",
+      "meaning": "（尤指在白天的）小睡，打盹儿",
+      "examples": [
+        "He liked snoozing much better."
+      ],
+      "books": [
+        "The Magic Melon"
+      ]
+    },
+    {
+      "word": "cook",
+      "pos": "v",
+      "meaning": "煮，烧；烹饪",
+      "examples": [
+        "Will you help us cook the rice?"
+      ],
+      "books": [
+        "The Magic Melon"
+      ]
+    },
+    {
+      "word": "soon",
+      "pos": "adv",
+      "meaning": "很快，马上，不久",
+      "examples": [
+        "Soon, Lee was very hungry."
+      ],
+      "books": [
+        "The Magic Melon"
+      ]
+    },
+    {
+      "word": "want for",
+      "pos": "phrase",
+      "meaning": "需要",
+      "examples": [
+        "What do you want for dinner?"
+      ],
+      "books": [
+        "The Magic Melon"
+      ]
+    },
+    {
+      "word": "fried rice",
+      "pos": "phrase",
+      "meaning": "炒饭",
+      "examples": [
+        "Fried rice,\" sighed Lee."
+      ],
+      "books": [
+        "The Magic Melon"
+      ]
+    },
+    {
+      "word": "sigh",
+      "pos": "v",
+      "meaning": "叹气，叹息",
+      "examples": [
+        "Fried rice,\" sighed Lee."
+      ],
+      "books": [
+        "The Magic Melon"
+      ]
+    },
+    {
+      "word": "tap",
+      "pos": "v",
+      "meaning": "轻拍，轻敲",
+      "examples": [
+        "The man tapped the melon."
+      ],
+      "books": [
+        "The Magic Melon"
+      ]
+    },
+    {
+      "word": "plant",
+      "pos": "v",
+      "meaning": "栽种，种植",
+      "examples": [
+        "Plant it carefully."
+      ],
+      "books": [
+        "The Magic Melon"
+      ]
+    },
+    {
+      "word": "carefully",
+      "pos": "adv",
+      "meaning": "小心地，仔细地",
+      "examples": [
+        "Plant it carefully."
+      ],
+      "books": [
+        "The Magic Melon"
+      ]
+    },
+    {
+      "word": "water",
+      "pos": "v",
+      "meaning": "给……浇水，灌溉",
+      "examples": [
+        "You must water it three times a day."
+      ],
+      "books": [
+        "The Magic Melon"
+      ]
+    },
+    {
+      "word": "at first",
+      "pos": "phrase",
+      "meaning": "起先，一开始，最初",
+      "examples": [
+        "At first, Lee did as he was told."
+      ],
+      "books": [
+        "The Magic Melon"
+      ]
+    },
+    {
+      "word": "pick",
+      "pos": "v",
+      "meaning": "采，摘（花、果）",
+      "examples": [
+        "One day, Lee picked it."
+      ],
+      "books": [
+        "The Magic Melon"
+      ]
+    },
+    {
+      "word": "lick",
+      "pos": "v",
+      "meaning": "舔，舔吃",
+      "examples": [
+        "He licked his lips"
+      ],
+      "books": [
+        "The Magic Melon"
+      ]
+    },
+    {
+      "word": "lip",
+      "pos": "n",
+      "meaning": "嘴唇",
+      "examples": [
+        "He licked his lips"
+      ],
+      "books": [
+        "The Magic Melon"
+      ]
+    },
+    {
+      "word": "a lump of",
+      "pos": "phrase",
+      "meaning": "一块，一团",
+      "examples": [
+        "There was a lump of dry bread."
+      ],
+      "books": [
+        "The Magic Melon"
+      ]
+    },
+    {
+      "word": "look after",
+      "pos": "phrase",
+      "meaning": "照顾，照料",
+      "examples": [
+        "You didn't look after it, did you?"
+      ],
+      "books": [
+        "The Magic Melon"
+      ]
+    },
+    {
+      "word": "cheat",
+      "pos": "v",
+      "meaning": "欺骗",
+      "examples": [
+        "You cheated the melon,"
+      ],
+      "books": [
+        "The Magic Melon"
       ]
     }
   ]
