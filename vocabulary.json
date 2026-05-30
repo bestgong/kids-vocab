@@ -1,5 +1,5 @@
 {
-  "total": 754,
+  "total": 858,
   "books": [
     {
       "title": "Big Pig on a Dig",
@@ -160,6 +160,26 @@
     {
       "title": "The Magic Melon",
       "cn": "神奇的甜瓜"
+    },
+    {
+      "title": "The Dragon and The Phoenix",
+      "cn": "龙与凤凰"
+    },
+    {
+      "title": "Snowball Soup",
+      "cn": "雪球汤"
+    },
+    {
+      "title": "Just Helping My Dad",
+      "cn": "只是帮爸爸"
+    },
+    {
+      "title": "Going to The Firehouse",
+      "cn": "去消防站"
+    },
+    {
+      "title": "Just Critters Who Care",
+      "cn": "关心别人的小毛怪"
     }
   ],
   "words": [
@@ -219,10 +239,12 @@
       "examples": [
         "Big Pig on A Dig",
         "It shows where to dig, Fat Cat.",
-        "Where to dig? Dig for what, Big Pig?"
+        "Where to dig? Dig for what, Big Pig?",
+        "I dig in the snow."
       ],
       "books": [
-        "Big Pig on a Dig"
+        "Big Pig on a Dig",
+        "Snowball Soup"
       ]
     },
     {
@@ -461,10 +483,12 @@
       "meaning": "商店",
       "examples": [
         "He goes into the store.",
-        "He’s not in the store any more."
+        "He’s not in the store any more.",
+        "We go to the store."
       ],
       "books": [
-        "Ted in a Red Bed"
+        "Ted in a Red Bed",
+        "Just Helping My Dad"
       ]
     },
     {
@@ -519,10 +543,12 @@
       "pos": "adj",
       "meaning": "困倦的，想睡的",
       "examples": [
-        "Ted feels sleepy."
+        "Ted feels sleepy.",
+        "Dad is sleepy."
       ],
       "books": [
-        "Ted in a Red Bed"
+        "Ted in a Red Bed",
+        "Just Helping My Dad"
       ]
     },
     {
@@ -568,10 +594,12 @@
       "pos": "n",
       "meaning": "浪潮，波",
       "examples": [
-        "He bobs on a wave into a cave."
+        "He bobs on a wave into a cave.",
+        "I wave good bye to Fireman Joe."
       ],
       "books": [
-        "Ted in a Red Bed"
+        "Ted in a Red Bed",
+        "Going to The Firehouse"
       ]
     },
     {
@@ -590,10 +618,12 @@
       "pos": "v",
       "meaning": "飞，飞翔",
       "examples": [
-        "He can fly in the sky!"
+        "He can fly in the sky!",
+        "Every day, the phoenix flew in the sky above."
       ],
       "books": [
-        "Ted in a Red Bed"
+        "Ted in a Red Bed",
+        "The Dragon and The Phoenix"
       ]
     },
     {
@@ -614,11 +644,13 @@
       "examples": [
         "Ted wakes up with a snore.",
         "Sam Sheep wakes up Pup.",
-        "Ted wakes up."
+        "Ted wakes up.",
+        "Wake up, Dad."
       ],
       "books": [
         "Ted in a Red Bed",
-        "Sam Sheep can't Sleep"
+        "Sam Sheep can't Sleep",
+        "Just Helping My Dad"
       ]
     },
     {
@@ -711,11 +743,13 @@
       "examples": [
         "Pup barks, \"It's late. It's dark.",
         "It's late. It's dark. Go to sleep!",
-        "Pup barks in the dark night..."
+        "Pup barks in the dark night...",
+        "A dark forest grew on the other side of the river."
       ],
       "books": [
         "Sam Sheep can't Sleep",
-        "Shark in the Park"
+        "Shark in the Park",
+        "The Dragon and The Phoenix"
       ]
     },
     {
@@ -1068,11 +1102,13 @@
       "meaning": "看，注视（现在分词：",
       "examples": [
         "Look who's watching--a pair of mice!",
-        "Watch me go!"
+        "Watch me go!",
+        "Watching the pearl."
       ],
       "books": [
         "Ted's Shed",
-        "I Am Going"
+        "I Am Going",
+        "The Dragon and The Phoenix"
       ]
     },
     {
@@ -1104,10 +1140,12 @@
       "meaning": "钉子",
       "examples": [
         "Next, Ted hunts for his jar of nails.",
-        "Lookthe mice have the nails in their tails!"
+        "Lookthe mice have the nails in their tails!",
+        "Sorry about the nails."
       ],
       "books": [
-        "Ted's Shed"
+        "Ted's Shed",
+        "Just Helping My Dad"
       ]
     },
     {
@@ -1458,11 +1496,13 @@
       "examples": [
         "What a bright spark",
         "She makes bright squiggles and marks.",
-        "Hen's zigzags are very bright indeed."
+        "Hen's zigzags are very bright indeed.",
+        "The pearl shone brighter than stars."
       ],
       "books": [
         "Shark in the Park",
-        "Hen's Pens"
+        "Hen's Pens",
+        "The Dragon and The Phoenix"
       ]
     },
     {
@@ -1596,10 +1636,12 @@
       "pos": "n",
       "meaning": "(狗、狼等）嗥叫，长嚎",
       "examples": [
-        "Then snarls and howls and a hullabaloo."
+        "Then snarls and howls and a hullabaloo.",
+        "Sparky howls."
       ],
       "books": [
-        "Goose on the Loose"
+        "Goose on the Loose",
+        "Going to The Firehouse"
       ]
     },
     {
@@ -2030,10 +2072,12 @@
       "examples": [
         "and the nest drops off the end.",
         "The nest drops, with a plop, on top of Big Pig.",
-        "It's the eggs from the nest!\" says Big pig."
+        "It's the eggs from the nest!\" says Big pig.",
+        "I see a bees' nest."
       ],
       "books": [
-        "Fat Cat on a Mat"
+        "Fat Cat on a Mat",
+        "Just Helping My Dad"
       ]
     },
     {
@@ -2350,10 +2394,12 @@
       "pos": "v",
       "meaning": "开，打开（第三人称单",
       "examples": [
-        "Mack opens his door and walks out onto the floor."
+        "Mack opens his door and walks out onto the floor.",
+        "Who left the windows open?"
       ],
       "books": [
-        "Mouse Moves House"
+        "Mouse Moves House",
+        "Just Helping My Dad"
       ]
     },
     {
@@ -2660,12 +2706,14 @@
       "examples": [
         "Sorting them out is hard to fix.",
         "Will being sorry fix my toy?!",
-        "Twenty-five, twenty-six, \"Let's get this fixed.\""
+        "Twenty-five, twenty-six, \"Let's get this fixed.\"",
+        "I will fix it, Dad."
       ],
       "books": [
         "Hen's Pens",
         "I Love My New Toy",
-        "One, Two Buckle My Shoe"
+        "One, Two Buckle My Shoe",
+        "Just Helping My Dad"
       ]
     },
     {
@@ -2799,12 +2847,14 @@
       "examples": [
         "You silly dog!",
         "You silly hog!",
-        "You will not call us silly dog and hog?"
+        "You will not call us silly dog and hog?",
+        "Silly dog!"
       ],
       "books": [
         "Frog on a Log",
         "I Am Going",
-        "Let's Go For a Drive"
+        "Let's Go For a Drive",
+        "Snowball Soup"
       ]
     },
     {
@@ -2960,11 +3010,13 @@
       "meaning": "看",
       "examples": [
         "LOOK AT MY NEW TOY!!!",
-        "Look at me go!"
+        "Look at me go!",
+        "Look at all the snow!"
       ],
       "books": [
         "I Love My New Toy",
-        "I Am Going"
+        "I Am Going",
+        "Snowball Soup"
       ]
     },
     {
@@ -3013,13 +3065,15 @@
       "examples": [
         "Maybe it is a throwing toy.",
         "Maybe we can have fun, too...",
-        "YAY! Maybe you will really like slop!"
+        "YAY! Maybe you will really like slop!",
+        "Maybe a monster lives there."
       ],
       "books": [
         "I Love My New Toy",
         "Are You Ready to Play Outside",
         "I Really Like Slop",
-        "Watch Me Throw the Ball"
+        "Watch Me Throw the Ball",
+        "Just Critters Who Care"
       ]
     },
     {
@@ -3077,11 +3131,13 @@
       "examples": [
         "Maybe it is a throwing toy.",
         "I love throwing toys.",
-        "Nice throw."
+        "Nice throw.",
+        "We throw snowballs."
       ],
       "books": [
         "I Love My New Toy",
-        "Can I Play Too"
+        "Can I Play Too",
+        "Snowball Soup"
       ]
     },
     {
@@ -3123,10 +3179,12 @@
       "pos": "adj",
       "meaning": "生气的，气愤的",
       "examples": [
-        "I am mad and sad!"
+        "I am mad and sad!",
+        "I am not mad, just not happy."
       ],
       "books": [
-        "I Love My New Toy"
+        "I Love My New Toy",
+        "Just Helping My Dad"
       ]
     },
     {
@@ -3150,10 +3208,12 @@
       "examples": [
         "I am sorry.",
         "You are sorry!",
-        "Very sorry!"
+        "Very sorry!",
+        "Oops! Sorry, Little Sister."
       ],
       "books": [
-        "I Love My New Toy"
+        "I Love My New Toy",
+        "Snowball Soup"
       ]
     },
     {
@@ -3264,10 +3324,12 @@
       "meaning": "也",
       "examples": [
         "Yes! Yesterday was a good day, too.",
-        "Then I will go, too!"
+        "Then I will go, too!",
+        "I like snow, too."
       ],
       "books": [
-        "I Am Going"
+        "I Am Going",
+        "Snowball Soup"
       ]
     },
     {
@@ -3395,10 +3457,12 @@
       "pos": "v",
       "meaning": "戴",
       "examples": [
-        "Who will I wear a silly hat with?"
+        "Who will I wear a silly hat with?",
+        "Everyone wears a T-shirt."
       ],
       "books": [
-        "I Am Going"
+        "I Am Going",
+        "Just Critters Who Care"
       ]
     },
     {
@@ -3442,12 +3506,14 @@
         "Then I will go, too!",
         "Then I cannot be near you!",
         "Then we cannot be friends!",
-        "Then he saw an old man with a melon."
+        "Then he saw an old man with a melon.",
+        "Then we put on the eyes."
       ],
       "books": [
         "I Am Going",
         "Pigs Make Me Sneeze",
-        "The Magic Melon"
+        "The Magic Melon",
+        "Snowball Soup"
       ]
     },
     {
@@ -3520,9 +3586,12 @@
       "word": "why",
       "pos": "adv",
       "meaning": "（用于问句）为什么",
-      "examples": [],
+      "examples": [
+        "I ask my dad why it looks so spooky."
+      ],
       "books": [
-        "I Am Going"
+        "I Am Going",
+        "Just Critters Who Care"
       ]
     },
     {
@@ -3745,11 +3814,13 @@
       "examples": [
         "But, it is still raining!",
         "But he is still sad.",
-        "But you are still sad."
+        "But you are still sad.",
+        "They are still there today."
       ],
       "books": [
         "Are You Ready to Play Outside",
-        "My Friend is Sad"
+        "My Friend is Sad",
+        "The Dragon and The Phoenix"
       ]
     },
     {
@@ -4059,10 +4130,12 @@
       "pos": "n",
       "meaning": "游泳",
       "examples": [
-        "aaaaa A ball? A swim? A hat?"
+        "aaaaa A ball? A swim? A hat?",
+        "Every day, the dragon swam in the river."
       ],
       "books": [
-        "Pigs Make Me Sneeze"
+        "Pigs Make Me Sneeze",
+        "The Dragon and The Phoenix"
       ]
     },
     {
@@ -4740,10 +4813,12 @@
       "pos": "n",
       "meaning": "结尾，结局",
       "examples": [
-        "And now the BIG FINISH!"
+        "And now the BIG FINISH!",
+        "But Dad has to finish."
       ],
       "books": [
-        "Listen to My Trumpet"
+        "Listen to My Trumpet",
+        "Just Helping My Dad"
       ]
     },
     {
@@ -4770,10 +4845,12 @@
       "meaning": "大声的，响亮的",
       "examples": [
         "Your trumpet is LOUD.",
-        "Your trumpet is loud and shiny and you hold"
+        "Your trumpet is loud and shiny and you hold",
+        "The siren is very loud."
       ],
       "books": [
-        "Listen to My Trumpet"
+        "Listen to My Trumpet",
+        "Going to The Firehouse"
       ]
     },
     {
@@ -4972,10 +5049,12 @@
       "examples": [
         "I Really Like Slop",
         "Pigs, really, really, really, really, really like slop!",
-        "Should it smell like that?"
+        "Should it smell like that?",
+        "Dog likes snow."
       ],
       "books": [
-        "I Really Like Slop"
+        "I Really Like Slop",
+        "Snowball Soup"
       ]
     },
     {
@@ -5893,10 +5972,12 @@
       "meaning": "比",
       "examples": [
         "They could be having more fun than they have",
-        "It is worse than we feared!"
+        "It is worse than we feared!",
+        "The pearl shone brighter than stars."
       ],
       "books": [
-        "My New Friend Is So Fun"
+        "My New Friend Is So Fun",
+        "The Dragon and The Phoenix"
       ]
     },
     {
@@ -6652,10 +6733,12 @@
       "examples": [
         "You will forget someone",
         "You will forget someone important!",
-        "But you will forget someone."
+        "But you will forget someone.",
+        "I forgot to turn off the hose."
       ],
       "books": [
-        "The Thank You Book"
+        "The Thank You Book",
+        "Just Helping My Dad"
       ]
     },
     {
@@ -6862,10 +6945,12 @@
       "pos": "v",
       "meaning": "放置",
       "examples": [
-        "Seven, eight, lay them straight."
+        "Seven, eight, lay them straight.",
+        "A shiny pebble lay on the sand."
       ],
       "books": [
-        "One, Two Buckle My Shoe"
+        "One, Two Buckle My Shoe",
+        "The Dragon and The Phoenix"
       ]
     },
     {
@@ -7115,10 +7200,12 @@
       "pos": "n",
       "meaning": "湖，湖泊",
       "examples": [
-        "Fox carried the fish to an ice hole in the lake."
+        "Fox carried the fish to an ice hole in the lake.",
+        "It landed on the ground and became a shining lake."
       ],
       "books": [
-        "How Bear Lost His Tail"
+        "How Bear Lost His Tail",
+        "The Dragon and The Phoenix"
       ]
     },
     {
@@ -7304,10 +7391,12 @@
       "pos": "n",
       "meaning": "羽毛",
       "examples": [
-        "It had golden feathers and great big wings."
+        "It had golden feathers and great big wings.",
+        "The phoenix polished it with a feather."
       ],
       "books": [
-        "The Tortoise and The Eagle"
+        "The Tortoise and The Eagle",
+        "The Dragon and The Phoenix"
       ]
     },
     {
@@ -7712,11 +7801,13 @@
       "meaning": "费力地；用力地",
       "examples": [
         "and the fisherman pushed the stopper in hard.",
-        "But it's hard work!"
+        "But it's hard work!",
+        "I hit the ball very hard."
       ],
       "books": [
         "The Genie in The Bottle",
-        "The Magic Melon"
+        "The Magic Melon",
+        "Just Critters Who Care"
       ]
     },
     {
@@ -7801,10 +7892,12 @@
       "pos": "v",
       "meaning": "大喊，叫喊",
       "examples": [
-        "They yelled, and crowed like roosters."
+        "They yelled, and crowed like roosters.",
+        "Dad is yelling something."
       ],
       "books": [
-        "How Elephants Lost Their Wings"
+        "How Elephants Lost Their Wings",
+        "Just Helping My Dad"
       ]
     },
     {
@@ -8385,10 +8478,12 @@
       "pos": "v",
       "meaning": "切，割，砍，剪",
       "examples": [
-        "except the servant who cut his hair."
+        "except the servant who cut his hair.",
+        "I cut the grass."
       ],
       "books": [
-        "King Donkey Ears"
+        "King Donkey Ears",
+        "Just Helping My Dad"
       ]
     },
     {
@@ -8928,6 +9023,1152 @@
       ],
       "books": [
         "The Magic Melon"
+      ]
+    },
+    {
+      "word": "dragon",
+      "pos": "n",
+      "meaning": "（传说中的）龙",
+      "examples": [
+        "This is the story of Dragon Mountain."
+      ],
+      "books": [
+        "The Dragon and The Phoenix"
+      ]
+    },
+    {
+      "word": "phoenix",
+      "pos": "n",
+      "meaning": "凤凰，不死鸟",
+      "examples": [
+        "Phoenix Mountain and a shining lake."
+      ],
+      "books": [
+        "The Dragon and The Phoenix"
+      ]
+    },
+    {
+      "word": "thousand",
+      "pos": "n",
+      "meaning": "千",
+      "examples": [
+        "It begins thousands of years ago, in China."
+      ],
+      "books": [
+        "The Dragon and The Phoenix"
+      ]
+    },
+    {
+      "word": "China",
+      "pos": "n",
+      "meaning": "中国",
+      "examples": [
+        "It begins thousands of years ago, in China."
+      ],
+      "books": [
+        "The Dragon and The Phoenix"
+      ]
+    },
+    {
+      "word": "beside",
+      "pos": "prep",
+      "meaning": "在……旁边",
+      "examples": [
+        "Long, long ago, a dragon lived beside a magic river."
+      ],
+      "books": [
+        "The Dragon and The Phoenix"
+      ]
+    },
+    {
+      "word": "the other",
+      "pos": "phrase",
+      "meaning": "另一个",
+      "examples": [
+        "A dark forest grew on the other side of the river."
+      ],
+      "books": [
+        "The Dragon and The Phoenix"
+      ]
+    },
+    {
+      "word": "above",
+      "pos": "adv",
+      "meaning": "在（或向）上面",
+      "examples": [
+        "Every day, the phoenix flew in the sky above."
+      ],
+      "books": [
+        "The Dragon and The Phoenix"
+      ]
+    },
+    {
+      "word": "meet",
+      "pos": "v",
+      "meaning": "偶遇，结识",
+      "examples": [
+        "One day, they met on an island in the river.",
+        "We meet at my house."
+      ],
+      "books": [
+        "The Dragon and The Phoenix",
+        "Just Critters Who Care"
+      ]
+    },
+    {
+      "word": "island",
+      "pos": "n",
+      "meaning": "岛，岛屿",
+      "examples": [
+        "One day, they met on an island in the river."
+      ],
+      "books": [
+        "The Dragon and The Phoenix"
+      ]
+    },
+    {
+      "word": "pebble",
+      "pos": "n",
+      "meaning": "鹅卵石",
+      "examples": [
+        "A shiny pebble lay on the sand."
+      ],
+      "books": [
+        "The Dragon and The Phoenix"
+      ]
+    },
+    {
+      "word": "wash",
+      "pos": "v",
+      "meaning": "清洗，洗涤",
+      "examples": [
+        "The dragon washed it in the river."
+      ],
+      "books": [
+        "The Dragon and The Phoenix"
+      ]
+    },
+    {
+      "word": "polish",
+      "pos": "v",
+      "meaning": "擦亮，磨光",
+      "examples": [
+        "The phoenix polished it with a feather."
+      ],
+      "books": [
+        "The Dragon and The Phoenix"
+      ]
+    },
+    {
+      "word": "pearl",
+      "pos": "n",
+      "meaning": "珍珠",
+      "examples": [
+        "And the pebble became a pearl."
+      ],
+      "books": [
+        "The Dragon and The Phoenix"
+      ]
+    },
+    {
+      "word": "stay on",
+      "pos": "phrase",
+      "meaning": "继续停留",
+      "examples": [
+        "The dragon and the phoenix stayed on the island."
+      ],
+      "books": [
+        "The Dragon and The Phoenix"
+      ]
+    },
+    {
+      "word": "shine",
+      "pos": "v",
+      "meaning": "发光，照耀",
+      "examples": [
+        "The pearl shone brighter than stars."
+      ],
+      "books": [
+        "The Dragon and The Phoenix"
+      ]
+    },
+    {
+      "word": "send",
+      "pos": "v",
+      "meaning": "派遣",
+      "examples": [
+        "That night, she sent a guard to steal it."
+      ],
+      "books": [
+        "The Dragon and The Phoenix"
+      ]
+    },
+    {
+      "word": "guard",
+      "pos": "n",
+      "meaning": "看守",
+      "examples": [
+        "That night, she sent a guard to steal it."
+      ],
+      "books": [
+        "The Dragon and The Phoenix"
+      ]
+    },
+    {
+      "word": "steal",
+      "pos": "v",
+      "meaning": "偷窃，盗窃",
+      "examples": [
+        "That night, she sent a guard to steal it."
+      ],
+      "books": [
+        "The Dragon and The Phoenix"
+      ]
+    },
+    {
+      "word": "fly up",
+      "pos": "phrase",
+      "meaning": "向上飞",
+      "examples": [
+        "They flew up to Heaven and saw the Queen."
+      ],
+      "books": [
+        "The Dragon and The Phoenix"
+      ]
+    },
+    {
+      "word": "little",
+      "pos": "adj",
+      "meaning": "小的，比较小的",
+      "examples": [
+        "I am Little Critter."
+      ],
+      "books": [
+        "Snowball Soup"
+      ]
+    },
+    {
+      "word": "critter",
+      "pos": "n",
+      "meaning": "生物，动物",
+      "examples": [
+        "I am Little Critter."
+      ],
+      "books": [
+        "Snowball Soup"
+      ]
+    },
+    {
+      "word": "roll",
+      "pos": "v",
+      "meaning": "翻滚，滚动",
+      "examples": [
+        "Little Sister rolls in the snow."
+      ],
+      "books": [
+        "Snowball Soup"
+      ]
+    },
+    {
+      "word": "oops",
+      "pos": "int",
+      "meaning": "哎哟，啊呀",
+      "examples": [
+        "Oops! Sorry, Little Sister."
+      ],
+      "books": [
+        "Snowball Soup"
+      ]
+    },
+    {
+      "word": "some",
+      "pos": "det",
+      "meaning": "一些",
+      "examples": [
+        "We roll some big snowballs."
+      ],
+      "books": [
+        "Snowball Soup"
+      ]
+    },
+    {
+      "word": "on the bottom",
+      "pos": "phrase",
+      "meaning": "在底部",
+      "examples": [
+        "One snowball on the bottom."
+      ],
+      "books": [
+        "Snowball Soup"
+      ]
+    },
+    {
+      "word": "on top",
+      "pos": "phrase",
+      "meaning": "在上面",
+      "examples": [
+        "The next one goes on top."
+      ],
+      "books": [
+        "Snowball Soup"
+      ]
+    },
+    {
+      "word": "ta-da",
+      "pos": "int",
+      "meaning": "塔哒，哇呀（表示惊喜）",
+      "examples": [
+        "Ta-da!"
+      ],
+      "books": [
+        "Snowball Soup"
+      ]
+    },
+    {
+      "word": "put on",
+      "pos": "phrase",
+      "meaning": "穿上，戴上",
+      "examples": [
+        "Little Sister puts on the hat."
+      ],
+      "books": [
+        "Snowball Soup"
+      ]
+    },
+    {
+      "word": "lunch",
+      "pos": "n",
+      "meaning": "午餐，午饭",
+      "examples": [
+        "Time for lunch, Snowman!"
+      ],
+      "books": [
+        "Snowball Soup"
+      ]
+    },
+    {
+      "word": "soup",
+      "pos": "n",
+      "meaning": "汤，羹",
+      "examples": [
+        "Snowball soup!"
+      ],
+      "books": [
+        "Snowball Soup"
+      ]
+    },
+    {
+      "word": "spoon",
+      "pos": "n",
+      "meaning": "匙，勺子",
+      "examples": [
+        "We give the snowman a spoon."
+      ],
+      "books": [
+        "Snowball Soup"
+      ]
+    },
+    {
+      "word": "go inside",
+      "pos": "phrase",
+      "meaning": "进（屋里）去",
+      "examples": [
+        "We go inside."
+      ],
+      "books": [
+        "Snowball Soup"
+      ]
+    },
+    {
+      "word": "yum",
+      "pos": "int",
+      "meaning": "呀呣（表示好吃）",
+      "examples": [
+        "Yum! Yum!"
+      ],
+      "books": [
+        "Snowball Soup"
+      ]
+    },
+    {
+      "word": "go outside",
+      "pos": "phrase",
+      "meaning": "外出；往外走",
+      "examples": [
+        "We go outside."
+      ],
+      "books": [
+        "Snowball Soup"
+      ]
+    },
+    {
+      "word": "don't worry",
+      "pos": "phrase",
+      "meaning": "不要紧；不用担心",
+      "examples": [
+        "Don't worry, Snowman!"
+      ],
+      "books": [
+        "Snowball Soup"
+      ]
+    },
+    {
+      "word": "breakfast",
+      "pos": "n",
+      "meaning": "早餐",
+      "examples": [
+        "I make breakfast for him all by myself."
+      ],
+      "books": [
+        "Just Helping My Dad"
+      ]
+    },
+    {
+      "word": "all by myself",
+      "pos": "phrase",
+      "meaning": "全靠自己",
+      "examples": [
+        "I make breakfast for him all by myself."
+      ],
+      "books": [
+        "Just Helping My Dad"
+      ]
+    },
+    {
+      "word": "grass",
+      "pos": "n",
+      "meaning": "草地，草坪",
+      "examples": [
+        "I cut the grass."
+      ],
+      "books": [
+        "Just Helping My Dad"
+      ]
+    },
+    {
+      "word": "mower",
+      "pos": "n",
+      "meaning": "割草机",
+      "examples": [
+        "The mower got away!"
+      ],
+      "books": [
+        "Just Helping My Dad"
+      ]
+    },
+    {
+      "word": "get away",
+      "pos": "phrase",
+      "meaning": "离开；逃脱",
+      "examples": [
+        "The mower got away!"
+      ],
+      "books": [
+        "Just Helping My Dad"
+      ]
+    },
+    {
+      "word": "leave",
+      "pos": "v",
+      "meaning": "让……处于（某种状态）",
+      "examples": [
+        "Who left the windows open?"
+      ],
+      "books": [
+        "Just Helping My Dad"
+      ]
+    },
+    {
+      "word": "window",
+      "pos": "n",
+      "meaning": "窗，窗玻璃",
+      "examples": [
+        "Who left the windows open?"
+      ],
+      "books": [
+        "Just Helping My Dad"
+      ]
+    },
+    {
+      "word": "paint",
+      "pos": "v",
+      "meaning": "（给……）上油漆",
+      "examples": [
+        "I can paint."
+      ],
+      "books": [
+        "Just Helping My Dad"
+      ]
+    },
+    {
+      "word": "fast",
+      "pos": "adj",
+      "meaning": "快的，迅速的",
+      "examples": [
+        "I run fast."
+      ],
+      "books": [
+        "Just Helping My Dad"
+      ]
+    },
+    {
+      "word": "town",
+      "pos": "n",
+      "meaning": "城镇，市镇",
+      "examples": [
+        "We go to town, just Dad and me."
+      ],
+      "books": [
+        "Just Helping My Dad"
+      ]
+    },
+    {
+      "word": "pump gas",
+      "pos": "phrase",
+      "meaning": "加油",
+      "examples": [
+        "I can pump gas."
+      ],
+      "books": [
+        "Just Helping My Dad"
+      ]
+    },
+    {
+      "word": "hammer",
+      "pos": "n",
+      "meaning": "锤子，榔头",
+      "examples": [
+        "Dad needs a new hammer."
+      ],
+      "books": [
+        "Just Helping My Dad"
+      ]
+    },
+    {
+      "word": "parking ticket",
+      "pos": "n",
+      "meaning": "违规停车罚单",
+      "examples": [
+        "We get a parking ticket."
+      ],
+      "books": [
+        "Just Helping My Dad"
+      ]
+    },
+    {
+      "word": "that's fair",
+      "pos": "phrase",
+      "meaning": "这很公平",
+      "examples": [
+        "That's fair, Dad."
+      ],
+      "books": [
+        "Just Helping My Dad"
+      ]
+    },
+    {
+      "word": "toilet",
+      "pos": "n",
+      "meaning": "抽水马桶，坐便器",
+      "examples": [
+        "The toilet is broken."
+      ],
+      "books": [
+        "Just Helping My Dad"
+      ]
+    },
+    {
+      "word": "turn off",
+      "pos": "phrase",
+      "meaning": "关掉，关闭",
+      "examples": [
+        "I forgot to turn off the hose."
+      ],
+      "books": [
+        "Just Helping My Dad"
+      ]
+    },
+    {
+      "word": "hose",
+      "pos": "n",
+      "meaning": "软管，水龙带",
+      "examples": [
+        "I forgot to turn off the hose."
+      ],
+      "books": [
+        "Just Helping My Dad"
+      ]
+    },
+    {
+      "word": "watch a movie",
+      "pos": "phrase",
+      "meaning": "看电影",
+      "examples": [
+        "Dad and I watch a movie."
+      ],
+      "books": [
+        "Just Helping My Dad"
+      ]
+    },
+    {
+      "word": "tire",
+      "pos": "v",
+      "meaning": "感到累",
+      "examples": [
+        "Dad is tired."
+      ],
+      "books": [
+        "Just Helping My Dad"
+      ]
+    },
+    {
+      "word": "tuck me in",
+      "pos": "phrase",
+      "meaning": "帮我盖被子",
+      "examples": [
+        "Dad tucks me in."
+      ],
+      "books": [
+        "Just Helping My Dad"
+      ]
+    },
+    {
+      "word": "class",
+      "pos": "n",
+      "meaning": "班级",
+      "examples": [
+        "Today my class is going to the firehouse!"
+      ],
+      "books": [
+        "Going to The Firehouse"
+      ]
+    },
+    {
+      "word": "firehouse",
+      "pos": "n",
+      "meaning": "消防站；消防队",
+      "examples": [
+        "Today my class is going to the firehouse!"
+      ],
+      "books": [
+        "Going to The Firehouse"
+      ]
+    },
+    {
+      "word": "fireman",
+      "pos": "n",
+      "meaning": "消防员",
+      "examples": [
+        "I dress like a fireman."
+      ],
+      "books": [
+        "Going to The Firehouse"
+      ]
+    },
+    {
+      "word": "fight a fire",
+      "pos": "phrase",
+      "meaning": "救火",
+      "examples": [
+        "Time to fight a fire!"
+      ],
+      "books": [
+        "Going to The Firehouse"
+      ]
+    },
+    {
+      "word": "boots",
+      "pos": "n",
+      "meaning": "靴子",
+      "examples": [
+        "Fireman Joe has boots."
+      ],
+      "books": [
+        "Going to The Firehouse"
+      ]
+    },
+    {
+      "word": "jacket",
+      "pos": "n",
+      "meaning": "夹克衫，短上衣",
+      "examples": [
+        "He has a jacket."
+      ],
+      "books": [
+        "Going to The Firehouse"
+      ]
+    },
+    {
+      "word": "helmet",
+      "pos": "n",
+      "meaning": "头盔，安全帽",
+      "examples": [
+        "He has a helmet."
+      ],
+      "books": [
+        "Going to The Firehouse"
+      ]
+    },
+    {
+      "word": "slide down",
+      "pos": "phrase",
+      "meaning": "滑下，往下滑",
+      "examples": [
+        "Joe slides down the pole."
+      ],
+      "books": [
+        "Going to The Firehouse"
+      ]
+    },
+    {
+      "word": "pole",
+      "pos": "n",
+      "meaning": "杆，柱",
+      "examples": [
+        "Joe slides down the pole."
+      ],
+      "books": [
+        "Going to The Firehouse"
+      ]
+    },
+    {
+      "word": "fire truck",
+      "pos": "n",
+      "meaning": "消防车",
+      "examples": [
+        "We see a fire truck."
+      ],
+      "books": [
+        "Going to The Firehouse"
+      ]
+    },
+    {
+      "word": "ladder",
+      "pos": "n",
+      "meaning": "梯子",
+      "examples": [
+        "It has hoses and a ladder."
+      ],
+      "books": [
+        "Going to The Firehouse"
+      ]
+    },
+    {
+      "word": "check",
+      "pos": "v",
+      "meaning": "检查",
+      "examples": [
+        "Joe checks the hoses."
+      ],
+      "books": [
+        "Going to The Firehouse"
+      ]
+    },
+    {
+      "word": "work fine",
+      "pos": "phrase",
+      "meaning": "运作正常",
+      "examples": [
+        "This hose is working fine."
+      ],
+      "books": [
+        "Going to The Firehouse"
+      ]
+    },
+    {
+      "word": "up and up",
+      "pos": "phrase",
+      "meaning": "越来越高",
+      "examples": [
+        "He goes up and up."
+      ],
+      "books": [
+        "Going to The Firehouse"
+      ]
+    },
+    {
+      "word": "siren",
+      "pos": "n",
+      "meaning": "汽笛，警报器",
+      "examples": [
+        "Joe checks the siren."
+      ],
+      "books": [
+        "Going to The Firehouse"
+      ]
+    },
+    {
+      "word": "cover my ears",
+      "pos": "phrase",
+      "meaning": "捂住我耳朵",
+      "examples": [
+        "I cover my ears."
+      ],
+      "books": [
+        "Going to The Firehouse"
+      ]
+    },
+    {
+      "word": "smoke",
+      "pos": "n",
+      "meaning": "烟，烟雾",
+      "examples": [
+        "He tells us smoke goes up."
+      ],
+      "books": [
+        "Going to The Firehouse"
+      ]
+    },
+    {
+      "word": "go down to the floor",
+      "pos": "phrase",
+      "meaning": "趴在地板上",
+      "examples": [
+        "We must go down to the floor."
+      ],
+      "books": [
+        "Going to The Firehouse"
+      ]
+    },
+    {
+      "word": "has a surprise",
+      "pos": "phrase",
+      "meaning": "有一个惊喜",
+      "examples": [
+        "He has a surprise."
+      ],
+      "books": [
+        "Going to The Firehouse"
+      ]
+    },
+    {
+      "word": "reach into",
+      "pos": "phrase",
+      "meaning": "伸手去……拿",
+      "examples": [
+        "He reaches into his truck."
+      ],
+      "books": [
+        "Going to The Firehouse"
+      ]
+    },
+    {
+      "word": "one day",
+      "pos": "phrase",
+      "meaning": "有一天",
+      "examples": [
+        "I will be a good fireman one day."
+      ],
+      "books": [
+        "Going to The Firehouse"
+      ]
+    },
+    {
+      "word": "fire alarm",
+      "pos": "n",
+      "meaning": "火警警报器",
+      "examples": [
+        "Ding! Ding! goes the fire alarm."
+      ],
+      "books": [
+        "Going to The Firehouse"
+      ]
+    },
+    {
+      "word": "ready to go",
+      "pos": "phrase",
+      "meaning": "准备好出发",
+      "examples": [
+        "Fireman Joe is ready to go!"
+      ],
+      "books": [
+        "Going to The Firehouse"
+      ]
+    },
+    {
+      "word": "hit",
+      "pos": "v",
+      "meaning": "击（球）",
+      "examples": [
+        "I hit the ball very hard."
+      ],
+      "books": [
+        "Just Critters Who Care"
+      ]
+    },
+    {
+      "word": "next door",
+      "pos": "phrase",
+      "meaning": "隔壁邻居，隔壁的房间",
+      "examples": [
+        "The ball flies next door."
+      ],
+      "books": [
+        "Just Critters Who Care"
+      ]
+    },
+    {
+      "word": "spooky",
+      "pos": "adj",
+      "meaning": "幽灵般的，令人毛骨悚然的",
+      "examples": [
+        "The ball is in the spooky yard."
+      ],
+      "books": [
+        "Just Critters Who Care"
+      ]
+    },
+    {
+      "word": "yard",
+      "pos": "n",
+      "meaning": "后院，院子",
+      "examples": [
+        "The ball is in the spooky yard."
+      ],
+      "books": [
+        "Just Critters Who Care"
+      ]
+    },
+    {
+      "word": "monster",
+      "pos": "n",
+      "meaning": "怪兽，怪物",
+      "examples": [
+        "Maybe a monster lives there."
+      ],
+      "books": [
+        "Just Critters Who Care"
+      ]
+    },
+    {
+      "word": "brave",
+      "pos": "adj",
+      "meaning": "勇敢的",
+      "examples": [
+        "I am brave."
+      ],
+      "books": [
+        "Just Critters Who Care"
+      ]
+    },
+    {
+      "word": "trip and fall",
+      "pos": "phrase",
+      "meaning": "摔跟头，摔跤",
+      "examples": [
+        "I trip and fall."
+      ],
+      "books": [
+        "Just Critters Who Care"
+      ]
+    },
+    {
+      "word": "bunny",
+      "pos": "n",
+      "meaning": "（儿童用语）兔子",
+      "examples": [
+        "A little old bunny hands me our ball."
+      ],
+      "books": [
+        "Just Critters Who Care"
+      ]
+    },
+    {
+      "word": "hand",
+      "pos": "v",
+      "meaning": "交，递",
+      "examples": [
+        "A little old bunny hands me our ball."
+      ],
+      "books": [
+        "Just Critters Who Care"
+      ]
+    },
+    {
+      "word": "no one",
+      "pos": "phrase",
+      "meaning": "没有人",
+      "examples": [
+        "She has no one to help her."
+      ],
+      "books": [
+        "Just Critters Who Care"
+      ]
+    },
+    {
+      "word": "What a great idea",
+      "pos": "phrase",
+      "meaning": "真是个好主意",
+      "examples": [
+        "What a great idea."
+      ],
+      "books": [
+        "Just Critters Who Care"
+      ]
+    },
+    {
+      "word": "parents",
+      "pos": "n",
+      "meaning": "父母；双亲",
+      "examples": [
+        "Parents come, too."
+      ],
+      "books": [
+        "Just Critters Who Care"
+      ]
+    },
+    {
+      "word": "knock on",
+      "pos": "phrase",
+      "meaning": "敲击（门、窗）",
+      "examples": [
+        "I knock on the door."
+      ],
+      "books": [
+        "Just Critters Who Care"
+      ]
+    },
+    {
+      "word": "clip",
+      "pos": "v",
+      "meaning": "修剪；剪下",
+      "examples": [
+        "We clip the bushes."
+      ],
+      "books": [
+        "Just Critters Who Care"
+      ]
+    },
+    {
+      "word": "bush",
+      "pos": "n",
+      "meaning": "灌木，灌木丛",
+      "examples": [
+        "We clip the bushes."
+      ],
+      "books": [
+        "Just Critters Who Care"
+      ]
+    },
+    {
+      "word": "pull up",
+      "pos": "phrase",
+      "meaning": "拔起",
+      "examples": [
+        "We pull up weeds."
+      ],
+      "books": [
+        "Just Critters Who Care"
+      ]
+    },
+    {
+      "word": "weed",
+      "pos": "n",
+      "meaning": "野草，杂草",
+      "examples": [
+        "We pull up weeds."
+      ],
+      "books": [
+        "Just Critters Who Care"
+      ]
+    },
+    {
+      "word": "trim",
+      "pos": "v",
+      "meaning": "修剪，修整",
+      "examples": [
+        "We trim the trees."
+      ],
+      "books": [
+        "Just Critters Who Care"
+      ]
+    },
+    {
+      "word": "porch",
+      "pos": "n",
+      "meaning": "门廊；走廊",
+      "examples": [
+        "Dad fixes the porch step."
+      ],
+      "books": [
+        "Just Critters Who Care"
+      ]
+    },
+    {
+      "word": "step",
+      "pos": "n",
+      "meaning": "梯级，台阶",
+      "examples": [
+        "Dad fixes the porch step."
+      ],
+      "books": [
+        "Just Critters Who Care"
+      ]
+    },
+    {
+      "word": "shutter",
+      "pos": "n",
+      "meaning": "百叶窗，活动护窗",
+      "examples": [
+        "Tiger's dad fixes the shutter."
+      ],
+      "books": [
+        "Just Critters Who Care"
+      ]
+    },
+    {
+      "word": "blow away",
+      "pos": "phrase",
+      "meaning": "吹走",
+      "examples": [
+        "I blow away old leaves."
+      ],
+      "books": [
+        "Just Critters Who Care"
+      ]
+    },
+    {
+      "word": "leaf",
+      "pos": "n",
+      "meaning": "树叶",
+      "examples": [
+        "I blow away old leaves."
+      ],
+      "books": [
+        "Just Critters Who Care"
+      ]
+    },
+    {
+      "word": "cookie",
+      "pos": "n",
+      "meaning": "曲奇饼，小甜饼",
+      "examples": [
+        "Mrs. Bunny brings cookies and juice for all."
+      ],
+      "books": [
+        "Just Critters Who Care"
+      ]
+    },
+    {
+      "word": "juice",
+      "pos": "n",
+      "meaning": "（水果和蔬菜的）汁",
+      "examples": [
+        "Mrs. Bunny brings cookies and juice for all."
+      ],
+      "books": [
+        "Just Critters Who Care"
+      ]
+    },
+    {
+      "word": "good idea",
+      "pos": "phrase",
+      "meaning": "好主意，好想法",
+      "examples": [
+        "Everyone says, Good idea!"
+      ],
+      "books": [
+        "Just Critters Who Care"
       ]
     }
   ]

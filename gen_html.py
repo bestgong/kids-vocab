@@ -58,8 +58,8 @@ function renderBooks(filter) {
   DATA.books.forEach((b, i) => {
     const wds = DATA.words.filter(w => (w.books||[]).includes(b.title));
     if(filter && !b.title.toLowerCase().includes(filter.toLowerCase()) && !(b.cn||'').includes(filter) && !wds.some(w=>w.word.toLowerCase().includes(filter.toLowerCase()))) return;
-    const level = i < 11 ? 'L1-Phonics' : i < 30 ? 'L1-Elephant&Piggie' : 'L2-First Reading';
-    const badge_color = i >= 30 ? '#e17055' : i >= 11 ? '#00b894' : '#0984e3';
+    const level = i < 11 ? 'L1-Phonics' : i < 30 ? 'L1-Elephant&Piggie' : i < 42 ? 'L2-First Reading' : 'L1-Little Critter';
+    const badge_color = i >= 42 ? '#6c5ce7' : i >= 30 ? '#e17055' : i >= 11 ? '#00b894' : '#0984e3';
     grid.innerHTML += '<div class="book-card" onclick="showBookDetail(\\''+b.title.replace(/'/g,"\\\\'")+'\\')"><h3>'+b.title+'</h3><div class="cn-title">'+(b.cn||'')+'</div><span class="word-count">'+wds.length+'词</span><span class="level-badge" style="background:'+badge_color+'">'+level+'</span></div>';
   });
 }
