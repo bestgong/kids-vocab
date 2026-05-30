@@ -1,5 +1,5 @@
 {
-  "total": 858,
+  "total": 970,
   "books": [
     {
       "title": "Big Pig on a Dig",
@@ -180,6 +180,22 @@
     {
       "title": "Just Critters Who Care",
       "cn": "关心别人的小毛怪"
+    },
+    {
+      "title": "Just Saving My Money",
+      "cn": "只是攒钱"
+    },
+    {
+      "title": "This is My Town",
+      "cn": "这是我的小镇"
+    },
+    {
+      "title": "The Fall Festival",
+      "cn": "秋季狂欢节"
+    },
+    {
+      "title": "Going to The Sea Park",
+      "cn": "去海洋公园"
     }
   ],
   "words": [
@@ -497,11 +513,13 @@
       "meaning": "试，试用，尝试",
       "examples": [
         "Try the red bed,” says Fred.",
-        "We can try."
+        "We can try.",
+        "I try one."
       ],
       "books": [
         "Ted in a Red Bed",
-        "Are You Ready to Play Outside"
+        "Are You Ready to Play Outside",
+        "The Fall Festival"
       ]
     },
     {
@@ -780,10 +798,12 @@
       "pos": "n",
       "meaning": "公园",
       "examples": [
-        "Fat Cat's on her sleeping mat in the park. Pup barks."
+        "Fat Cat's on her sleeping mat in the park. Pup barks.",
+        "This is our park."
       ],
       "books": [
-        "Sam Sheep can't Sleep"
+        "Sam Sheep can't Sleep",
+        "This is My Town"
       ]
     },
     {
@@ -1153,10 +1173,12 @@
       "pos": "adj",
       "meaning": "空的",
       "examples": [
-        "The jar is empty...apart from a snail."
+        "The jar is empty...apart from a snail.",
+        "I empty the dishwasher."
       ],
       "books": [
-        "Ted's Shed"
+        "Ted's Shed",
+        "Just Saving My Money"
       ]
     },
     {
@@ -1374,10 +1396,12 @@
       "pos": "phrase",
       "meaning": "掉进，落入",
       "examples": [
-        "Hungry Fox falls into the box."
+        "Hungry Fox falls into the box.",
+        "Timothy falls into the tank."
       ],
       "books": [
-        "Fox on a Box"
+        "Fox on a Box",
+        "Going to The Sea Park"
       ]
     },
     {
@@ -1876,10 +1900,12 @@
       "pos": "v",
       "meaning": "掉落",
       "examples": [
-        "Toad groans and drops a heavy load."
+        "Toad groans and drops a heavy load.",
+        "Mom picks up the apples that we drop."
       ],
       "books": [
-        "Goose on the Loose"
+        "Goose on the Loose",
+        "The Fall Festival"
       ]
     },
     {
@@ -1889,11 +1915,13 @@
       "examples": [
         "Toad groans and drops a heavy load.",
         "But a hippo on your trunk is heavy.",
-        "very heavy."
+        "very heavy.",
+        "The dishes are too heavy."
       ],
       "books": [
         "Goose on the Loose",
-        "I Broke My Trunk"
+        "I Broke My Trunk",
+        "Just Saving My Money"
       ]
     },
     {
@@ -1956,10 +1984,12 @@
       "pos": "v",
       "meaning": "打乱，搅乱",
       "examples": [
-        "She upsets a bunch of kangaroos..."
+        "She upsets a bunch of kangaroos...",
+        "I am upset."
       ],
       "books": [
-        "Goose on the Loose"
+        "Goose on the Loose",
+        "Just Saving My Money"
       ]
     },
     {
@@ -2231,11 +2261,13 @@
       "pos": "v",
       "meaning": "卖（过去分词：sold）",
       "examples": [
-        "I can sell my eggs."
+        "I can sell my eggs.",
+        "I sell lemonade."
       ],
       "books": [
         "Mouse Moves House",
-        "The Daydreamer"
+        "The Daydreamer",
+        "Just Saving My Money"
       ]
     },
     {
@@ -2418,10 +2450,12 @@
       "pos": "phrase",
       "meaning": "来这里，过来",
       "examples": [
-        "Come here, Jack. Meet my friend Fat Cat."
+        "Come here, Jack. Meet my friend Fat Cat.",
+        "I come here to mail letters."
       ],
       "books": [
-        "Mouse Moves House"
+        "Mouse Moves House",
+        "This is My Town"
       ]
     },
     {
@@ -3132,12 +3166,14 @@
         "Maybe it is a throwing toy.",
         "I love throwing toys.",
         "Nice throw.",
-        "We throw snowballs."
+        "We throw snowballs.",
+        "We each get three throws."
       ],
       "books": [
         "I Love My New Toy",
         "Can I Play Too",
-        "Snowball Soup"
+        "Snowball Soup",
+        "The Fall Festival"
       ]
     },
     {
@@ -3611,10 +3647,12 @@
       "meaning": "吃，吃饭",
       "examples": [
         "I am going to eat lunch.",
-        "You are going to eat lunch?"
+        "You are going to eat lunch?",
+        "I ate too many apples."
       ],
       "books": [
-        "I Am Going"
+        "I Am Going",
+        "The Fall Festival"
       ]
     },
     {
@@ -3957,11 +3995,13 @@
       "examples": [
         "Elephants make the best friends!",
         "You are the best friend a pig could ever have!",
-        "You are the best!"
+        "You are the best!",
+        "It has the best cupcakes."
       ],
       "books": [
         "Are You Ready to Play Outside",
-        "The Thank You Book"
+        "The Thank You Book",
+        "This is My Town"
       ]
     },
     {
@@ -4544,11 +4584,13 @@
       "examples": [
         "I Really Like Slop",
         "Pigs, really, really, really, really, really like slop!",
-        "YAY! Maybe you will really like slop!"
+        "YAY! Maybe you will really like slop!",
+        "Some fish are really ugly."
       ],
       "books": [
         "I Am Invited to a Party",
-        "I Really Like Slop"
+        "I Really Like Slop",
+        "Going to The Sea Park"
       ]
     },
     {
@@ -4873,10 +4915,12 @@
       "meaning": "(用手、手臂等）抓住",
       "examples": [
         "You, uh, hold your trumpet very well.",
-        "Your trumpet is loud and shiny and you hold"
+        "Your trumpet is loud and shiny and you hold",
+        "We bring a wagon to hold the things we buy."
       ],
       "books": [
-        "Listen to My Trumpet"
+        "Listen to My Trumpet",
+        "The Fall Festival"
       ]
     },
     {
@@ -5110,10 +5154,12 @@
       "pos": "v",
       "meaning": "走，行走",
       "examples": [
-        "Walk, walk, walk, walk, walk."
+        "Walk, walk, walk, walk, walk.",
+        "Sometimes Mom and Dad let me walk here by myself."
       ],
       "books": [
-        "I Really Like Slop"
+        "I Really Like Slop",
+        "This is My Town"
       ]
     },
     {
@@ -5511,10 +5557,12 @@
       "pos": "phrase",
       "meaning": "你认为……怎样？",
       "examples": [
-        "Well, how about that?"
+        "Well, how about that?",
+        "How about this?"
       ],
       "books": [
-        "Watch Me Throw the Ball"
+        "Watch Me Throw the Ball",
+        "Just Saving My Money"
       ]
     },
     {
@@ -5696,10 +5744,12 @@
       "pos": "det",
       "meaning": "首先",
       "examples": [
-        "First, we need a map."
+        "First, we need a map.",
+        "First, I feed the dog."
       ],
       "books": [
-        "Let's Go For a Drive"
+        "Let's Go For a Drive",
+        "Just Saving My Money"
       ]
     },
     {
@@ -6031,10 +6081,12 @@
       "pos": "phrase",
       "meaning": "多少",
       "examples": [
-        "We have to tell you how much fun we are"
+        "We have to tell you how much fun we are",
+        "It tells me how much money I have."
       ],
       "books": [
-        "My New Friend Is So Fun"
+        "My New Friend Is So Fun",
+        "Just Saving My Money"
       ]
     },
     {
@@ -6211,10 +6263,12 @@
       "examples": [
         "It is pretend.",
         "I am pretending.",
-        "Pretending is when you act like something"
+        "Pretending is when you act like something",
+        "We go on a pretend pirate ship."
       ],
       "books": [
-        "I'm a Frog"
+        "I'm a Frog",
+        "Going to The Sea Park"
       ]
     },
     {
@@ -6596,10 +6650,12 @@
       "examples": [
         "It is a long, crazy story.",
         "No. There is more to my story.",
-        "No. This is a long, crazy story..."
+        "No. This is a long, crazy story...",
+        "During story hours, the librarian reads to us."
       ],
       "books": [
-        "I Broke My Trunk"
+        "I Broke My Trunk",
+        "This is My Town"
       ]
     },
     {
@@ -6647,11 +6703,13 @@
       "examples": [
         "Rhino wanted a turn.",
         "Did she want a turn, too?",
-        "In July, it was Meg's turn."
+        "In July, it was Meg's turn.",
+        "They turn yellow and red."
       ],
       "books": [
         "I Broke My Trunk",
-        "King Donkey Ears"
+        "King Donkey Ears",
+        "The Fall Festival"
       ]
     },
     {
@@ -6790,10 +6848,12 @@
       "pos": "n",
       "meaning": "机器",
       "examples": [
-        "I am a thanking machine!"
+        "I am a thanking machine!",
+        "They pour my money into a machine."
       ],
       "books": [
-        "The Thank You Book"
+        "The Thank You Book",
+        "Just Saving My Money"
       ]
     },
     {
@@ -6923,10 +6983,12 @@
       "pos": "phrase",
       "meaning": "捡起；获得；收拾",
       "examples": [
-        "Five, six, pick up sticks."
+        "Five, six, pick up sticks.",
+        "Mom picks up the apples that we drop."
       ],
       "books": [
-        "One, Two Buckle My Shoe"
+        "One, Two Buckle My Shoe",
+        "The Fall Festival"
       ]
     },
     {
@@ -7503,10 +7565,12 @@
       "pos": "prep",
       "meaning": "穿过",
       "examples": [
-        "up through the clouds to the bright blue sky."
+        "up through the clouds to the bright blue sky.",
+        "We ride through a field full of pumpkins."
       ],
       "books": [
-        "The Tortoise and The Eagle"
+        "The Tortoise and The Eagle",
+        "The Fall Festival"
       ]
     },
     {
@@ -7870,10 +7934,12 @@
       "pos": "adv",
       "meaning": "有时，间或",
       "examples": [
-        "Sometimes, the gods flew on their backs."
+        "Sometimes, the gods flew on their backs.",
+        "Sometimes we come here for lunch."
       ],
       "books": [
-        "How Elephants Lost Their Wings"
+        "How Elephants Lost Their Wings",
+        "This is My Town"
       ]
     },
     {
@@ -8049,10 +8115,12 @@
       "meaning": "钱，钞票，货币",
       "examples": [
         "Daisy has no money.",
-        "Soon I'll have some money,"
+        "Soon I'll have some money,",
+        "You need money."
       ],
       "books": [
-        "The Daydreamer"
+        "The Daydreamer",
+        "Just Saving My Money"
       ]
     },
     {
@@ -8126,10 +8194,12 @@
       "pos": "phrase",
       "meaning": "许多；大量",
       "examples": [
-        "My hen will lay eggs......lots of eggs."
+        "My hen will lay eggs......lots of eggs.",
+        "I will do chores and earn lots of money."
       ],
       "books": [
-        "The Daydreamer"
+        "The Daydreamer",
+        "Just Saving My Money"
       ]
     },
     {
@@ -8137,10 +8207,12 @@
       "pos": "adj",
       "meaning": "（尤指女孩）漂亮的，标致的",
       "examples": [
-        "I'll buy a pretty dress"
+        "I'll buy a pretty dress",
+        "Some fish are pretty."
       ],
       "books": [
-        "The Daydreamer"
+        "The Daydreamer",
+        "Going to The Sea Park"
       ]
     },
     {
@@ -8170,10 +8242,12 @@
       "pos": "pron",
       "meaning": "我自己",
       "examples": [
-        "But I won't get dressed by myself."
+        "But I won't get dressed by myself.",
+        "Sometimes Mom and Dad let me walk here by myself."
       ],
       "books": [
-        "The Daydreamer"
+        "The Daydreamer",
+        "This is My Town"
       ]
     },
     {
@@ -8920,10 +8994,12 @@
       "pos": "v",
       "meaning": "栽种，种植",
       "examples": [
-        "Plant it carefully."
+        "Plant it carefully.",
+        "We see manatees eating plants."
       ],
       "books": [
-        "The Magic Melon"
+        "The Magic Melon",
+        "Going to The Sea Park"
       ]
     },
     {
@@ -8964,10 +9040,12 @@
       "pos": "v",
       "meaning": "采，摘（花、果）",
       "examples": [
-        "One day, Lee picked it."
+        "One day, Lee picked it.",
+        "I get to pick apples, too."
       ],
       "books": [
-        "The Magic Melon"
+        "The Magic Melon",
+        "The Fall Festival"
       ]
     },
     {
@@ -10169,6 +10247,1238 @@
       ],
       "books": [
         "Just Critters Who Care"
+      ]
+    },
+    {
+      "word": "skateboard",
+      "pos": "n",
+      "meaning": "滑板",
+      "examples": [
+        "My skateboard is old."
+      ],
+      "books": [
+        "Just Saving My Money"
+      ]
+    },
+    {
+      "word": "old",
+      "pos": "adj",
+      "meaning": "陈旧的",
+      "examples": [
+        "My skateboard is old."
+      ],
+      "books": [
+        "Just Saving My Money"
+      ]
+    },
+    {
+      "word": "any",
+      "pos": "adj",
+      "meaning": "一些",
+      "examples": [
+        "Do you have any?"
+      ],
+      "books": [
+        "Just Saving My Money"
+      ]
+    },
+    {
+      "word": "money jar",
+      "pos": "n",
+      "meaning": "储蓄罐",
+      "examples": [
+        "I get my money jar."
+      ],
+      "books": [
+        "Just Saving My Money"
+      ]
+    },
+    {
+      "word": "save",
+      "pos": "v",
+      "meaning": "储蓄，节省",
+      "examples": [
+        "You need to save more money for a skateboard."
+      ],
+      "books": [
+        "Just Saving My Money"
+      ]
+    },
+    {
+      "word": "chore",
+      "pos": "n",
+      "meaning": "家庭杂务",
+      "examples": [
+        "I will do chores and earn lots of money."
+      ],
+      "books": [
+        "Just Saving My Money"
+      ]
+    },
+    {
+      "word": "earn",
+      "pos": "v",
+      "meaning": "赚得，挣钱",
+      "examples": [
+        "I will do chores and earn lots of money."
+      ],
+      "books": [
+        "Just Saving My Money"
+      ]
+    },
+    {
+      "word": "a list of chores",
+      "pos": "phrase",
+      "meaning": "家务清单",
+      "examples": [
+        "I make a list of chores that will make me money."
+      ],
+      "books": [
+        "Just Saving My Money"
+      ]
+    },
+    {
+      "word": "feed",
+      "pos": "v",
+      "meaning": "饲养，喂养",
+      "examples": [
+        "First, I feed the dog."
+      ],
+      "books": [
+        "Just Saving My Money"
+      ]
+    },
+    {
+      "word": "dishwasher",
+      "pos": "n",
+      "meaning": "洗碗工；洗碟机",
+      "examples": [
+        "I empty the dishwasher."
+      ],
+      "books": [
+        "Just Saving My Money"
+      ]
+    },
+    {
+      "word": "clean",
+      "pos": "v",
+      "meaning": "清洁，清理",
+      "examples": [
+        "I clean my room."
+      ],
+      "books": [
+        "Just Saving My Money"
+      ]
+    },
+    {
+      "word": "pay",
+      "pos": "v",
+      "meaning": "支付，付",
+      "examples": [
+        "Mom pays me some money."
+      ],
+      "books": [
+        "Just Saving My Money"
+      ]
+    },
+    {
+      "word": "lemonade",
+      "pos": "n",
+      "meaning": "柠檬汁",
+      "examples": [
+        "I sell lemonade."
+      ],
+      "books": [
+        "Just Saving My Money"
+      ]
+    },
+    {
+      "word": "savings account",
+      "pos": "n",
+      "meaning": "储蓄账户",
+      "examples": [
+        "You need a savings account."
+      ],
+      "books": [
+        "Just Saving My Money"
+      ]
+    },
+    {
+      "word": "bank",
+      "pos": "n",
+      "meaning": "银行",
+      "examples": [
+        "Dad takes me to the bank."
+      ],
+      "books": [
+        "Just Saving My Money"
+      ]
+    },
+    {
+      "word": "manager",
+      "pos": "n",
+      "meaning": "经理，管理人",
+      "examples": [
+        "We see the manager."
+      ],
+      "books": [
+        "Just Saving My Money"
+      ]
+    },
+    {
+      "word": "write on",
+      "pos": "phrase",
+      "meaning": "在……上写",
+      "examples": [
+        "Dad writes on some bank papers."
+      ],
+      "books": [
+        "Just Saving My Money"
+      ]
+    },
+    {
+      "word": "pour",
+      "pos": "v",
+      "meaning": "倾倒，倒出",
+      "examples": [
+        "They pour my money into a machine."
+      ],
+      "books": [
+        "Just Saving My Money"
+      ]
+    },
+    {
+      "word": "count",
+      "pos": "v",
+      "meaning": "数数；计数",
+      "examples": [
+        "It counts my money."
+      ],
+      "books": [
+        "Just Saving My Money"
+      ]
+    },
+    {
+      "word": "not yet",
+      "pos": "phrase",
+      "meaning": "还没有",
+      "examples": [
+        "Not yet. You must save more money."
+      ],
+      "books": [
+        "Just Saving My Money"
+      ]
+    },
+    {
+      "word": "finally",
+      "pos": "adv",
+      "meaning": "终于，最后",
+      "examples": [
+        "Finally, I save enough money for a new skateboard."
+      ],
+      "books": [
+        "Just Saving My Money"
+      ]
+    },
+    {
+      "word": "enough",
+      "pos": "adj",
+      "meaning": "充足的，足够的",
+      "examples": [
+        "Finally, I save enough money for a new skateboard."
+      ],
+      "books": [
+        "Just Saving My Money"
+      ]
+    },
+    {
+      "word": "anymore",
+      "pos": "adv",
+      "meaning": "（不）再，再也（不）",
+      "examples": [
+        "But I don't want that anymore."
+      ],
+      "books": [
+        "Just Saving My Money"
+      ]
+    },
+    {
+      "word": "Robot Dinosaur",
+      "pos": "n",
+      "meaning": "机器恐龙",
+      "examples": [
+        "Now I want a Robot Dinosaur."
+      ],
+      "books": [
+        "Just Saving My Money"
+      ]
+    },
+    {
+      "word": "live",
+      "pos": "v",
+      "meaning": "生活在；居住",
+      "examples": [
+        "This is where I live."
+      ],
+      "books": [
+        "This is My Town"
+      ]
+    },
+    {
+      "word": "post office",
+      "pos": "n",
+      "meaning": "邮局",
+      "examples": [
+        "This is our post office."
+      ],
+      "books": [
+        "This is My Town"
+      ]
+    },
+    {
+      "word": "mail",
+      "pos": "n",
+      "meaning": "邮件，信件",
+      "examples": [
+        "The mail comes in here."
+      ],
+      "books": [
+        "This is My Town"
+      ]
+    },
+    {
+      "word": "letters",
+      "pos": "n",
+      "meaning": "信",
+      "examples": [
+        "I come here to mail letters."
+      ],
+      "books": [
+        "This is My Town"
+      ]
+    },
+    {
+      "word": "fire station",
+      "pos": "n",
+      "meaning": "消防站",
+      "examples": [
+        "This is our fire station."
+      ],
+      "books": [
+        "This is My Town"
+      ]
+    },
+    {
+      "word": "firetruck",
+      "pos": "n",
+      "meaning": "救火车",
+      "examples": [
+        "The firetruck lives here."
+      ],
+      "books": [
+        "This is My Town"
+      ]
+    },
+    {
+      "word": "put out",
+      "pos": "phrase",
+      "meaning": "熄灭",
+      "examples": [
+        "They put the fire out."
+      ],
+      "books": [
+        "This is My Town"
+      ]
+    },
+    {
+      "word": "police station",
+      "pos": "n",
+      "meaning": "派出所；警察局",
+      "examples": [
+        "This is our police station."
+      ],
+      "books": [
+        "This is My Town"
+      ]
+    },
+    {
+      "word": "police officer",
+      "pos": "n",
+      "meaning": "警官",
+      "examples": [
+        "Police officers work here."
+      ],
+      "books": [
+        "This is My Town"
+      ]
+    },
+    {
+      "word": "keep safe",
+      "pos": "phrase",
+      "meaning": "保证……安全",
+      "examples": [
+        "They keep our town safe."
+      ],
+      "books": [
+        "This is My Town"
+      ]
+    },
+    {
+      "word": "diner",
+      "pos": "n",
+      "meaning": "小餐馆，小饭店",
+      "examples": [
+        "This is our diner."
+      ],
+      "books": [
+        "This is My Town"
+      ]
+    },
+    {
+      "word": "town hall",
+      "pos": "n",
+      "meaning": "市政厅",
+      "examples": [
+        "This is our town hall."
+      ],
+      "books": [
+        "This is My Town"
+      ]
+    },
+    {
+      "word": "mayor",
+      "pos": "n",
+      "meaning": "镇长，市长",
+      "examples": [
+        "Our mayor works here."
+      ],
+      "books": [
+        "This is My Town"
+      ]
+    },
+    {
+      "word": "parade",
+      "pos": "n",
+      "meaning": "游行",
+      "examples": [
+        "Sometimes we have parades in our town."
+      ],
+      "books": [
+        "This is My Town"
+      ]
+    },
+    {
+      "word": "library",
+      "pos": "n",
+      "meaning": "图书馆",
+      "examples": [
+        "This is our library."
+      ],
+      "books": [
+        "This is My Town"
+      ]
+    },
+    {
+      "word": "during",
+      "pos": "prep",
+      "meaning": "在……期间",
+      "examples": [
+        "During story hours, the librarian reads to us."
+      ],
+      "books": [
+        "This is My Town"
+      ]
+    },
+    {
+      "word": "librarian",
+      "pos": "n",
+      "meaning": "图书馆管理员",
+      "examples": [
+        "The librarian reads to us."
+      ],
+      "books": [
+        "This is My Town"
+      ]
+    },
+    {
+      "word": "over",
+      "pos": "adv",
+      "meaning": "结束",
+      "examples": [
+        "When story hour is over we have to be quiet."
+      ],
+      "books": [
+        "This is My Town"
+      ]
+    },
+    {
+      "word": "quiet",
+      "pos": "adj",
+      "meaning": "安静的",
+      "examples": [
+        "We have to be quiet."
+      ],
+      "books": [
+        "This is My Town"
+      ]
+    },
+    {
+      "word": "movie theater",
+      "pos": "n",
+      "meaning": "电影院",
+      "examples": [
+        "This is our movie theater."
+      ],
+      "books": [
+        "This is My Town"
+      ]
+    },
+    {
+      "word": "ticket",
+      "pos": "n",
+      "meaning": "票，入场券",
+      "examples": [
+        "I can buy my own ticket."
+      ],
+      "books": [
+        "This is My Town"
+      ]
+    },
+    {
+      "word": "popcorn",
+      "pos": "n",
+      "meaning": "爆米花",
+      "examples": [
+        "I like to get popcorn."
+      ],
+      "books": [
+        "This is My Town"
+      ]
+    },
+    {
+      "word": "extra",
+      "pos": "adv",
+      "meaning": "特别，格外",
+      "examples": [
+        "I am always extra careful."
+      ],
+      "books": [
+        "This is My Town"
+      ]
+    },
+    {
+      "word": "careful",
+      "pos": "adj",
+      "meaning": "仔细的，小心的",
+      "examples": [
+        "I am always extra careful."
+      ],
+      "books": [
+        "This is My Town"
+      ]
+    },
+    {
+      "word": "school",
+      "pos": "n",
+      "meaning": "学校",
+      "examples": [
+        "This is our school."
+      ],
+      "books": [
+        "This is My Town"
+      ]
+    },
+    {
+      "word": "play football",
+      "pos": "phrase",
+      "meaning": "踢足球",
+      "examples": [
+        "We play football here."
+      ],
+      "books": [
+        "This is My Town"
+      ]
+    },
+    {
+      "word": "bakery",
+      "pos": "n",
+      "meaning": "面包店",
+      "examples": [
+        "This is our bakery."
+      ],
+      "books": [
+        "This is My Town"
+      ]
+    },
+    {
+      "word": "cupcake",
+      "pos": "n",
+      "meaning": "纸托蛋糕；杯形蛋糕",
+      "examples": [
+        "It has the best cupcakes."
+      ],
+      "books": [
+        "This is My Town"
+      ]
+    },
+    {
+      "word": "office",
+      "pos": "n",
+      "meaning": "办公室",
+      "examples": [
+        "This is the office of our town newspaper."
+      ],
+      "books": [
+        "This is My Town"
+      ]
+    },
+    {
+      "word": "newspaper",
+      "pos": "n",
+      "meaning": "报纸",
+      "examples": [
+        "It is a busy place."
+      ],
+      "books": [
+        "This is My Town"
+      ]
+    },
+    {
+      "word": "busy",
+      "pos": "adj",
+      "meaning": "繁忙的，忙碌的",
+      "examples": [
+        "It is a busy place."
+      ],
+      "books": [
+        "This is My Town"
+      ]
+    },
+    {
+      "word": "last week",
+      "pos": "phrase",
+      "meaning": "上周，上星期",
+      "examples": [
+        "Last week my picture was in the newspaper."
+      ],
+      "books": [
+        "This is My Town"
+      ]
+    },
+    {
+      "word": "nicest",
+      "pos": "adj",
+      "meaning": "最美好的",
+      "examples": [
+        "It is the nicest place in the whole world."
+      ],
+      "books": [
+        "This is My Town"
+      ]
+    },
+    {
+      "word": "in the whole world",
+      "pos": "phrase",
+      "meaning": "在全世界中",
+      "examples": [
+        "It is the nicest place in the whole world."
+      ],
+      "books": [
+        "This is My Town"
+      ]
+    },
+    {
+      "word": "fall",
+      "pos": "n",
+      "meaning": "秋天，秋季",
+      "examples": [
+        "It is fall."
+      ],
+      "books": [
+        "The Fall Festival"
+      ]
+    },
+    {
+      "word": "change",
+      "pos": "v",
+      "meaning": "改变，变化",
+      "examples": [
+        "The leaves change colors."
+      ],
+      "books": [
+        "The Fall Festival"
+      ]
+    },
+    {
+      "word": "wagon",
+      "pos": "n",
+      "meaning": "四轮运货车",
+      "examples": [
+        "We bring a wagon to hold the things we buy."
+      ],
+      "books": [
+        "The Fall Festival"
+      ]
+    },
+    {
+      "word": "so many",
+      "pos": "phrase",
+      "meaning": "那么多的",
+      "examples": [
+        "I see so many apples."
+      ],
+      "books": [
+        "The Fall Festival"
+      ]
+    },
+    {
+      "word": "cider",
+      "pos": "n",
+      "meaning": "苹果酒；苹果汁",
+      "examples": [
+        "Little Sister has apple cider."
+      ],
+      "books": [
+        "The Fall Festival"
+      ]
+    },
+    {
+      "word": "spill",
+      "pos": "v",
+      "meaning": "洒出",
+      "examples": [
+        "She spills it."
+      ],
+      "books": [
+        "The Fall Festival"
+      ]
+    },
+    {
+      "word": "sticky",
+      "pos": "adj",
+      "meaning": "黏的",
+      "examples": [
+        "It is sticky."
+      ],
+      "books": [
+        "The Fall Festival"
+      ]
+    },
+    {
+      "word": "hayride",
+      "pos": "n",
+      "meaning": "乘坐装有干草的大车出游",
+      "examples": [
+        "We go on a hayride."
+      ],
+      "books": [
+        "The Fall Festival"
+      ]
+    },
+    {
+      "word": "hay",
+      "pos": "n",
+      "meaning": "干草",
+      "examples": [
+        "There is not much hay."
+      ],
+      "books": [
+        "The Fall Festival"
+      ]
+    },
+    {
+      "word": "field",
+      "pos": "n",
+      "meaning": "田地，田野",
+      "examples": [
+        "We ride through a field full of pumpkins."
+      ],
+      "books": [
+        "The Fall Festival"
+      ]
+    },
+    {
+      "word": "full of",
+      "pos": "phrase",
+      "meaning": "装满",
+      "examples": [
+        "We ride through a field full of pumpkins."
+      ],
+      "books": [
+        "The Fall Festival"
+      ]
+    },
+    {
+      "word": "pumpkin",
+      "pos": "n",
+      "meaning": "南瓜",
+      "examples": [
+        "We ride through a field full of pumpkins."
+      ],
+      "books": [
+        "The Fall Festival"
+      ]
+    },
+    {
+      "word": "shoot",
+      "pos": "v",
+      "meaning": "发射",
+      "examples": [
+        "I watch a critter shoot pumpkins into the air."
+      ],
+      "books": [
+        "The Fall Festival"
+      ]
+    },
+    {
+      "word": "get to",
+      "pos": "phrase",
+      "meaning": "开始……",
+      "examples": [
+        "I get to pick apples, too."
+      ],
+      "books": [
+        "The Fall Festival"
+      ]
+    },
+    {
+      "word": "apple pie",
+      "pos": "n",
+      "meaning": "苹果派",
+      "examples": [
+        "Mom will make many apple pies."
+      ],
+      "books": [
+        "The Fall Festival"
+      ]
+    },
+    {
+      "word": "no more",
+      "pos": "phrase",
+      "meaning": "不再",
+      "examples": [
+        "Mom says, No more apples."
+      ],
+      "books": [
+        "The Fall Festival"
+      ]
+    },
+    {
+      "word": "Halloween pumpkin",
+      "pos": "n",
+      "meaning": "万圣节南瓜",
+      "examples": [
+        "Next we look for a Halloween pumpkin."
+      ],
+      "books": [
+        "The Fall Festival"
+      ]
+    },
+    {
+      "word": "funny looking",
+      "pos": "adj",
+      "meaning": "好玩（奇怪）的样子",
+      "examples": [
+        "Some pumpkins are too funny looking."
+      ],
+      "books": [
+        "The Fall Festival"
+      ]
+    },
+    {
+      "word": "perfect",
+      "pos": "adj",
+      "meaning": "无瑕的，完好的",
+      "examples": [
+        "I find the perfect pumpkin."
+      ],
+      "books": [
+        "The Fall Festival"
+      ]
+    },
+    {
+      "word": "horseshoe game",
+      "pos": "n",
+      "meaning": "掷马蹄铁游戏",
+      "examples": [
+        "We play the horseshoe game."
+      ],
+      "books": [
+        "The Fall Festival"
+      ]
+    },
+    {
+      "word": "prize",
+      "pos": "n",
+      "meaning": "奖品；奖项",
+      "examples": [
+        "We can win prizes."
+      ],
+      "books": [
+        "The Fall Festival"
+      ]
+    },
+    {
+      "word": "go first",
+      "pos": "phrase",
+      "meaning": "先走，先来",
+      "examples": [
+        "I go first."
+      ],
+      "books": [
+        "The Fall Festival"
+      ]
+    },
+    {
+      "word": "aim",
+      "pos": "v",
+      "meaning": "瞄准，对准",
+      "examples": [
+        "I aim."
+      ],
+      "books": [
+        "The Fall Festival"
+      ]
+    },
+    {
+      "word": "let go",
+      "pos": "phrase",
+      "meaning": "放开",
+      "examples": [
+        "I forgot to let go."
+      ],
+      "books": [
+        "The Fall Festival"
+      ]
+    },
+    {
+      "word": "every time",
+      "pos": "phrase",
+      "meaning": "每一次",
+      "examples": [
+        "He wins every time."
+      ],
+      "books": [
+        "The Fall Festival"
+      ]
+    },
+    {
+      "word": "pull",
+      "pos": "v",
+      "meaning": "拉，拽",
+      "examples": [
+        "Little Sister pulls the wagon."
+      ],
+      "books": [
+        "The Fall Festival"
+      ]
+    },
+    {
+      "word": "carry",
+      "pos": "v",
+      "meaning": "提，扛，背",
+      "examples": [
+        "Dad carries the pumpkin."
+      ],
+      "books": [
+        "The Fall Festival"
+      ]
+    },
+    {
+      "word": "too many",
+      "pos": "phrase",
+      "meaning": "太多",
+      "examples": [
+        "I ate too many apples."
+      ],
+      "books": [
+        "The Fall Festival"
+      ]
+    },
+    {
+      "word": "today",
+      "pos": "adv",
+      "meaning": "今天，今日",
+      "examples": [
+        "Today my class goes to the Sea Park."
+      ],
+      "books": [
+        "Going to The Sea Park"
+      ]
+    },
+    {
+      "word": "sea park",
+      "pos": "n",
+      "meaning": "海洋公园",
+      "examples": [
+        "Today my class goes to the Sea Park."
+      ],
+      "books": [
+        "Going to The Sea Park"
+      ]
+    },
+    {
+      "word": "ugly",
+      "pos": "adj",
+      "meaning": "丑陋的，难看的",
+      "examples": [
+        "Some fish are really ugly."
+      ],
+      "books": [
+        "Going to The Sea Park"
+      ]
+    },
+    {
+      "word": "petting tank",
+      "pos": "n",
+      "meaning": "养鱼的玻璃缸",
+      "examples": [
+        "We all go to the petting tank."
+      ],
+      "books": [
+        "Going to The Sea Park"
+      ]
+    },
+    {
+      "word": "horseshoe crab",
+      "pos": "n",
+      "meaning": "马蹄蟹",
+      "examples": [
+        "I pet a horseshoe crab."
+      ],
+      "books": [
+        "Going to The Sea Park"
+      ]
+    },
+    {
+      "word": "weird",
+      "pos": "adj",
+      "meaning": "奇怪的，不寻常的",
+      "examples": [
+        "That is weird!"
+      ],
+      "books": [
+        "Going to The Sea Park"
+      ]
+    },
+    {
+      "word": "octopus",
+      "pos": "n",
+      "meaning": "章鱼",
+      "examples": [
+        "He meets an octopus."
+      ],
+      "books": [
+        "Going to The Sea Park"
+      ]
+    },
+    {
+      "word": "lunchroom",
+      "pos": "n",
+      "meaning": "餐厅",
+      "examples": [
+        "Our teacher takes us to the lunchroom."
+      ],
+      "books": [
+        "Going to The Sea Park"
+      ]
+    },
+    {
+      "word": "swordfish",
+      "pos": "n",
+      "meaning": "剑鱼",
+      "examples": [
+        "They sell a swordfish burger on the menu."
+      ],
+      "books": [
+        "Going to The Sea Park"
+      ]
+    },
+    {
+      "word": "burger",
+      "pos": "n",
+      "meaning": "汉堡包",
+      "examples": [
+        "They sell a swordfish burger on the menu."
+      ],
+      "books": [
+        "Going to The Sea Park"
+      ]
+    },
+    {
+      "word": "menu",
+      "pos": "n",
+      "meaning": "菜单",
+      "examples": [
+        "They sell a swordfish burger on the menu."
+      ],
+      "books": [
+        "Going to The Sea Park"
+      ]
+    },
+    {
+      "word": "pirate ship",
+      "pos": "n",
+      "meaning": "海盗船",
+      "examples": [
+        "We go on a pretend pirate ship."
+      ],
+      "books": [
+        "Going to The Sea Park"
+      ]
+    },
+    {
+      "word": "steer",
+      "pos": "v",
+      "meaning": "驾驶",
+      "examples": [
+        "I steer the ship."
+      ],
+      "books": [
+        "Going to The Sea Park"
+      ]
+    },
+    {
+      "word": "scared",
+      "pos": "adj",
+      "meaning": "惊恐的",
+      "examples": [
+        "Bun Bun is scared."
+      ],
+      "books": [
+        "Going to The Sea Park"
+      ]
+    },
+    {
+      "word": "shark tank",
+      "pos": "n",
+      "meaning": "鲨鱼玻璃缸",
+      "examples": [
+        "We see the shark tank."
+      ],
+      "books": [
+        "Going to The Sea Park"
+      ]
+    },
+    {
+      "word": "would not like to",
+      "pos": "phrase",
+      "meaning": "不愿意做某事",
+      "examples": [
+        "I would not like to have lunch with a shark."
+      ],
+      "books": [
+        "Going to The Sea Park"
+      ]
+    },
+    {
+      "word": "whale",
+      "pos": "n",
+      "meaning": "鲸",
+      "examples": [
+        "We see baby whales eating fish."
+      ],
+      "books": [
+        "Going to The Sea Park"
+      ]
+    },
+    {
+      "word": "manatee",
+      "pos": "n",
+      "meaning": "海牛",
+      "examples": [
+        "We see manatees eating plants."
+      ],
+      "books": [
+        "Going to The Sea Park"
+      ]
+    },
+    {
+      "word": "seal show",
+      "pos": "n",
+      "meaning": "海豹表演",
+      "examples": [
+        "Next we go to the seal show."
+      ],
+      "books": [
+        "Going to The Sea Park"
+      ]
+    },
+    {
+      "word": "no one else",
+      "pos": "phrase",
+      "meaning": "没有其他人",
+      "examples": [
+        "No one else wants to."
+      ],
+      "books": [
+        "Going to The Sea Park"
+      ]
+    },
+    {
+      "word": "orca",
+      "pos": "n",
+      "meaning": "虎鲸",
+      "examples": [
+        "We see Bazoo the orca."
+      ],
+      "books": [
+        "Going to The Sea Park"
+      ]
+    },
+    {
+      "word": "in the front row",
+      "pos": "phrase",
+      "meaning": "最前面的一排",
+      "examples": [
+        "We sit in the front row."
+      ],
+      "books": [
+        "Going to The Sea Park"
+      ]
+    },
+    {
+      "word": "splash",
+      "pos": "v",
+      "meaning": "（被水）溅到",
+      "examples": [
+        "We get splashed with water."
+      ],
+      "books": [
+        "Going to The Sea Park"
+      ]
+    },
+    {
+      "word": "gift",
+      "pos": "n",
+      "meaning": "礼物",
+      "examples": [
+        "Everyone brings money from home to buy a gift."
+      ],
+      "books": [
+        "Going to The Sea Park"
+      ]
+    },
+    {
+      "word": "fuzzy",
+      "pos": "adj",
+      "meaning": "毛茸茸的",
+      "examples": [
+        "I buy a fuzzy orca."
+      ],
+      "books": [
+        "Going to The Sea Park"
+      ]
+    },
+    {
+      "word": "the best part",
+      "pos": "phrase",
+      "meaning": "最精彩的部分",
+      "examples": [
+        "Do you know what the best part was?"
+      ],
+      "books": [
+        "Going to The Sea Park"
       ]
     }
   ]
